@@ -60,18 +60,32 @@ jobs:
           ls -laR results || true
           echo "---- PDFs ----"
           ls -la *.pdf || true
-
+      
       - name: Commit results
+        env:
+          BRANCH_NAME: ${{ github.ref_name }}
         run: |
+          set -euxo pipefail
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add results
+      
+          # Stage EVERYTHING under results/ and any PDFs in the repo root.
+          git add -A results || true
+          # If you added the dated-PDF option (pdfs/...), this will stage that folder as well:
+          git add -A pdfs || true
+          # Stage root-level PDFs (pattern may not match every day, that's fine)
+          shopt -s nullglob
           git add *.pdf || true
-          if git diff --cached --quiet; then
-            echo "No changes to commit."
-          else:
+      
+          echo "---- git status ----"
+          git status --porcelain
+      
+          if [ -n "$(git status --porcelain)" ]; then
             git commit -m "daily(${{ env.TODAY }}): ETP candidates + PDF"
-            git push
+            # push explicitly to the current branch for reliability
+            git push origin HEAD:${BRANCH_NAME}
+          else
+            echo "No changes to commit (nothing staged)."
           fi
 
       - name: Upload artifacts
