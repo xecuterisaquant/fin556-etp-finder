@@ -1,0 +1,66 @@
+name: Daily ETP Candidates
+
+on:
+  schedule:
+    # Runs every day at 10:05 UTC (5:05 AM America/Chicago during CDT)
+    - cron: "5 10 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-commit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Determine TODAY (UTC)
+        run: echo "TODAY=$(date -u +%F)" >> $GITHUB_ENV
+
+      - name: Run finder (fetch nasdaqtraded + build results)
+        run: |
+          python algo_symbols_finder.py --outdir results --date "${{ env.TODAY }}"
+
+      - name: Build submission PDF
+        env:
+          NETID: ${{ secrets.NETID }}
+        run: |
+          if [ -z "$NETID" ]; then
+            echo "Warning: secrets.NETID not set. Using 'yournetid' in PDF filename."
+            NETID="yournetid"
+          fi
+          python make_submission_pdf.py --netid "$NETID" --prefix "results/${{ env.TODAY }}/etp_candidates"
+
+      - name: Commit results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add results
+          git add *.pdf || true
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else:
+            git commit -m "daily(${{ env.TODAY }}): ETP candidates + PDF"
+            git push
+          fi
+
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: daily-${{ env.TODAY }}
+          path: |
+            results/${{ env.TODAY }}/etp_candidates.csv
+            results/${{ env.TODAY }}/etp_candidates.json
+            *.pdf
