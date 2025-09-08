@@ -32,6 +32,14 @@ jobs:
       - name: Run finder (fetch nasdaqtraded + build results)
         run: |
           python algo_symbols_finder.py --outdir results --date "${{ env.TODAY }}"
+      - name: Lint syntax (quick)
+        run: |
+          python - <<'PY'
+          import ast, sys, pathlib
+          for p in ["algo_symbols_finder.py", "make_submission_pdf.py"]:
+              ast.parse(pathlib.Path(p).read_text(encoding="utf-8"))
+              print(f"OK: {p}")
+          PY
 
       - name: Build submission PDF
         env:
