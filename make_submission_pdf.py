@@ -46,7 +46,7 @@ def build_pdf(netid: str, outfile_prefix: str, dry_run: bool = False, results_pr
             f"Student NETID: {netid.lower()}\n"
             f"Generated: {datetime.now():%Y-%m-%d %H:%M}"
         )
-        _draw_text_page(pdf, "Submission PDF", cover, footer="This PDF contains source code + detected ETP symbols.")
+        _draw_text_page(pdf, "Submission PDF", cover, footer= "Repo: https://github.com/xecuterisaquant/fin556-etp-finder")
 
         # Source code (split across pages)
         code_text = Path('algo_symbols_finder.py').read_text(encoding='utf-8')
