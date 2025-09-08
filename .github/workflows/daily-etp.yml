@@ -51,6 +51,16 @@ jobs:
           fi
           python make_submission_pdf.py --netid "$NETID" --prefix "results/${{ env.TODAY }}/etp_candidates"
 
+      - name: Show outputs (debug)
+        run: |
+          echo "PWD=$(pwd)"
+          echo "Branch = ${{ github.ref_name }}"
+          ls -la
+          echo "---- results tree ----"
+          ls -laR results || true
+          echo "---- PDFs ----"
+          ls -la *.pdf || true
+
       - name: Commit results
         run: |
           git config user.name "github-actions[bot]"
