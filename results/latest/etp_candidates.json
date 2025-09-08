@@ -11,7 +11,7 @@
       "fut\/phys: \\b(gold|silver|platinum|palladium)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"AALG",
@@ -26,7 +26,7 @@
       "lev\/inv: \\bLeverage Shares\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"AAPB",
@@ -40,7 +40,7 @@
       "lev\/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"AAPD",
@@ -56,7 +56,7 @@
       "lev\/inv: \\bdirexion daily\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"AAPU",
@@ -72,7 +72,7 @@
       "lev\/inv: \\bdirexion daily\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"AAPX",
@@ -87,7 +87,7 @@
       "lev\/inv: \\bT[- ]?Rex\\b.*\\b2x\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"ADBG",
@@ -102,7 +102,7 @@
       "lev\/inv: \\bLeverage Shares\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"AGMI",
@@ -115,7 +115,7 @@
       "fut\/phys: \\b(gold|silver|platinum|palladium)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"AGQ",
@@ -130,7 +130,7 @@
       "fut\/phys: \\b(gold|silver|platinum|palladium)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"AIBD",
@@ -145,7 +145,7 @@
       "lev\/inv: \\bdirexion daily\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"AIBU",
@@ -160,7 +160,7 @@
       "lev\/inv: \\bdirexion daily\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"AMDD",
@@ -176,7 +176,7 @@
       "lev\/inv: \\bdirexion daily\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"AMDG",
@@ -191,7 +191,7 @@
       "lev\/inv: \\bLeverage Shares\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"AMDL",
@@ -205,7 +205,7 @@
       "lev\/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"AMUU",
@@ -221,7 +221,7 @@
       "lev\/inv: \\bdirexion daily\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"AMZD",
@@ -237,7 +237,7 @@
       "lev\/inv: \\bdirexion daily\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"AMZU",
@@ -253,7 +253,7 @@
       "lev\/inv: \\bdirexion daily\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"AMZZ",
@@ -267,7 +267,7 @@
       "lev\/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"ANEL",
@@ -281,7 +281,7 @@
       "lev\/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"APPX",
@@ -295,7 +295,7 @@
       "lev\/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"ARCX",
@@ -309,7 +309,7 @@
       "lev\/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"ARKB",
@@ -322,7 +322,7 @@
       "fut\/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"ARMG",
@@ -337,7 +337,7 @@
       "lev\/inv: \\bLeverage Shares\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"ARMU",
@@ -352,7 +352,7 @@
       "lev\/inv: \\bT[- ]?Rex\\b.*\\b2x\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"ARTY",
@@ -365,7 +365,7 @@
       "fut\/phys: \\bfuture(s)?\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"ASMG",
@@ -380,7 +380,7 @@
       "lev\/inv: \\bLeverage Shares\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"ASTX",
@@ -394,7 +394,7 @@
       "lev\/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"AUMI",
@@ -407,7 +407,7 @@
       "fut\/phys: \\b(gold|silver|platinum|palladium)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"AUSM",
@@ -420,7 +420,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"AVGG",
@@ -435,7 +435,7 @@
       "lev\/inv: \\bLeverage Shares\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"AVGU",
@@ -449,7 +449,7 @@
       "lev\/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"AVGX",
@@ -463,7 +463,7 @@
       "lev\/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"AVL",
@@ -479,7 +479,7 @@
       "lev\/inv: \\bdirexion daily\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"AVS",
@@ -495,7 +495,7 @@
       "lev\/inv: \\bdirexion daily\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"AVSF",
@@ -508,7 +508,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"BABX",
@@ -522,7 +522,7 @@
       "lev\/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"BAIG",
@@ -537,7 +537,7 @@
       "lev\/inv: \\bLeverage Shares\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"BAMU",
@@ -550,7 +550,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"BATT",
@@ -563,7 +563,7 @@
       "fut\/phys: \\b(uranium|lithium|nickel|copper|aluminum|zinc|tin)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"BBB",
@@ -576,7 +576,7 @@
       "fut\/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"BCCC",
@@ -589,7 +589,7 @@
       "fut\/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"BEGS",
@@ -603,7 +603,7 @@
       "lev\/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"BETE",
@@ -616,7 +616,7 @@
       "fut\/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"BETH",
@@ -629,7 +629,7 @@
       "fut\/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"BGLD",
@@ -642,7 +642,7 @@
       "fut\/phys: \\b(gold|silver|platinum|palladium)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"BIB",
@@ -655,7 +655,7 @@
       "lev\/inv: \\bproshares\\s+ultra\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"BILZ",
@@ -668,7 +668,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"BIS",
@@ -681,7 +681,7 @@
       "lev\/inv: short-inverse context"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"BITB",
@@ -694,7 +694,7 @@
       "fut\/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"BITC",
@@ -707,7 +707,7 @@
       "fut\/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"BITI",
@@ -723,7 +723,7 @@
       "fut\/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"BITO",
@@ -736,7 +736,7 @@
       "fut\/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"BITS",
@@ -749,7 +749,7 @@
       "fut\/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"BITY",
@@ -762,7 +762,7 @@
       "fut\/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"BKUI",
@@ -775,7 +775,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"BLST",
@@ -788,7 +788,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"BMAX",
@@ -801,7 +801,7 @@
       "fut\/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"BNO",
@@ -814,7 +814,7 @@
       "fut\/phys: \\b(wti|brent|crude oil|natural gas|gasoline|heating oil)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"BOED",
@@ -830,7 +830,7 @@
       "lev\/inv: \\bdirexion daily\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"BOEG",
@@ -845,7 +845,7 @@
       "lev\/inv: \\bLeverage Shares\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"BOEU",
@@ -861,7 +861,7 @@
       "lev\/inv: \\bdirexion daily\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"BOIL",
@@ -876,7 +876,7 @@
       "fut\/phys: \\b(wti|brent|crude oil|natural gas|gasoline|heating oil)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"BRKD",
@@ -892,7 +892,7 @@
       "lev\/inv: \\bdirexion daily\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"BRKU",
@@ -908,7 +908,7 @@
       "lev\/inv: \\bdirexion daily\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"BRRR",
@@ -921,7 +921,7 @@
       "fut\/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"BRZU",
@@ -937,7 +937,7 @@
       "lev\/inv: \\bdirexion daily\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"BSV",
@@ -950,7 +950,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"BTCL",
@@ -967,7 +967,7 @@
       "fut\/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"BTCO",
@@ -980,7 +980,7 @@
       "fut\/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"BTCW",
@@ -993,7 +993,7 @@
       "fut\/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"BTCZ",
@@ -1010,7 +1010,7 @@
       "fut\/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"BTF",
@@ -1023,7 +1023,7 @@
       "fut\/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"BTFX",
@@ -1036,7 +1036,7 @@
       "fut\/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"BTGD",
@@ -1050,7 +1050,7 @@
       "fut\/phys: \\b(gold|silver|platinum|palladium)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"BTOP",
@@ -1063,7 +1063,7 @@
       "fut\/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"BTRN",
@@ -1076,7 +1076,7 @@
       "fut\/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"BULD",
@@ -1089,7 +1089,7 @@
       "fut\/phys: \\bfuture(s)?\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"BULG",
@@ -1104,7 +1104,7 @@
       "lev\/inv: \\bLeverage Shares\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"BULU",
@@ -1119,7 +1119,7 @@
       "lev\/inv: \\bT[- ]?Rex\\b.*\\b2x\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"BULX",
@@ -1133,7 +1133,7 @@
       "lev\/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"BUXX",
@@ -1146,7 +1146,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"BWZ",
@@ -1159,7 +1159,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"BZQ",
@@ -1172,7 +1172,7 @@
       "lev\/inv: short-inverse context"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"CALI",
@@ -1185,7 +1185,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"CANE",
@@ -1198,7 +1198,7 @@
       "fut\/phys: \\b(corn|soybean|soybeans|wheat|coffee|sugar|cocoa|cotton|live cattle|lean hogs|feeder cattle)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"CCSB",
@@ -1211,7 +1211,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"CCUP",
@@ -1226,7 +1226,7 @@
       "lev\/inv: \\bT[- ]?Rex\\b.*\\b2x\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"CEGX",
@@ -1240,7 +1240,7 @@
       "lev\/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"CGSD",
@@ -1253,7 +1253,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"CGSM",
@@ -1266,7 +1266,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"CGUI",
@@ -1279,7 +1279,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"CHAU",
@@ -1294,7 +1294,7 @@
       "lev\/inv: \\bdirexion daily\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"CLIX",
@@ -1308,7 +1308,7 @@
       "lev\/inv: short-inverse context"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"CLSE",
@@ -1321,7 +1321,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"COIG",
@@ -1336,7 +1336,7 @@
       "lev\/inv: \\bLeverage Shares\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"COIO",
@@ -1350,7 +1350,7 @@
       "lev\/inv: \\bLeverage Shares\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"CONI",
@@ -1366,7 +1366,7 @@
       "lev\/inv: short-inverse context"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"CONL",
@@ -1380,7 +1380,7 @@
       "lev\/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"COPJ",
@@ -1393,7 +1393,7 @@
       "fut\/phys: \\b(uranium|lithium|nickel|copper|aluminum|zinc|tin)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"COPP",
@@ -1406,7 +1406,7 @@
       "fut\/phys: \\b(uranium|lithium|nickel|copper|aluminum|zinc|tin)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"COPX",
@@ -1419,7 +1419,7 @@
       "fut\/phys: \\b(uranium|lithium|nickel|copper|aluminum|zinc|tin)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"CORN",
@@ -1432,7 +1432,7 @@
       "fut\/phys: \\b(corn|soybean|soybeans|wheat|coffee|sugar|cocoa|cotton|live cattle|lean hogs|feeder cattle)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"CPER",
@@ -1445,7 +1445,7 @@
       "fut\/phys: \\b(uranium|lithium|nickel|copper|aluminum|zinc|tin)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"CRCA",
@@ -1458,7 +1458,7 @@
       "lev\/inv: \\bproshares\\s+ultra\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"CRCG",
@@ -1473,7 +1473,7 @@
       "lev\/inv: \\bLeverage Shares\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"CRMG",
@@ -1488,7 +1488,7 @@
       "lev\/inv: \\bLeverage Shares\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"CRSH",
@@ -1501,7 +1501,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"CRWG",
@@ -1516,7 +1516,7 @@
       "lev\/inv: \\bLeverage Shares\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"CRWL",
@@ -1530,7 +1530,7 @@
       "lev\/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"CRWU",
@@ -1545,7 +1545,7 @@
       "lev\/inv: \\bT[- ]?Rex\\b.*\\b2x\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"CSCL",
@@ -1561,7 +1561,7 @@
       "lev\/inv: \\bdirexion daily\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"CSCS",
@@ -1577,7 +1577,7 @@
       "lev\/inv: \\bdirexion daily\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"CSHP",
@@ -1590,7 +1590,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"CSTK",
@@ -1603,7 +1603,7 @@
       "fut\/phys: \\bfuture(s)?\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"CTA",
@@ -1616,7 +1616,7 @@
       "fut\/phys: \\bfuture(s)?\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"CURE",
@@ -1632,7 +1632,7 @@
       "lev\/inv: \\bdirexion daily\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"CVNX",
@@ -1646,7 +1646,7 @@
       "lev\/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"CVSB",
@@ -1659,7 +1659,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"CWEB",
@@ -1674,7 +1674,7 @@
       "lev\/inv: \\bdirexion daily\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"CWVX",
@@ -1688,7 +1688,7 @@
       "lev\/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"DBMF",
@@ -1701,7 +1701,7 @@
       "fut\/phys: \\bfuture(s)?\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"DDM",
@@ -1714,7 +1714,7 @@
       "lev\/inv: \\bproshares\\s+ultra\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"DFEN",
@@ -1729,7 +1729,7 @@
       "lev\/inv: \\bdirexion daily\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"DFSD",
@@ -1742,7 +1742,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"DIG",
@@ -1755,7 +1755,7 @@
       "lev\/inv: \\bproshares\\s+ultra\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"DIPS",
@@ -1768,7 +1768,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"DJTU",
@@ -1783,7 +1783,7 @@
       "lev\/inv: \\bT[- ]?Rex\\b.*\\b2x\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"DKNX",
@@ -1797,7 +1797,7 @@
       "lev\/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"DKUP",
@@ -1812,7 +1812,7 @@
       "lev\/inv: \\bT[- ]?Rex\\b.*\\b2x\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"DLLL",
@@ -1826,7 +1826,7 @@
       "lev\/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"DOG",
@@ -1840,7 +1840,7 @@
       "lev\/inv: short-inverse context"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"DOGD",
@@ -1854,7 +1854,7 @@
       "lev\/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"DPST",
@@ -1869,7 +1869,7 @@
       "lev\/inv: \\bdirexion daily\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"DRIP",
@@ -1884,7 +1884,7 @@
       "lev\/inv: \\bdirexion daily\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"DRN",
@@ -1899,7 +1899,7 @@
       "lev\/inv: \\bdirexion daily\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"DRV",
@@ -1914,7 +1914,7 @@
       "lev\/inv: \\bdirexion daily\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"DUG",
@@ -1927,7 +1927,7 @@
       "lev\/inv: short-inverse context"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"DUSL",
@@ -1943,7 +1943,7 @@
       "lev\/inv: \\bdirexion daily\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"DUST",
@@ -1960,7 +1960,7 @@
       "fut\/phys: \\b(gold|silver|platinum|palladium)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"DWSH",
@@ -1973,7 +1973,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"DXD",
@@ -1986,7 +1986,7 @@
       "lev\/inv: short-inverse context"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"EDC",
@@ -2000,7 +2000,7 @@
       "lev\/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"EDZ",
@@ -2014,7 +2014,7 @@
       "lev\/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"EET",
@@ -2027,7 +2027,7 @@
       "lev\/inv: \\bproshares\\s+ultra\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"EEV",
@@ -2040,7 +2040,7 @@
       "lev\/inv: short-inverse context"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"EFO",
@@ -2053,7 +2053,7 @@
       "lev\/inv: \\bproshares\\s+ultra\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"EFU",
@@ -2066,7 +2066,7 @@
       "lev\/inv: short-inverse context"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"EFZ",
@@ -2080,7 +2080,7 @@
       "lev\/inv: short-inverse context"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"EHLS",
@@ -2093,7 +2093,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"ELIL",
@@ -2109,7 +2109,7 @@
       "lev\/inv: \\bdirexion daily\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"ELIS",
@@ -2125,7 +2125,7 @@
       "lev\/inv: \\bdirexion daily\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"EMNT",
@@ -2138,7 +2138,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"EMSF",
@@ -2151,7 +2151,7 @@
       "fut\/phys: \\bfuture(s)?\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"EPV",
@@ -2164,7 +2164,7 @@
       "lev\/inv: short-inverse context"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"ERTH",
@@ -2177,7 +2177,7 @@
       "fut\/phys: \\bfuture(s)?\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"ERX",
@@ -2191,7 +2191,7 @@
       "lev\/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"ERY",
@@ -2207,7 +2207,7 @@
       "lev\/inv: \\bdirexion daily\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"ETHV",
@@ -2220,7 +2220,7 @@
       "fut\/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"ETHW",
@@ -2233,7 +2233,7 @@
       "fut\/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"ETQ",
@@ -2248,7 +2248,7 @@
       "lev\/inv: \\bInverse\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"ETRL",
@@ -2262,7 +2262,7 @@
       "lev\/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"ETU",
@@ -2277,7 +2277,7 @@
       "lev\/inv: \\bT[- ]?Rex\\b.*\\b2x\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"EUM",
@@ -2291,7 +2291,7 @@
       "lev\/inv: short-inverse context"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"EUO",
@@ -2304,7 +2304,7 @@
       "lev\/inv: short-inverse context"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"EURL",
@@ -2319,7 +2319,7 @@
       "lev\/inv: \\bdirexion daily\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"EVAV",
@@ -2334,7 +2334,7 @@
       "lev\/inv: \\bdirexion daily\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"EVSB",
@@ -2347,7 +2347,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"EVSD",
@@ -2360,7 +2360,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"EVSM",
@@ -2373,7 +2373,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"EWV",
@@ -2386,7 +2386,7 @@
       "lev\/inv: short-inverse context"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"EZET",
@@ -2399,7 +2399,7 @@
       "fut\/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"EZJ",
@@ -2412,7 +2412,7 @@
       "lev\/inv: \\bproshares\\s+ultra\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"FAS",
@@ -2426,7 +2426,7 @@
       "lev\/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"FAZ",
@@ -2440,7 +2440,7 @@
       "lev\/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"FBL",
@@ -2454,7 +2454,7 @@
       "lev\/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"FBTC",
@@ -2467,7 +2467,7 @@
       "fut\/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"FCSH",
@@ -2480,7 +2480,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"FDRV",
@@ -2493,7 +2493,7 @@
       "fut\/phys: \\bfuture(s)?\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"FETH",
@@ -2506,7 +2506,7 @@
       "fut\/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"FFLS",
@@ -2519,7 +2519,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"FFUT",
@@ -2532,7 +2532,7 @@
       "fut\/phys: \\bfuture(s)?\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"FHYS",
@@ -2545,7 +2545,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"FIAT",
@@ -2558,7 +2558,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"FITE",
@@ -2571,7 +2571,7 @@
       "fut\/phys: \\bfuture(s)?\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"FLUD",
@@ -2584,7 +2584,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"FNGG",
@@ -2599,7 +2599,7 @@
       "lev\/inv: \\bdirexion daily\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"FPAS",
@@ -2612,7 +2612,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"FRDD",
@@ -2628,7 +2628,7 @@
       "lev\/inv: \\bdirexion daily\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"FRDU",
@@ -2644,7 +2644,7 @@
       "lev\/inv: \\bdirexion daily\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"FSMB",
@@ -2657,7 +2657,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"FTLS",
@@ -2670,7 +2670,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"FTSD",
@@ -2683,7 +2683,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"FTSM",
@@ -2696,7 +2696,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"FUMB",
@@ -2709,7 +2709,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"FXP",
@@ -2722,7 +2722,7 @@
       "lev\/inv: short-inverse context"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"GBUG",
@@ -2735,7 +2735,7 @@
       "fut\/phys: \\b(gold|silver|platinum|palladium)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"GDOC",
@@ -2748,7 +2748,7 @@
       "fut\/phys: \\bfuture(s)?\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"GDX",
@@ -2761,7 +2761,7 @@
       "fut\/phys: \\b(gold|silver|platinum|palladium)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"GDXJ",
@@ -2774,7 +2774,7 @@
       "fut\/phys: \\b(gold|silver|platinum|palladium)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"GEVX",
@@ -2788,7 +2788,7 @@
       "lev\/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"GGLL",
@@ -2804,7 +2804,7 @@
       "lev\/inv: \\bdirexion daily\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"GGLS",
@@ -2820,7 +2820,7 @@
       "lev\/inv: \\bdirexion daily\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"GLDY",
@@ -2833,7 +2833,7 @@
       "fut\/phys: \\b(gold|silver|platinum|palladium)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"GLGG",
@@ -2848,7 +2848,7 @@
       "lev\/inv: \\bLeverage Shares\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"GLL",
@@ -2863,7 +2863,7 @@
       "fut\/phys: \\b(gold|silver|platinum|palladium)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"GLTR",
@@ -2876,7 +2876,7 @@
       "fut\/phys: \\b(physical|physically)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"GLXU",
@@ -2891,7 +2891,7 @@
       "lev\/inv: \\bT[- ]?Rex\\b.*\\b2x\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"GMEU",
@@ -2906,7 +2906,7 @@
       "lev\/inv: \\bT[- ]?Rex\\b.*\\b2x\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"GOAU",
@@ -2919,7 +2919,7 @@
       "fut\/phys: \\b(gold|silver|platinum|palladium)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"GOEX",
@@ -2932,7 +2932,7 @@
       "fut\/phys: \\b(gold|silver|platinum|palladium)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"GOLY",
@@ -2945,7 +2945,7 @@
       "fut\/phys: \\b(gold|silver|platinum|palladium)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"GOOX",
@@ -2960,7 +2960,7 @@
       "lev\/inv: \\bT[- ]?Rex\\b.*\\b2x\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"GSST",
@@ -2973,7 +2973,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"GSY",
@@ -2986,7 +2986,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"GTEK",
@@ -2999,7 +2999,7 @@
       "fut\/phys: \\bfuture(s)?\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"GTOC",
@@ -3012,7 +3012,7 @@
       "fut\/phys: \\bfuture(s)?\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"GTOS",
@@ -3025,7 +3025,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"GUSH",
@@ -3040,7 +3040,7 @@
       "lev\/inv: \\bdirexion daily\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"HFEQ",
@@ -3053,7 +3053,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"HIBL",
@@ -3068,7 +3068,7 @@
       "lev\/inv: \\bdirexion daily\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"HIBS",
@@ -3083,7 +3083,7 @@
       "lev\/inv: \\bdirexion daily\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"HIMZ",
@@ -3097,7 +3097,7 @@
       "lev\/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"HOOG",
@@ -3112,7 +3112,7 @@
       "lev\/inv: \\bLeverage Shares\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"HOOX",
@@ -3126,7 +3126,7 @@
       "lev\/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"HYSD",
@@ -3139,7 +3139,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"ICOP",
@@ -3152,7 +3152,7 @@
       "fut\/phys: \\b(uranium|lithium|nickel|copper|aluminum|zinc|tin)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"ICSH",
@@ -3165,7 +3165,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"IGLD",
@@ -3178,7 +3178,7 @@
       "fut\/phys: \\b(gold|silver|platinum|palladium)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"ILIT",
@@ -3191,7 +3191,7 @@
       "fut\/phys: \\b(uranium|lithium|nickel|copper|aluminum|zinc|tin)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"IMF",
@@ -3204,7 +3204,7 @@
       "fut\/phys: \\bfuture(s)?\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"INDL",
@@ -3219,7 +3219,7 @@
       "lev\/inv: \\bdirexion daily\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"INTM",
@@ -3232,7 +3232,7 @@
       "fut\/phys: \\bfuture(s)?\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"INTW",
@@ -3246,7 +3246,7 @@
       "lev\/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"IONL",
@@ -3260,7 +3260,7 @@
       "lev\/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"IONX",
@@ -3274,7 +3274,7 @@
       "lev\/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"IONZ",
@@ -3290,7 +3290,7 @@
       "lev\/inv: short-inverse context"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"IQSZ",
@@ -3303,7 +3303,7 @@
       "fut\/phys: \\bfuture(s)?\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"JDST",
@@ -3320,7 +3320,7 @@
       "fut\/phys: \\b(gold|silver|platinum|palladium)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"JMST",
@@ -3333,7 +3333,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"JNUG",
@@ -3350,7 +3350,7 @@
       "fut\/phys: \\b(gold|silver|platinum|palladium)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"JPST",
@@ -3363,7 +3363,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"JPX",
@@ -3377,7 +3377,7 @@
       "lev\/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"JSCP",
@@ -3390,7 +3390,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"KARS",
@@ -3403,7 +3403,7 @@
       "fut\/phys: \\bfuture(s)?\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"KBAB",
@@ -3417,7 +3417,7 @@
       "lev\/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"KCSH",
@@ -3430,7 +3430,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"KMLI",
@@ -3444,7 +3444,7 @@
       "lev\/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"KMLM",
@@ -3457,7 +3457,7 @@
       "fut\/phys: \\bfuture(s)?\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"KOLD",
@@ -3472,7 +3472,7 @@
       "fut\/phys: \\b(wti|brent|crude oil|natural gas|gasoline|heating oil)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"KORU",
@@ -3487,7 +3487,7 @@
       "lev\/inv: \\bdirexion daily\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"KPDD",
@@ -3501,7 +3501,7 @@
       "lev\/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"LABD",
@@ -3516,7 +3516,7 @@
       "lev\/inv: \\bdirexion daily\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"LABU",
@@ -3531,7 +3531,7 @@
       "lev\/inv: \\bdirexion daily\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"LABX",
@@ -3545,7 +3545,7 @@
       "lev\/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"LBAY",
@@ -3558,7 +3558,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"LCDL",
@@ -3572,7 +3572,7 @@
       "lev\/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"LIT",
@@ -3585,7 +3585,7 @@
       "fut\/phys: \\b(uranium|lithium|nickel|copper|aluminum|zinc|tin)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"LITP",
@@ -3598,7 +3598,7 @@
       "fut\/phys: \\b(uranium|lithium|nickel|copper|aluminum|zinc|tin)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"LLYX",
@@ -3612,7 +3612,7 @@
       "lev\/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"LLYZ",
@@ -3628,7 +3628,7 @@
       "lev\/inv: short-inverse context"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"LMBO",
@@ -3643,7 +3643,7 @@
       "lev\/inv: \\bdirexion daily\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"LMTL",
@@ -3659,7 +3659,7 @@
       "lev\/inv: \\bdirexion daily\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"LMTS",
@@ -3675,7 +3675,7 @@
       "lev\/inv: \\bdirexion daily\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"LRCU",
@@ -3689,7 +3689,7 @@
       "lev\/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"LSEQ",
@@ -3702,7 +3702,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"LTL",
@@ -3715,7 +3715,7 @@
       "lev\/inv: \\bproshares\\s+ultra\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"MAGX",
@@ -3729,7 +3729,7 @@
       "lev\/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"MAXI",
@@ -3742,7 +3742,7 @@
       "fut\/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"MDBX",
@@ -3756,7 +3756,7 @@
       "lev\/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"MEAR",
@@ -3769,7 +3769,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"METD",
@@ -3785,7 +3785,7 @@
       "lev\/inv: \\bdirexion daily\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"METU",
@@ -3801,7 +3801,7 @@
       "lev\/inv: \\bdirexion daily\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"MEXX",
@@ -3816,7 +3816,7 @@
       "lev\/inv: \\bdirexion daily\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"MIDU",
@@ -3830,7 +3830,7 @@
       "lev\/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"MINT",
@@ -3843,7 +3843,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"MMSD",
@@ -3856,7 +3856,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"MQQQ",
@@ -3870,7 +3870,7 @@
       "lev\/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"MRAL",
@@ -3884,7 +3884,7 @@
       "lev\/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"MSDD",
@@ -3900,7 +3900,7 @@
       "lev\/inv: short-inverse context"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"MSFD",
@@ -3916,7 +3916,7 @@
       "lev\/inv: \\bdirexion daily\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"MSFL",
@@ -3930,7 +3930,7 @@
       "lev\/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"MSFU",
@@ -3946,7 +3946,7 @@
       "lev\/inv: \\bdirexion daily\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"MSFX",
@@ -3961,7 +3961,7 @@
       "lev\/inv: \\bT[- ]?Rex\\b.*\\b2x\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"MSOO",
@@ -3975,7 +3975,7 @@
       "lev\/inv: \\bLeverage Shares\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"MSTI",
@@ -3988,7 +3988,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"MSTP",
@@ -4002,7 +4002,7 @@
       "lev\/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"MSTU",
@@ -4017,7 +4017,7 @@
       "lev\/inv: \\bT[- ]?Rex\\b.*\\b2x\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"MSTX",
@@ -4031,7 +4031,7 @@
       "lev\/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"MSTZ",
@@ -4046,7 +4046,7 @@
       "lev\/inv: \\bInverse\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"MTRA",
@@ -4059,7 +4059,7 @@
       "fut\/phys: \\bfuture(s)?\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"MUD",
@@ -4075,7 +4075,7 @@
       "lev\/inv: \\bdirexion daily\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"MULL",
@@ -4089,7 +4089,7 @@
       "lev\/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"MUU",
@@ -4105,7 +4105,7 @@
       "lev\/inv: \\bdirexion daily\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"MVLL",
@@ -4119,7 +4119,7 @@
       "lev\/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"MVV",
@@ -4132,7 +4132,7 @@
       "lev\/inv: \\bproshares\\s+ultra\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"MYY",
@@ -4146,7 +4146,7 @@
       "lev\/inv: short-inverse context"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"MZZ",
@@ -4159,7 +4159,7 @@
       "lev\/inv: short-inverse context"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"NAIL",
@@ -4174,7 +4174,7 @@
       "lev\/inv: \\bdirexion daily\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"NBSD",
@@ -4187,7 +4187,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"NEAR",
@@ -4200,7 +4200,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"NFLU",
@@ -4215,7 +4215,7 @@
       "lev\/inv: \\bT[- ]?Rex\\b.*\\b2x\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"NFXL",
@@ -4231,7 +4231,7 @@
       "lev\/inv: \\bdirexion daily\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"NFXS",
@@ -4247,7 +4247,7 @@
       "lev\/inv: \\bdirexion daily\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"NIKL",
@@ -4260,7 +4260,7 @@
       "fut\/phys: \\b(uranium|lithium|nickel|copper|aluminum|zinc|tin)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"NLR",
@@ -4273,7 +4273,7 @@
       "fut\/phys: \\b(uranium|lithium|nickel|copper|aluminum|zinc|tin)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"NOWL",
@@ -4287,7 +4287,7 @@
       "lev\/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"NUGT",
@@ -4302,7 +4302,7 @@
       "fut\/phys: \\b(gold|silver|platinum|palladium)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"NURE",
@@ -4315,7 +4315,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"NUSB",
@@ -4328,7 +4328,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"NVD",
@@ -4344,7 +4344,7 @@
       "lev\/inv: short-inverse context"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"NVDD",
@@ -4360,7 +4360,7 @@
       "lev\/inv: \\bdirexion daily\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"NVDG",
@@ -4375,7 +4375,7 @@
       "lev\/inv: \\bLeverage Shares\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"NVDL",
@@ -4389,7 +4389,7 @@
       "lev\/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"NVDO",
@@ -4403,7 +4403,7 @@
       "lev\/inv: \\bLeverage Shares\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"NVDQ",
@@ -4418,7 +4418,7 @@
       "lev\/inv: \\bInverse\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"NVDS",
@@ -4432,7 +4432,7 @@
       "lev\/inv: short-inverse context"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"NVDU",
@@ -4448,7 +4448,7 @@
       "lev\/inv: \\bdirexion daily\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"NVDX",
@@ -4463,7 +4463,7 @@
       "lev\/inv: \\bT[- ]?Rex\\b.*\\b2x\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"NVOX",
@@ -4477,7 +4477,7 @@
       "lev\/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"OILK",
@@ -4490,7 +4490,7 @@
       "fut\/phys: \\b(wti|brent|crude oil|natural gas|gasoline|heating oil)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"OKLL",
@@ -4504,7 +4504,7 @@
       "lev\/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"OOQB",
@@ -4517,7 +4517,7 @@
       "fut\/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"OOSB",
@@ -4530,7 +4530,7 @@
       "fut\/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"OPER",
@@ -4543,7 +4543,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"ORCX",
@@ -4557,7 +4557,7 @@
       "lev\/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"ORR",
@@ -4570,7 +4570,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"OUNZ",
@@ -4583,7 +4583,7 @@
       "fut\/phys: \\b(gold|silver|platinum|palladium)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"OVT",
@@ -4596,7 +4596,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"PALD",
@@ -4612,7 +4612,7 @@
       "lev\/inv: \\bdirexion daily\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"PALL",
@@ -4626,7 +4626,7 @@
       "fut\/phys: \\b(gold|silver|platinum|palladium)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"PALU",
@@ -4642,7 +4642,7 @@
       "lev\/inv: \\bdirexion daily\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"PANG",
@@ -4657,7 +4657,7 @@
       "lev\/inv: \\bLeverage Shares\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"PDDL",
@@ -4671,7 +4671,7 @@
       "lev\/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"PFUT",
@@ -4684,7 +4684,7 @@
       "fut\/phys: \\bfuture(s)?\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"PILL",
@@ -4699,7 +4699,7 @@
       "lev\/inv: \\bdirexion daily\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"PLOO",
@@ -4713,7 +4713,7 @@
       "lev\/inv: \\bLeverage Shares\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"PLTD",
@@ -4729,7 +4729,7 @@
       "lev\/inv: \\bdirexion daily\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"PLTG",
@@ -4744,7 +4744,7 @@
       "lev\/inv: \\bLeverage Shares\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"PLTM",
@@ -4757,7 +4757,7 @@
       "fut\/phys: \\b(gold|silver|platinum|palladium)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"PLTU",
@@ -4773,7 +4773,7 @@
       "lev\/inv: \\bdirexion daily\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"PLTZ",
@@ -4789,7 +4789,7 @@
       "lev\/inv: short-inverse context"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"PPLT",
@@ -4803,7 +4803,7 @@
       "fut\/phys: \\b(gold|silver|platinum|palladium)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"PSDM",
@@ -4816,7 +4816,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"PSH",
@@ -4829,7 +4829,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"PSQ",
@@ -4843,7 +4843,7 @@
       "lev\/inv: short-inverse context"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"PST",
@@ -4856,7 +4856,7 @@
       "lev\/inv: short-inverse context"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"PTIR",
@@ -4870,7 +4870,7 @@
       "lev\/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"PULS",
@@ -4883,7 +4883,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"PULT",
@@ -4896,7 +4896,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"PUSH",
@@ -4909,7 +4909,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"PYPG",
@@ -4924,7 +4924,7 @@
       "lev\/inv: \\bLeverage Shares\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"QBTX",
@@ -4938,7 +4938,7 @@
       "lev\/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"QCMD",
@@ -4954,7 +4954,7 @@
       "lev\/inv: \\bdirexion daily\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"QCML",
@@ -4968,7 +4968,7 @@
       "lev\/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"QCMU",
@@ -4984,7 +4984,7 @@
       "lev\/inv: \\bdirexion daily\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"QETH",
@@ -4997,7 +4997,7 @@
       "fut\/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"QID",
@@ -5010,7 +5010,7 @@
       "lev\/inv: short-inverse context"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"QLD",
@@ -5023,7 +5023,7 @@
       "lev\/inv: \\bproshares\\s+ultra\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"QPUX",
@@ -5036,7 +5036,7 @@
       "lev\/inv: (?<![A-Z0-9])[-\u2013\u2014]?\\s*2x(?![A-Z0-9])"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"QQDN",
@@ -5049,7 +5049,7 @@
       "lev\/inv: short-inverse context"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"QQQD",
@@ -5064,7 +5064,7 @@
       "lev\/inv: \\bdirexion daily\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"QQQP",
@@ -5078,7 +5078,7 @@
       "lev\/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"QQQS",
@@ -5091,7 +5091,7 @@
       "fut\/phys: \\bfuture(s)?\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"QQQU",
@@ -5106,7 +5106,7 @@
       "lev\/inv: \\bdirexion daily\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"QQUP",
@@ -5119,7 +5119,7 @@
       "lev\/inv: \\bproshares\\s+ultra\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"QQXL",
@@ -5132,7 +5132,7 @@
       "lev\/inv: \\bproshares\\s+ultra\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"QSIG",
@@ -5145,7 +5145,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"QUBX",
@@ -5159,7 +5159,7 @@
       "lev\/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"RAVI",
@@ -5172,7 +5172,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"RBLU",
@@ -5187,7 +5187,7 @@
       "lev\/inv: \\bT[- ]?Rex\\b.*\\b2x\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"RDTL",
@@ -5201,7 +5201,7 @@
       "lev\/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"REK",
@@ -5215,7 +5215,7 @@
       "lev\/inv: short-inverse context"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"REKT",
@@ -5230,7 +5230,7 @@
       "lev\/inv: \\bdirexion daily\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"RETL",
@@ -5246,7 +5246,7 @@
       "lev\/inv: \\bdirexion daily\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"REW",
@@ -5259,7 +5259,7 @@
       "lev\/inv: short-inverse context"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"RGTU",
@@ -5273,7 +5273,7 @@
       "lev\/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"RGTX",
@@ -5287,7 +5287,7 @@
       "lev\/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"RING",
@@ -5300,7 +5300,7 @@
       "fut\/phys: \\b(gold|silver|platinum|palladium)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"RIOX",
@@ -5314,7 +5314,7 @@
       "lev\/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"RKLX",
@@ -5328,7 +5328,7 @@
       "lev\/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"ROBN",
@@ -5343,7 +5343,7 @@
       "lev\/inv: \\bT[- ]?Rex\\b.*\\b2x\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"ROM",
@@ -5356,7 +5356,7 @@
       "lev\/inv: \\bproshares\\s+ultra\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"RSBT",
@@ -5369,7 +5369,7 @@
       "fut\/phys: \\bfuture(s)?\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"RTXG",
@@ -5384,7 +5384,7 @@
       "lev\/inv: \\bLeverage Shares\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"RVNL",
@@ -5398,7 +5398,7 @@
       "lev\/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"RWM",
@@ -5412,7 +5412,7 @@
       "lev\/inv: short-inverse context"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"RXD",
@@ -5425,7 +5425,7 @@
       "lev\/inv: short-inverse context"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"RXL",
@@ -5438,7 +5438,7 @@
       "lev\/inv: \\bproshares\\s+ultra\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"SAA",
@@ -5451,7 +5451,7 @@
       "lev\/inv: \\bproshares\\s+ultra\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"SARK",
@@ -5466,7 +5466,7 @@
       "lev\/inv: short-inverse context"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"SBB",
@@ -5480,7 +5480,7 @@
       "lev\/inv: short-inverse context"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"SBND",
@@ -5493,7 +5493,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"SCC",
@@ -5506,7 +5506,7 @@
       "lev\/inv: short-inverse context"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"SCHO",
@@ -5519,7 +5519,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"SCO",
@@ -5534,7 +5534,7 @@
       "fut\/phys: \\b(wti|brent|crude oil|natural gas|gasoline|heating oil)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"SCUS",
@@ -5547,7 +5547,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"SDCP",
@@ -5560,7 +5560,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"SDD",
@@ -5573,7 +5573,7 @@
       "lev\/inv: short-inverse context"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"SDFI",
@@ -5586,7 +5586,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"SDOW",
@@ -5600,7 +5600,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"SDP",
@@ -5613,7 +5613,7 @@
       "lev\/inv: short-inverse context"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"SDS",
@@ -5626,7 +5626,7 @@
       "lev\/inv: short-inverse context"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"SDSI",
@@ -5639,7 +5639,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"SEF",
@@ -5653,7 +5653,7 @@
       "lev\/inv: short-inverse context"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"SETH",
@@ -5667,7 +5667,7 @@
       "lev\/inv: short-inverse context"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"SGDJ",
@@ -5680,7 +5680,7 @@
       "fut\/phys: \\b(gold|silver|platinum|palladium)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"SGDM",
@@ -5693,7 +5693,7 @@
       "fut\/phys: \\b(gold|silver|platinum|palladium)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"SGOL",
@@ -5707,7 +5707,7 @@
       "fut\/phys: \\b(gold|silver|platinum|palladium)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"SH",
@@ -5721,7 +5721,7 @@
       "lev\/inv: short-inverse context"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"SHAG",
@@ -5734,7 +5734,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"SHM",
@@ -5747,7 +5747,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"SHPD",
@@ -5763,7 +5763,7 @@
       "lev\/inv: \\bdirexion daily\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"SHPU",
@@ -5779,7 +5779,7 @@
       "lev\/inv: \\bdirexion daily\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"SHRT",
@@ -5792,7 +5792,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"SHV",
@@ -5805,7 +5805,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"SHYD",
@@ -5818,7 +5818,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"SHYL",
@@ -5831,7 +5831,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"SHYM",
@@ -5844,7 +5844,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"SIJ",
@@ -5857,7 +5857,7 @@
       "lev\/inv: short-inverse context"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"SIL",
@@ -5870,7 +5870,7 @@
       "fut\/phys: \\b(gold|silver|platinum|palladium)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"SIVR",
@@ -5884,7 +5884,7 @@
       "fut\/phys: \\b(gold|silver|platinum|palladium)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"SJB",
@@ -5898,7 +5898,7 @@
       "lev\/inv: short-inverse context"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"SJNK",
@@ -5911,7 +5911,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"SKF",
@@ -5924,7 +5924,7 @@
       "lev\/inv: short-inverse context"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"SKRE",
@@ -5938,7 +5938,7 @@
       "lev\/inv: \\bInverse\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"SKYU",
@@ -5951,7 +5951,7 @@
       "lev\/inv: \\bproshares\\s+ultra\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"SLDR",
@@ -5964,7 +5964,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"SLON",
@@ -5977,7 +5977,7 @@
       "lev\/inv: \\bproshares\\s+ultra\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"SLTY",
@@ -5990,7 +5990,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"SLVP",
@@ -6003,7 +6003,7 @@
       "fut\/phys: \\b(gold|silver|platinum|palladium)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"SLVR",
@@ -6017,7 +6017,7 @@
       "fut\/phys: \\b(gold|silver|platinum|palladium)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"SMB",
@@ -6030,7 +6030,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"SMCL",
@@ -6044,7 +6044,7 @@
       "lev\/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"SMCX",
@@ -6058,7 +6058,7 @@
       "lev\/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"SMCZ",
@@ -6074,7 +6074,7 @@
       "lev\/inv: short-inverse context"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"SMDD",
@@ -6088,7 +6088,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"SMMU",
@@ -6101,7 +6101,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"SMN",
@@ -6114,7 +6114,7 @@
       "lev\/inv: short-inverse context"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"SMST",
@@ -6130,7 +6130,7 @@
       "lev\/inv: short-inverse context"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"SMU",
@@ -6144,7 +6144,7 @@
       "lev\/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"SMUP",
@@ -6159,7 +6159,7 @@
       "lev\/inv: \\bT[- ]?Rex\\b.*\\b2x\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"SNOU",
@@ -6174,7 +6174,7 @@
       "lev\/inv: \\bT[- ]?Rex\\b.*\\b2x\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"SOFL",
@@ -6187,7 +6187,7 @@
       "lev\/inv: (?<![A-Z0-9])[-\u2013\u2014]?\\s*2x(?![A-Z0-9])"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"SOFX",
@@ -6201,7 +6201,7 @@
       "lev\/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"SOLT",
@@ -6214,7 +6214,7 @@
       "lev\/inv: (?<![A-Z0-9])[-\u2013\u2014]?\\s*2x(?![A-Z0-9])"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"SOUX",
@@ -6228,7 +6228,7 @@
       "lev\/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"SOXL",
@@ -6244,7 +6244,7 @@
       "lev\/inv: \\bdirexion daily\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"SOXS",
@@ -6260,7 +6260,7 @@
       "lev\/inv: \\bdirexion daily\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"SOYB",
@@ -6273,7 +6273,7 @@
       "fut\/phys: \\b(corn|soybean|soybeans|wheat|coffee|sugar|cocoa|cotton|live cattle|lean hogs|feeder cattle)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"SPBC",
@@ -6286,7 +6286,7 @@
       "fut\/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"SPDN",
@@ -6301,7 +6301,7 @@
       "lev\/inv: \\bdirexion daily\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"SPSB",
@@ -6314,7 +6314,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"SPTS",
@@ -6327,7 +6327,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"SPUU",
@@ -6342,7 +6342,7 @@
       "lev\/inv: \\bdirexion daily\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"SPXL",
@@ -6357,7 +6357,7 @@
       "lev\/inv: \\bdirexion daily\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"SPXS",
@@ -6372,7 +6372,7 @@
       "lev\/inv: \\bdirexion daily\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"SPXU",
@@ -6387,7 +6387,7 @@
       "lev\/inv: short-inverse context"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"SPYQ",
@@ -6401,7 +6401,7 @@
       "lev\/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"SQQQ",
@@ -6416,7 +6416,7 @@
       "lev\/inv: short-inverse context"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"SRS",
@@ -6429,7 +6429,7 @@
       "lev\/inv: short-inverse context"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"SRTY",
@@ -6444,7 +6444,7 @@
       "lev\/inv: short-inverse context"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"SSG",
@@ -6457,7 +6457,7 @@
       "lev\/inv: short-inverse context"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"SSO",
@@ -6470,7 +6470,7 @@
       "lev\/inv: \\bproshares\\s+ultra\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"STAX",
@@ -6483,7 +6483,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"STBF",
@@ -6496,7 +6496,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"STOT",
@@ -6509,7 +6509,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"SUB",
@@ -6522,7 +6522,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"SVIX",
@@ -6540,7 +6540,7 @@
       "fut\/phys: \\b(vix|cboe volatility)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"SVXY",
@@ -6556,7 +6556,7 @@
       "fut\/phys: \\b(vix|cboe volatility)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"SYFI",
@@ -6569,7 +6569,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"SZK",
@@ -6582,7 +6582,7 @@
       "lev\/inv: short-inverse context"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"TAFI",
@@ -6595,7 +6595,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"TARK",
@@ -6609,7 +6609,7 @@
       "lev\/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"TAXS",
@@ -6622,7 +6622,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"TAXX",
@@ -6635,7 +6635,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"TBF",
@@ -6649,7 +6649,7 @@
       "lev\/inv: short-inverse context"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"TBLL",
@@ -6662,7 +6662,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"TBT",
@@ -6675,7 +6675,7 @@
       "lev\/inv: short-inverse context"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"TBUX",
@@ -6688,7 +6688,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"TBX",
@@ -6702,7 +6702,7 @@
       "lev\/inv: short-inverse context"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"TECL",
@@ -6716,7 +6716,7 @@
       "lev\/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"TECS",
@@ -6730,7 +6730,7 @@
       "lev\/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"TEMT",
@@ -6744,7 +6744,7 @@
       "lev\/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"TETH",
@@ -6757,7 +6757,7 @@
       "fut\/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"TMF",
@@ -6772,7 +6772,7 @@
       "lev\/inv: \\bdirexion daily\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"TMV",
@@ -6787,7 +6787,7 @@
       "lev\/inv: \\bdirexion daily\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"TNA",
@@ -6801,7 +6801,7 @@
       "lev\/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"TOAK",
@@ -6814,7 +6814,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"TPOR",
@@ -6830,7 +6830,7 @@
       "lev\/inv: \\bdirexion daily\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"TQQQ",
@@ -6843,7 +6843,7 @@
       "lev\/inv: \\bultrapro\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"TSDD",
@@ -6859,7 +6859,7 @@
       "lev\/inv: short-inverse context"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"TSLG",
@@ -6874,7 +6874,7 @@
       "lev\/inv: \\bLeverage Shares\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"TSLL",
@@ -6890,7 +6890,7 @@
       "lev\/inv: \\bdirexion daily\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"TSLO",
@@ -6904,7 +6904,7 @@
       "lev\/inv: \\bLeverage Shares\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"TSLQ",
@@ -6920,7 +6920,7 @@
       "lev\/inv: short-inverse context"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"TSLR",
@@ -6934,7 +6934,7 @@
       "lev\/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"TSLS",
@@ -6950,7 +6950,7 @@
       "lev\/inv: \\bdirexion daily\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"TSLT",
@@ -6965,7 +6965,7 @@
       "lev\/inv: \\bT[- ]?Rex\\b.*\\b2x\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"TSLZ",
@@ -6980,7 +6980,7 @@
       "lev\/inv: \\bInverse\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"TSMG",
@@ -6995,7 +6995,7 @@
       "lev\/inv: \\bLeverage Shares\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"TSMU",
@@ -7009,7 +7009,7 @@
       "lev\/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"TSMX",
@@ -7025,7 +7025,7 @@
       "lev\/inv: \\bdirexion daily\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"TSMZ",
@@ -7041,7 +7041,7 @@
       "lev\/inv: \\bdirexion daily\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"TTT",
@@ -7056,7 +7056,7 @@
       "lev\/inv: short-inverse context"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"TUA",
@@ -7071,7 +7071,7 @@
       "fut\/phys: \\bfuture(s)?\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"TUSB",
@@ -7084,7 +7084,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"TUSI",
@@ -7097,7 +7097,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"TWM",
@@ -7110,7 +7110,7 @@
       "lev\/inv: short-inverse context"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"TYA",
@@ -7123,7 +7123,7 @@
       "fut\/phys: \\bfuture(s)?\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"TYD",
@@ -7138,7 +7138,7 @@
       "lev\/inv: \\bdirexion daily\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"TYO",
@@ -7153,7 +7153,7 @@
       "lev\/inv: \\bdirexion daily\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"TZA",
@@ -7167,7 +7167,7 @@
       "lev\/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"UBOT",
@@ -7182,7 +7182,7 @@
       "lev\/inv: \\bdirexion daily\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"UBR",
@@ -7195,7 +7195,7 @@
       "lev\/inv: \\bproshares\\s+ultra\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"UBRL",
@@ -7209,7 +7209,7 @@
       "lev\/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"UBT",
@@ -7222,7 +7222,7 @@
       "lev\/inv: \\bproshares\\s+ultra\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"UCC",
@@ -7235,7 +7235,7 @@
       "lev\/inv: \\bproshares\\s+ultra\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"UCO",
@@ -7250,7 +7250,7 @@
       "fut\/phys: \\b(wti|brent|crude oil|natural gas|gasoline|heating oil)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"UCYB",
@@ -7263,7 +7263,7 @@
       "lev\/inv: \\bproshares\\s+ultra\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"UDOW",
@@ -7276,7 +7276,7 @@
       "lev\/inv: \\bultrapro\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"UGA",
@@ -7290,7 +7290,7 @@
       "fut\/phys: \\bUnited States (Oil|Natural Gas|Gasoline|Heating Oil) Fund\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"UGE",
@@ -7303,7 +7303,7 @@
       "lev\/inv: \\bproshares\\s+ultra\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"UGL",
@@ -7318,7 +7318,7 @@
       "fut\/phys: \\b(gold|silver|platinum|palladium)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"UJB",
@@ -7331,7 +7331,7 @@
       "lev\/inv: \\bproshares\\s+ultra\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"ULE",
@@ -7344,7 +7344,7 @@
       "lev\/inv: \\bproshares\\s+ultra\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"ULST",
@@ -7357,7 +7357,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"UMDD",
@@ -7370,7 +7370,7 @@
       "lev\/inv: \\bultrapro\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"UNG",
@@ -7384,7 +7384,7 @@
       "fut\/phys: \\bUnited States (Oil|Natural Gas|Gasoline|Heating Oil) Fund\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"UNHG",
@@ -7399,7 +7399,7 @@
       "lev\/inv: \\bLeverage Shares\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"UNL",
@@ -7412,7 +7412,7 @@
       "fut\/phys: \\b(wti|brent|crude oil|natural gas|gasoline|heating oil)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"UPRO",
@@ -7425,7 +7425,7 @@
       "lev\/inv: \\bultrapro\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"UPSX",
@@ -7439,7 +7439,7 @@
       "lev\/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"UPV",
@@ -7452,7 +7452,7 @@
       "lev\/inv: \\bproshares\\s+ultra\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"UPW",
@@ -7465,7 +7465,7 @@
       "lev\/inv: \\bproshares\\s+ultra\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"URA",
@@ -7478,7 +7478,7 @@
       "fut\/phys: \\b(uranium|lithium|nickel|copper|aluminum|zinc|tin)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"URE",
@@ -7491,7 +7491,7 @@
       "lev\/inv: \\bproshares\\s+ultra\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"URNJ",
@@ -7504,7 +7504,7 @@
       "fut\/phys: \\b(uranium|lithium|nickel|copper|aluminum|zinc|tin)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"URNM",
@@ -7517,7 +7517,7 @@
       "fut\/phys: \\b(uranium|lithium|nickel|copper|aluminum|zinc|tin)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"URSP",
@@ -7530,7 +7530,7 @@
       "lev\/inv: \\bproshares\\s+ultra\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"URTY",
@@ -7543,7 +7543,7 @@
       "lev\/inv: \\bultrapro\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"USD",
@@ -7556,7 +7556,7 @@
       "lev\/inv: \\bproshares\\s+ultra\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"USG",
@@ -7569,7 +7569,7 @@
       "fut\/phys: \\b(gold|silver|platinum|palladium)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"USO",
@@ -7582,7 +7582,7 @@
       "fut\/phys: \\bUnited States (Oil|Natural Gas|Gasoline|Heating Oil) Fund\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"UST",
@@ -7595,7 +7595,7 @@
       "lev\/inv: \\bproshares\\s+ultra\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"USTB",
@@ -7608,7 +7608,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"UTSL",
@@ -7624,7 +7624,7 @@
       "lev\/inv: \\bdirexion daily\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"UVIX",
@@ -7641,7 +7641,7 @@
       "fut\/phys: \\b(vix|cboe volatility)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"UWM",
@@ -7654,7 +7654,7 @@
       "lev\/inv: \\bproshares\\s+ultra\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"UXI",
@@ -7667,7 +7667,7 @@
       "lev\/inv: \\bproshares\\s+ultra\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"UXRP",
@@ -7680,7 +7680,7 @@
       "lev\/inv: \\bproshares\\s+ultra\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"UYG",
@@ -7693,7 +7693,7 @@
       "lev\/inv: \\bproshares\\s+ultra\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"UYM",
@@ -7706,7 +7706,7 @@
       "lev\/inv: \\bproshares\\s+ultra\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"VCSH",
@@ -7719,7 +7719,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"VGSH",
@@ -7732,7 +7732,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"VGUS",
@@ -7745,7 +7745,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"VNLA",
@@ -7758,7 +7758,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"VRTL",
@@ -7772,7 +7772,7 @@
       "lev\/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"VSDB",
@@ -7785,7 +7785,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"VSDM",
@@ -7798,7 +7798,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"VSHY",
@@ -7811,7 +7811,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"VSTL",
@@ -7825,7 +7825,7 @@
       "lev\/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"VTES",
@@ -7838,7 +7838,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"VTIP",
@@ -7851,7 +7851,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"VUSB",
@@ -7864,7 +7864,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"WANT",
@@ -7879,7 +7879,7 @@
       "lev\/inv: \\bdirexion daily\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"WEAT",
@@ -7892,7 +7892,7 @@
       "fut\/phys: \\b(corn|soybean|soybeans|wheat|coffee|sugar|cocoa|cotton|live cattle|lean hogs|feeder cattle)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"WEBL",
@@ -7907,7 +7907,7 @@
       "lev\/inv: \\bdirexion daily\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"WEBS",
@@ -7922,7 +7922,7 @@
       "lev\/inv: \\bdirexion daily\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"WGMI",
@@ -7935,7 +7935,7 @@
       "fut\/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"WILD",
@@ -7948,7 +7948,7 @@
       "lev\/inv: (?<![A-Z0-9])[-\u2013\u2014]?\\s*2x(?![A-Z0-9])"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"WNTR",
@@ -7961,7 +7961,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"WTMF",
@@ -7974,7 +7974,7 @@
       "fut\/phys: \\bfuture(s)?\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"XBTY",
@@ -7987,7 +7987,7 @@
       "fut\/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"XOMX",
@@ -8003,7 +8003,7 @@
       "lev\/inv: \\bdirexion daily\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"XOMZ",
@@ -8019,7 +8019,7 @@
       "lev\/inv: \\bdirexion daily\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"XPP",
@@ -8032,7 +8032,7 @@
       "lev\/inv: \\bproshares\\s+ultra\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"XXCH",
@@ -8047,7 +8047,7 @@
       "lev\/inv: \\bdirexion daily\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"XXRP",
@@ -8061,7 +8061,7 @@
       "lev\/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"XYZG",
@@ -8076,7 +8076,7 @@
       "lev\/inv: \\bLeverage Shares\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"YANG",
@@ -8091,7 +8091,7 @@
       "lev\/inv: \\bdirexion daily\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"YCL",
@@ -8104,7 +8104,7 @@
       "lev\/inv: \\bproshares\\s+ultra\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"YCS",
@@ -8117,7 +8117,7 @@
       "lev\/inv: short-inverse context"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"YEAR",
@@ -8130,7 +8130,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"YGLD",
@@ -8143,7 +8143,7 @@
       "fut\/phys: \\b(gold|silver|platinum|palladium)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"YINN",
@@ -8158,7 +8158,7 @@
       "lev\/inv: \\bdirexion daily\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"YQQQ",
@@ -8171,7 +8171,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"YXI",
@@ -8185,7 +8185,7 @@
       "lev\/inv: short-inverse context"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"ZSL",
@@ -8200,7 +8200,7 @@
       "fut\/phys: \\b(gold|silver|platinum|palladium)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"ZYN",
@@ -8214,7 +8214,7 @@
       "lev\/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b"
     ],
     "etp_type":"ETF",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"BERZ",
@@ -8228,7 +8228,7 @@
       "lev\/inv: \\bInverse\\b"
     ],
     "etp_type":"ETN",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"BNKD",
@@ -8241,7 +8241,7 @@
       "lev\/inv: \\bInverse\\b"
     ],
     "etp_type":"ETN",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"BULZ",
@@ -8254,7 +8254,7 @@
       "lev\/inv: (?<![A-Z0-9])[-\u2013\u2014]?\\s*3x(?![A-Z0-9])"
     ],
     "etp_type":"ETN",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"CARD",
@@ -8268,7 +8268,7 @@
       "lev\/inv: \\bInverse\\b"
     ],
     "etp_type":"ETN",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"CARU",
@@ -8281,7 +8281,7 @@
       "lev\/inv: (?<![A-Z0-9])[-\u2013\u2014]?\\s*3x(?![A-Z0-9])"
     ],
     "etp_type":"ETN",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"DGP",
@@ -8294,7 +8294,7 @@
       "fut\/phys: \\b(gold|silver|platinum|palladium)\\b"
     ],
     "etp_type":"ETN",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"DGZ",
@@ -8309,7 +8309,7 @@
       "fut\/phys: \\b(gold|silver|platinum|palladium)\\b"
     ],
     "etp_type":"ETN",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"DULL",
@@ -8325,7 +8325,7 @@
       "fut\/phys: \\b(gold|silver|platinum|palladium)\\b"
     ],
     "etp_type":"ETN",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"DZZ",
@@ -8340,7 +8340,7 @@
       "fut\/phys: \\b(gold|silver|platinum|palladium)\\b"
     ],
     "etp_type":"ETN",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"FLYD",
@@ -8354,7 +8354,7 @@
       "lev\/inv: \\bInverse\\b"
     ],
     "etp_type":"ETN",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"FLYU",
@@ -8367,7 +8367,7 @@
       "lev\/inv: (?<![A-Z0-9])[-\u2013\u2014]?\\s*3x(?![A-Z0-9])"
     ],
     "etp_type":"ETN",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"FNGD",
@@ -8381,7 +8381,7 @@
       "lev\/inv: \\bInverse\\b"
     ],
     "etp_type":"ETN",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"FNGO",
@@ -8394,7 +8394,7 @@
       "lev\/inv: (?<![A-Z0-9])[-\u2013\u2014]?\\s*2x(?![A-Z0-9])"
     ],
     "etp_type":"ETN",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"FNGU",
@@ -8407,7 +8407,7 @@
       "lev\/inv: (?<![A-Z0-9])[-\u2013\u2014]?\\s*3x(?![A-Z0-9])"
     ],
     "etp_type":"ETN",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"GDXD",
@@ -8423,7 +8423,7 @@
       "fut\/phys: \\b(gold|silver|platinum|palladium)\\b"
     ],
     "etp_type":"ETN",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"GDXU",
@@ -8438,7 +8438,7 @@
       "fut\/phys: \\b(gold|silver|platinum|palladium)\\b"
     ],
     "etp_type":"ETN",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"GLDI",
@@ -8451,7 +8451,7 @@
       "fut\/phys: \\b(gold|silver|platinum|palladium)\\b"
     ],
     "etp_type":"ETN",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"IWDL",
@@ -8464,7 +8464,7 @@
       "lev\/inv: (?<![A-Z0-9])[-\u2013\u2014]?\\s*2x(?![A-Z0-9])"
     ],
     "etp_type":"ETN",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"IWFL",
@@ -8477,7 +8477,7 @@
       "lev\/inv: (?<![A-Z0-9])[-\u2013\u2014]?\\s*2x(?![A-Z0-9])"
     ],
     "etp_type":"ETN",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"IWML",
@@ -8490,7 +8490,7 @@
       "lev\/inv: (?<![A-Z0-9])[-\u2013\u2014]?\\s*2x(?![A-Z0-9])"
     ],
     "etp_type":"ETN",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"JETD",
@@ -8504,7 +8504,7 @@
       "lev\/inv: \\bInverse\\b"
     ],
     "etp_type":"ETN",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"JETU",
@@ -8517,7 +8517,7 @@
       "lev\/inv: (?<![A-Z0-9])[-\u2013\u2014]?\\s*3x(?![A-Z0-9])"
     ],
     "etp_type":"ETN",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"MTUL",
@@ -8530,7 +8530,7 @@
       "lev\/inv: (?<![A-Z0-9])[-\u2013\u2014]?\\s*2x(?![A-Z0-9])"
     ],
     "etp_type":"ETN",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"NRGD",
@@ -8543,7 +8543,7 @@
       "lev\/inv: \\bInverse\\b"
     ],
     "etp_type":"ETN",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"OILD",
@@ -8557,7 +8557,7 @@
       "lev\/inv: \\bInverse\\b"
     ],
     "etp_type":"ETN",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"OILU",
@@ -8570,7 +8570,7 @@
       "lev\/inv: (?<![A-Z0-9])[-\u2013\u2014]?\\s*3x(?![A-Z0-9])"
     ],
     "etp_type":"ETN",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"QULL",
@@ -8583,7 +8583,7 @@
       "lev\/inv: (?<![A-Z0-9])[-\u2013\u2014]?\\s*2x(?![A-Z0-9])"
     ],
     "etp_type":"ETN",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"SCDL",
@@ -8596,7 +8596,7 @@
       "lev\/inv: (?<![A-Z0-9])[-\u2013\u2014]?\\s*2x(?![A-Z0-9])"
     ],
     "etp_type":"ETN",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"SHNY",
@@ -8611,7 +8611,7 @@
       "fut\/phys: \\b(gold|silver|platinum|palladium)\\b"
     ],
     "etp_type":"ETN",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"SLVO",
@@ -8624,7 +8624,7 @@
       "fut\/phys: \\b(gold|silver|platinum|palladium)\\b"
     ],
     "etp_type":"ETN",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"SMHB",
@@ -8637,7 +8637,7 @@
       "lev\/inv: (?<![A-Z0-9])[-\u2013\u2014]?\\s*2x(?![A-Z0-9])"
     ],
     "etp_type":"ETN",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"USML",
@@ -8650,7 +8650,7 @@
       "lev\/inv: (?<![A-Z0-9])[-\u2013\u2014]?\\s*2x(?![A-Z0-9])"
     ],
     "etp_type":"ETN",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"USOI",
@@ -8663,7 +8663,7 @@
       "fut\/phys: \\b(wti|brent|crude oil|natural gas|gasoline|heating oil)\\b"
     ],
     "etp_type":"ETN",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"VXX",
@@ -8679,7 +8679,7 @@
       "fut\/phys: \\b(vix|cboe volatility)\\b"
     ],
     "etp_type":"ETN",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"VXZ",
@@ -8693,7 +8693,7 @@
       "fut\/phys: \\b(vix|cboe volatility)\\b"
     ],
     "etp_type":"ETN",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"VYLD",
@@ -8710,7 +8710,7 @@
       "fut\/phys: \\b(vix|cboe volatility)\\b"
     ],
     "etp_type":"ETN",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"WTID",
@@ -8724,7 +8724,7 @@
       "lev\/inv: \\bInverse\\b"
     ],
     "etp_type":"ETN",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"WTIU",
@@ -8737,7 +8737,7 @@
       "lev\/inv: (?<![A-Z0-9])[-\u2013\u2014]?\\s*3x(?![A-Z0-9])"
     ],
     "etp_type":"ETN",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"CPZ",
@@ -8750,7 +8750,7 @@
       "lev\/inv: \\bshort\\b"
     ],
     "etp_type":"Other ETP",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"ABR-F",
@@ -8763,7 +8763,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"ADAML",
@@ -8776,7 +8776,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"ADAMM",
@@ -8789,7 +8789,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"ADAMN",
@@ -8802,7 +8802,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"ARKA",
@@ -8817,7 +8817,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"ARKZ",
@@ -8832,7 +8832,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"BAGY",
@@ -8846,7 +8846,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"BAR",
@@ -8860,7 +8860,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"BCOR",
@@ -8874,7 +8874,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"BFAP",
@@ -8888,7 +8888,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"BFJL",
@@ -8902,7 +8902,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"BGT",
@@ -8915,7 +8915,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"BITU",
@@ -8931,7 +8931,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"BITX",
@@ -8947,7 +8947,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"BPI",
@@ -8961,7 +8961,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"BTC",
@@ -8975,7 +8975,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"BTCC",
@@ -8989,7 +8989,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"BTCI",
@@ -9003,7 +9003,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"C-N",
@@ -9016,7 +9016,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"CBOA",
@@ -9030,7 +9030,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"CBOJ",
@@ -9044,7 +9044,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"CBOY",
@@ -9058,7 +9058,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"CBTA",
@@ -9072,7 +9072,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"CBTJ",
@@ -9086,7 +9086,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"CBTY",
@@ -9100,7 +9100,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"CBXA",
@@ -9114,7 +9114,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"CBXJ",
@@ -9128,7 +9128,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"CBXY",
@@ -9142,7 +9142,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"CEF",
@@ -9157,7 +9157,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"COPA",
@@ -9171,7 +9171,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"CORX",
@@ -9187,7 +9187,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"CPXR",
@@ -9203,7 +9203,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"CXRN",
@@ -9219,7 +9219,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"DEFI",
@@ -9233,7 +9233,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"DFII",
@@ -9247,7 +9247,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"DVOL",
@@ -9260,7 +9260,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"EFT",
@@ -9273,7 +9273,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"ETCO",
@@ -9287,7 +9287,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"ETH",
@@ -9301,7 +9301,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"ETHA",
@@ -9315,7 +9315,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"ETHD",
@@ -9330,7 +9330,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"ETHE",
@@ -9344,7 +9344,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"ETHT",
@@ -9359,7 +9359,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"ETHU",
@@ -9374,7 +9374,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"EVLN",
@@ -9387,7 +9387,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"EZBC",
@@ -9401,7 +9401,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"FCG",
@@ -9415,7 +9415,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"FCPT",
@@ -9428,7 +9428,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"FCT",
@@ -9441,7 +9441,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"FGDL",
@@ -9455,7 +9455,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"FLN",
@@ -9468,7 +9468,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"FLTR",
@@ -9481,7 +9481,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"FRT-C",
@@ -9494,7 +9494,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"FTXN",
@@ -9507,7 +9507,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"FUSI",
@@ -9520,7 +9520,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"GBND",
@@ -9533,7 +9533,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"GBTC",
@@ -9547,7 +9547,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"GBXA",
@@ -9560,7 +9560,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"GBXB",
@@ -9573,7 +9573,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"GBXC",
@@ -9586,7 +9586,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"GCAL",
@@ -9599,7 +9599,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"GCOR",
@@ -9612,7 +9612,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"GDE",
@@ -9626,7 +9626,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"GDMN",
@@ -9640,7 +9640,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"GDXY",
@@ -9654,7 +9654,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"GEMD",
@@ -9667,7 +9667,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"GGN",
@@ -9681,7 +9681,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"GGN-B",
@@ -9695,7 +9695,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"GGUS",
@@ -9708,7 +9708,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"GIGL",
@@ -9721,7 +9721,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"GJP",
@@ -9734,7 +9734,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"GJS",
@@ -9747,7 +9747,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"GJT",
@@ -9760,7 +9760,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"GLD",
@@ -9774,7 +9774,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"GLDM",
@@ -9788,7 +9788,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"GLOV",
@@ -9801,7 +9801,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"GMNY",
@@ -9814,7 +9814,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"GMUB",
@@ -9827,7 +9827,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"GNT",
@@ -9841,7 +9841,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"GPMT-A",
@@ -9854,7 +9854,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"GSIG",
@@ -9867,7 +9867,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"GUMI",
@@ -9882,7 +9882,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"GUSA",
@@ -9895,7 +9895,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"GVUS",
@@ -9908,7 +9908,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"GXUS",
@@ -9921,7 +9921,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"HBTC",
@@ -9935,7 +9935,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"HDMV",
@@ -9948,7 +9948,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"HODL",
@@ -9962,7 +9962,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"HSMV",
@@ -9975,7 +9975,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"HUSV",
@@ -9988,7 +9988,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"IAU",
@@ -10002,7 +10002,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"IAUI",
@@ -10016,7 +10016,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"IAUM",
@@ -10030,7 +10030,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"IBIT",
@@ -10044,7 +10044,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"KGLD",
@@ -10058,7 +10058,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"LIMI",
@@ -10072,7 +10072,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"MBSF",
@@ -10085,7 +10085,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"MITT-C",
@@ -10098,7 +10098,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"MNRS",
@@ -10112,7 +10112,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"MUNA",
@@ -10125,7 +10125,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"MUNB",
@@ -10138,7 +10138,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"MUNC",
@@ -10151,7 +10151,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"MUND",
@@ -10164,7 +10164,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"MVO",
@@ -10177,7 +10177,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"NRT",
@@ -10190,7 +10190,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"NTRSO",
@@ -10203,7 +10203,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"OILT",
@@ -10216,7 +10216,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"OWNB",
@@ -10230,7 +10230,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"PCFI",
@@ -10243,7 +10243,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"PFRL",
@@ -10256,7 +10256,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"PHYS",
@@ -10271,7 +10271,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"PMT-A",
@@ -10284,7 +10284,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"PMT-B",
@@ -10297,7 +10297,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"PSLV",
@@ -10312,7 +10312,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"QBF",
@@ -10326,7 +10326,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"RPT-C",
@@ -10339,7 +10339,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"RSMV",
@@ -10352,7 +10352,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"RSSX",
@@ -10367,7 +10367,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"SBIT",
@@ -10383,7 +10383,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"SCE-J",
@@ -10396,7 +10396,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"SCE-K",
@@ -10409,7 +10409,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"SILJ",
@@ -10423,7 +10423,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"SKYY",
@@ -10436,7 +10436,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"SLV",
@@ -10450,7 +10450,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"SPPP",
@@ -10465,7 +10465,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"TIPA",
@@ -10478,7 +10478,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"TIPB",
@@ -10491,7 +10491,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"TIPC",
@@ -10504,7 +10504,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"TIPD",
@@ -10517,7 +10517,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"URAA",
@@ -10535,7 +10535,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"URAN",
@@ -10549,7 +10549,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"USNG",
@@ -10563,7 +10563,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"UVXY",
@@ -10580,7 +10580,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"UX",
@@ -10594,7 +10594,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"VIXM",
@@ -10609,7 +10609,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"VIXY",
@@ -10626,7 +10626,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"WHTX",
@@ -10642,7 +10642,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"WXET",
@@ -10658,7 +10658,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"XES",
@@ -10671,7 +10671,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"XFLT",
@@ -10684,7 +10684,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"XFLT-A",
@@ -10697,7 +10697,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"XRPI",
@@ -10710,7 +10710,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"XRPT",
@@ -10725,7 +10725,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"YBIT",
@@ -10739,7 +10739,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"YBTC",
@@ -10753,7 +10753,7 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   },
   {
     "symbol":"YETH",
@@ -10766,6 +10766,6 @@
       "fut\/phys: \\btrust\\b"
     ],
     "etp_type":"Trust",
-    "as_of_utc":"2025-09-08 22:10:30 UTC"
+    "as_of_utc":"2025-09-08 22:23:29 UTC"
   }
 ]
