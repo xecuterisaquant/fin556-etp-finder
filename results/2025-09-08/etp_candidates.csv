@@ -1,0 +1,775 @@
+symbol,security_name,etf,categories,reasons,etp_type,as_of_utc
+AAAU,Goldman Sachs Physical Gold ETF Shares,Y,['futures_or_physical'],"['fut/phys: \\b(physical|physically)\\b', 'fut/phys: \\b(gold|silver|platinum|palladium)\\b']",ETF,2025-09-08 22:10:30 UTC
+AALG,Leverage Shares 2X Long AAL Daily ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b', 'lev/inv: \\bLeverage Shares\\b']",ETF,2025-09-08 22:10:30 UTC
+AAPB,GraniteShares 2x Long AAPL Daily ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b']",ETF,2025-09-08 22:10:30 UTC
+AAPD,Direxion Daily AAPL Bear 1X Shares,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*1x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdaily\\s+\\w+\\s+(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b']",ETF,2025-09-08 22:10:30 UTC
+AAPU,Direxion Daily AAPL Bull 2X Shares,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdaily\\s+\\w+\\s+(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b']",ETF,2025-09-08 22:10:30 UTC
+AAPX,ETF Opportunities Trust T-Rex 2X Long Apple Daily Target ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b', 'lev/inv: \\bT[- ]?Rex\\b.*\\b2x\\b']",ETF,2025-09-08 22:10:30 UTC
+ADBG,Leverage Shares 2X Long ADBE Daily ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b', 'lev/inv: \\bLeverage Shares\\b']",ETF,2025-09-08 22:10:30 UTC
+AGMI,Themes Silver Miners ETF,Y,['futures_or_physical'],['fut/phys: \\b(gold|silver|platinum|palladium)\\b'],ETF,2025-09-08 22:10:30 UTC
+AGQ,ProShares Ultra Silver,Y,"['leveraged_or_inverse', 'futures_or_physical']","['lev/inv: \\bproshares\\s+ultra\\b', 'fut/phys: \\b(gold|silver|platinum|palladium)\\b']",ETF,2025-09-08 22:10:30 UTC
+AIBD,Direxion Shares ETF Trust Direxion Daily AI and Big Data Bear 2X Shares,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b']",ETF,2025-09-08 22:10:30 UTC
+AIBU,Direxion Shares ETF Trust Direxion Daily AI and Big Data Bull 2X Shares,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b']",ETF,2025-09-08 22:10:30 UTC
+AMDD,Direxion Daily AMD Bear 1X Shares,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*1x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdaily\\s+\\w+\\s+(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b']",ETF,2025-09-08 22:10:30 UTC
+AMDG,Leverage Shares 2X Long AMD Daily ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b', 'lev/inv: \\bLeverage Shares\\b']",ETF,2025-09-08 22:10:30 UTC
+AMDL,GraniteShares 2x Long AMD Daily ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b']",ETF,2025-09-08 22:10:30 UTC
+AMUU,Direxion Daily AMD Bull 2X Shares,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdaily\\s+\\w+\\s+(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b']",ETF,2025-09-08 22:10:30 UTC
+AMZD,Direxion Daily AMZN Bear 1X Shares,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*1x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdaily\\s+\\w+\\s+(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b']",ETF,2025-09-08 22:10:30 UTC
+AMZU,Direxion Daily AMZN Bull 2X Shares,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdaily\\s+\\w+\\s+(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b']",ETF,2025-09-08 22:10:30 UTC
+AMZZ,GraniteShares 2x Long AMZN Daily ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b']",ETF,2025-09-08 22:10:30 UTC
+ANEL,Defiance Daily Target 2x Long ANET ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b']",ETF,2025-09-08 22:10:30 UTC
+APPX,Tradr 2X Long APP Daily ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b']",ETF,2025-09-08 22:10:30 UTC
+ARCX,Tradr 2X Long QBTS Daily ETF Tradr 2X Long ACHR Daily ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b']",ETF,2025-09-08 22:10:30 UTC
+ARKB,ARK 21Shares Bitcoin ETF Common Shares of Beneficial Interests,Y,['futures_or_physical'],['fut/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b'],ETF,2025-09-08 22:10:30 UTC
+ARMG,Leverage Shares 2X Long ARM Daily ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b', 'lev/inv: \\bLeverage Shares\\b']",ETF,2025-09-08 22:10:30 UTC
+ARMU,ETF Opportunities Trust T-REX 2X Long ARM Daily Target ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b', 'lev/inv: \\bT[- ]?Rex\\b.*\\b2x\\b']",ETF,2025-09-08 22:10:30 UTC
+ARTY,iShares Future AI & Tech ETF,Y,['futures_or_physical'],['fut/phys: \\bfuture(s)?\\b'],ETF,2025-09-08 22:10:30 UTC
+ASMG,Leverage Shares 2X Long ASML Daily ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b', 'lev/inv: \\bLeverage Shares\\b']",ETF,2025-09-08 22:10:30 UTC
+ASTX,Tradr 2X Long ASTS Daily ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b']",ETF,2025-09-08 22:10:30 UTC
+AUMI,Themes Gold Miners ETF,Y,['futures_or_physical'],['fut/phys: \\b(gold|silver|platinum|palladium)\\b'],ETF,2025-09-08 22:10:30 UTC
+AUSM,Allspring Exchange-Traded Funds Trust Allspring Ultra Short Municipal ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+AVGG,Leverage Shares 2X Long AVGO Daily ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b', 'lev/inv: \\bLeverage Shares\\b']",ETF,2025-09-08 22:10:30 UTC
+AVGU,GraniteShares 2x Long AVGO Daily ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b']",ETF,2025-09-08 22:10:30 UTC
+AVGX,Defiance Daily Target 2X Long AVGO ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b']",ETF,2025-09-08 22:10:30 UTC
+AVL,Direxion Daily AVGO Bull 2X Shares,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdaily\\s+\\w+\\s+(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b']",ETF,2025-09-08 22:10:30 UTC
+AVS,Direxion Daily AVGO Bear 1X Shares,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*1x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdaily\\s+\\w+\\s+(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b']",ETF,2025-09-08 22:10:30 UTC
+AVSF,Avantis Short-Term Fixed Income ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+BABX,GraniteShares 2x Long BABA Daily ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b']",ETF,2025-09-08 22:10:30 UTC
+BAIG,Leverage Shares 2X Long BBAI Daily ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b', 'lev/inv: \\bLeverage Shares\\b']",ETF,2025-09-08 22:10:30 UTC
+BAMU,Brookstone Ultra-Short Bond ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+BATT,Amplify Lithium & Battery Technology ETF,Y,['futures_or_physical'],['fut/phys: \\b(uranium|lithium|nickel|copper|aluminum|zinc|tin)\\b'],ETF,2025-09-08 22:10:30 UTC
+BBB,CYBER HORNET S&P 500 and Bitcoin 75/25 Strategy ETF,Y,['futures_or_physical'],['fut/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b'],ETF,2025-09-08 22:10:30 UTC
+BCCC,Global X Funds Global X Bitcoin Covered Call ETF,Y,['futures_or_physical'],['fut/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b'],ETF,2025-09-08 22:10:30 UTC
+BEGS,Collaborative Investment Series Trust Rareview 2x Bull Cryptocurrency & Precious Metals ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b']",ETF,2025-09-08 22:10:30 UTC
+BETE,ProShares Bitcoin & Ether Equal Weight ETF,Y,['futures_or_physical'],['fut/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b'],ETF,2025-09-08 22:10:30 UTC
+BETH,ProShares Bitcoin & Ether Market Cap Weight ETF,Y,['futures_or_physical'],['fut/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b'],ETF,2025-09-08 22:10:30 UTC
+BGLD,FT Vest Gold Strategy Quarterly Buffer ETF,Y,['futures_or_physical'],['fut/phys: \\b(gold|silver|platinum|palladium)\\b'],ETF,2025-09-08 22:10:30 UTC
+BIB,ProShares Ultra Nasdaq Biotechnology,Y,['leveraged_or_inverse'],['lev/inv: \\bproshares\\s+ultra\\b'],ETF,2025-09-08 22:10:30 UTC
+BILZ,PIMCO U.S. Treasury Index Fund PIMCO Ultra Short Government Active Exchange-Traded Fund,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+BIS,ProShares UltraShort Nasdaq Biotechnology,Y,['leveraged_or_inverse'],['lev/inv: short-inverse context'],ETF,2025-09-08 22:10:30 UTC
+BITB,Bitwise Bitcoin ETF Common Shares of Beneficial Interest,Y,['futures_or_physical'],['fut/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b'],ETF,2025-09-08 22:10:30 UTC
+BITC,Bitwise Trendwise Bitcoin and Treasuries Rotation Strategy ETF,Y,['futures_or_physical'],['fut/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b'],ETF,2025-09-08 22:10:30 UTC
+BITI,ProShares Short Bitcoin ETF,Y,"['leveraged_or_inverse', 'futures_or_physical']","['lev/inv: \\bshort\\b', 'lev/inv: short-inverse context', 'fut/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b']",ETF,2025-09-08 22:10:30 UTC
+BITO,ProShares Bitcoin ETF,Y,['futures_or_physical'],['fut/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b'],ETF,2025-09-08 22:10:30 UTC
+BITS,Global X Blockchain & Bitcoin Strategy ETF,Y,['futures_or_physical'],['fut/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b'],ETF,2025-09-08 22:10:30 UTC
+BITY,Amplify Bitcoin 2% Monthly Option Income ETF,Y,['futures_or_physical'],['fut/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b'],ETF,2025-09-08 22:10:30 UTC
+BKUI,BNY Mellon Ultra Short Income ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+BLST,Exchange Traded Concepts Trust Bluemonte Short Term Bond ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+BMAX,REX Bitcoin Corporate Treasury Convertible Bond ETF,Y,['futures_or_physical'],['fut/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b'],ETF,2025-09-08 22:10:30 UTC
+BNO,"United States Brent Oil Fund, LP ETV",Y,['futures_or_physical'],['fut/phys: \\b(wti|brent|crude oil|natural gas|gasoline|heating oil)\\b'],ETF,2025-09-08 22:10:30 UTC
+BOED,Direxion Daily BA Bear 1X Shares,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*1x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdaily\\s+\\w+\\s+(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b']",ETF,2025-09-08 22:10:30 UTC
+BOEG,Leverage Shares 2X Long BA Daily ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b', 'lev/inv: \\bLeverage Shares\\b']",ETF,2025-09-08 22:10:30 UTC
+BOEU,Direxion Daily BA Bull 2X Shares,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdaily\\s+\\w+\\s+(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b']",ETF,2025-09-08 22:10:30 UTC
+BOIL,ProShares Ultra Bloomberg Natural Gas,Y,"['leveraged_or_inverse', 'futures_or_physical']","['lev/inv: \\bproshares\\s+ultra\\b', 'fut/phys: \\b(wti|brent|crude oil|natural gas|gasoline|heating oil)\\b']",ETF,2025-09-08 22:10:30 UTC
+BRKD,Direxion Daily BRKB Bear 1X Shares,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*1x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdaily\\s+\\w+\\s+(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b']",ETF,2025-09-08 22:10:30 UTC
+BRKU,Direxion Daily BRKB Bull 2X Shares,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdaily\\s+\\w+\\s+(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b']",ETF,2025-09-08 22:10:30 UTC
+BRRR,Coinshares Bitcoin ETF,Y,['futures_or_physical'],['fut/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b'],ETF,2025-09-08 22:10:30 UTC
+BRZU,Direxion Daily Brazil Bull 2X Shares,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdaily\\s+\\w+\\s+(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b']",ETF,2025-09-08 22:10:30 UTC
+BSV,Vanguard Short-Term Bond ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+BTCL,T-Rex 2X Long Bitcoin Daily Target ETF,Y,"['leveraged_or_inverse', 'futures_or_physical']","['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b', 'lev/inv: \\bT[- ]?Rex\\b.*\\b2x\\b', 'fut/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b']",ETF,2025-09-08 22:10:30 UTC
+BTCO,Invesco Galaxy Bitcoin ETF Common Shares of Beneficial Interest,Y,['futures_or_physical'],['fut/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b'],ETF,2025-09-08 22:10:30 UTC
+BTCW,WisdomTree Bitcoin Fund Common Shares of Beneficial Interest,Y,['futures_or_physical'],['fut/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b'],ETF,2025-09-08 22:10:30 UTC
+BTCZ,T-Rex 2X Inverse Bitcoin Daily Target ETF,Y,"['leveraged_or_inverse', 'futures_or_physical']","['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\bT[- ]?Rex\\b.*\\b2x\\b', 'lev/inv: \\bInverse\\b', 'fut/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b']",ETF,2025-09-08 22:10:30 UTC
+BTF,CoinShares Bitcoin and Ether ETF,Y,['futures_or_physical'],['fut/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b'],ETF,2025-09-08 22:10:30 UTC
+BTFX,CoinShares Bitcoin Leverage ETF,Y,['futures_or_physical'],['fut/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b'],ETF,2025-09-08 22:10:30 UTC
+BTGD,STKd 100% Bitcoin & 100% Gold ETF,Y,['futures_or_physical'],"['fut/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b', 'fut/phys: \\b(gold|silver|platinum|palladium)\\b']",ETF,2025-09-08 22:10:30 UTC
+BTOP,Bitwise Trendwise BTC/ETH and Treasuries Rotation Strategy ETF,Y,['futures_or_physical'],['fut/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b'],ETF,2025-09-08 22:10:30 UTC
+BTRN,Global X Funds Global X Bitcoin Trend Strategy ETF,Y,['futures_or_physical'],['fut/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b'],ETF,2025-09-08 22:10:30 UTC
+BULD,Pacer BlueStar Engineering the Future ETF,Y,['futures_or_physical'],['fut/phys: \\bfuture(s)?\\b'],ETF,2025-09-08 22:10:30 UTC
+BULG,Leverage Shares 2X Long BULL Daily ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b', 'lev/inv: \\bLeverage Shares\\b']",ETF,2025-09-08 22:10:30 UTC
+BULU,ETF Opportunities Trust T-REX 2X Long BULL Daily Target ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b', 'lev/inv: \\bT[- ]?Rex\\b.*\\b2x\\b']",ETF,2025-09-08 22:10:30 UTC
+BULX,GraniteShares 2x Long BULL Daily ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b']",ETF,2025-09-08 22:10:30 UTC
+BUXX,EA Series Trust Strive Enhanced Income Short Maturity ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+BWZ,SPDR Bloomberg Short Term International Treasury Bond ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+BZQ,ProShares UltraShort MSCI Brazil Capped,Y,['leveraged_or_inverse'],['lev/inv: short-inverse context'],ETF,2025-09-08 22:10:30 UTC
+CALI,iShares Short-Term California Muni Active ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+CANE,Teucrium Sugar Fund ETV,Y,['futures_or_physical'],['fut/phys: \\b(corn|soybean|soybeans|wheat|coffee|sugar|cocoa|cotton|live cattle|lean hogs|feeder cattle)\\b'],ETF,2025-09-08 22:10:30 UTC
+CCSB,Carbon Collective Short Duration Green Bond ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+CCUP,ETF Opportunities Trust T-REX 2X Long CRCL Daily Target ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b', 'lev/inv: \\bT[- ]?Rex\\b.*\\b2x\\b']",ETF,2025-09-08 22:10:30 UTC
+CEGX,Tradr 2X Long CEG Daily ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b']",ETF,2025-09-08 22:10:30 UTC
+CGSD,Capital Group Short Duration Income ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+CGSM,Capital Group Short Duration Municipal Income ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+CGUI,Capital Group Ultra Short Income ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+CHAU,Direxion Daily CSI 300 China A Share Bull 2X Shares,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b']",ETF,2025-09-08 22:10:30 UTC
+CLIX,ProShares Long Online/Short Stores ETF,Y,['leveraged_or_inverse'],"['lev/inv: \\bshort\\b', 'lev/inv: short-inverse context']",ETF,2025-09-08 22:10:30 UTC
+CLSE,Trust for Professional Managers Convergence Long/Short Equity ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+COIG,Leverage Shares 2X Long COIN Daily ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b', 'lev/inv: \\bLeverage Shares\\b']",ETF,2025-09-08 22:10:30 UTC
+COIO,Themes ETF Trust Leverage Shares 2x Capped Accelerated COIN Monthly ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\bLeverage Shares\\b']",ETF,2025-09-08 22:10:30 UTC
+CONI,GraniteShares 2x Short COIN Daily ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b', 'lev/inv: \\bshort\\b', 'lev/inv: short-inverse context']",ETF,2025-09-08 22:10:30 UTC
+CONL,GraniteShares 2x Long COIN Daily ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b']",ETF,2025-09-08 22:10:30 UTC
+COPJ,Sprott Junior Copper Miners ETF,Y,['futures_or_physical'],['fut/phys: \\b(uranium|lithium|nickel|copper|aluminum|zinc|tin)\\b'],ETF,2025-09-08 22:10:30 UTC
+COPP,Sprott Copper Miners ETF,Y,['futures_or_physical'],['fut/phys: \\b(uranium|lithium|nickel|copper|aluminum|zinc|tin)\\b'],ETF,2025-09-08 22:10:30 UTC
+COPX,Global X Copper Miners ETF,Y,['futures_or_physical'],['fut/phys: \\b(uranium|lithium|nickel|copper|aluminum|zinc|tin)\\b'],ETF,2025-09-08 22:10:30 UTC
+CORN,Teucrium Corn Fund ETV,Y,['futures_or_physical'],['fut/phys: \\b(corn|soybean|soybeans|wheat|coffee|sugar|cocoa|cotton|live cattle|lean hogs|feeder cattle)\\b'],ETF,2025-09-08 22:10:30 UTC
+CPER,United States Copper Index Fund ETV,Y,['futures_or_physical'],['fut/phys: \\b(uranium|lithium|nickel|copper|aluminum|zinc|tin)\\b'],ETF,2025-09-08 22:10:30 UTC
+CRCA,ProShares Trust ProShares Ultra CRCL,Y,['leveraged_or_inverse'],['lev/inv: \\bproshares\\s+ultra\\b'],ETF,2025-09-08 22:10:30 UTC
+CRCG,Leverage Shares 2X Long CRCL Daily ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b', 'lev/inv: \\bLeverage Shares\\b']",ETF,2025-09-08 22:10:30 UTC
+CRMG,Leverage Shares 2X Long CRM Daily ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b', 'lev/inv: \\bLeverage Shares\\b']",ETF,2025-09-08 22:10:30 UTC
+CRSH,Tidal Trust II YieldMax Short TSLA Option Income Strategy ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+CRWG,Leverage Shares 2X Long CRWV Daily ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b', 'lev/inv: \\bLeverage Shares\\b']",ETF,2025-09-08 22:10:30 UTC
+CRWL,GraniteShares 2x Long CRWD Daily ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b']",ETF,2025-09-08 22:10:30 UTC
+CRWU,ETF Opportunities Trust T-REX 2X Long CRWV Daily Target ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b', 'lev/inv: \\bT[- ]?Rex\\b.*\\b2x\\b']",ETF,2025-09-08 22:10:30 UTC
+CSCL,Direxion Daily CSCO Bull 2X ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdaily\\s+\\w+\\s+(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b']",ETF,2025-09-08 22:10:30 UTC
+CSCS,Direxion Daily CSCO Bear 1X ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*1x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdaily\\s+\\w+\\s+(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b']",ETF,2025-09-08 22:10:30 UTC
+CSHP,iShares Enhanced Short-Term Bond Active ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+CSTK,Invesco Managed Futures Strategy ETF Invesco Comstock Contrarian Equity ETF,Y,['futures_or_physical'],['fut/phys: \\bfuture(s)?\\b'],ETF,2025-09-08 22:10:30 UTC
+CTA,Simplify Exchange Traded Funds Simplify Managed Futures Strategy ETF,Y,['futures_or_physical'],['fut/phys: \\bfuture(s)?\\b'],ETF,2025-09-08 22:10:30 UTC
+CURE,Direxion Daily Healthcare Bull 3X Shares,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*3x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdaily\\s+\\w+\\s+(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b']",ETF,2025-09-08 22:10:30 UTC
+CVNX,Defiance Daily Target 2X Long CVNA ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b']",ETF,2025-09-08 22:10:30 UTC
+CVSB,Morgan Stanley ETF Trust Calvert Ultra-Short Investment Grade ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+CWEB,Direxion Daily CSI China Internet Index Bull 2X Shares,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b']",ETF,2025-09-08 22:10:30 UTC
+CWVX,Tradr 2X Long CRWV Daily ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b']",ETF,2025-09-08 22:10:30 UTC
+DBMF,iMGP DBi Managed Futures Strategy ETF,Y,['futures_or_physical'],['fut/phys: \\bfuture(s)?\\b'],ETF,2025-09-08 22:10:30 UTC
+DDM,ProShares Ultra Dow30,Y,['leveraged_or_inverse'],['lev/inv: \\bproshares\\s+ultra\\b'],ETF,2025-09-08 22:10:30 UTC
+DFEN,Direxion Daily Aerospace & Defense Bull 3X Shares,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*3x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b']",ETF,2025-09-08 22:10:30 UTC
+DFSD,Dimensional ETF Trust Dimensional Short-Duration Fixed Income ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+DIG,ProShares Ultra Energy,Y,['leveraged_or_inverse'],['lev/inv: \\bproshares\\s+ultra\\b'],ETF,2025-09-08 22:10:30 UTC
+DIPS,Tidal Trust II YieldMax Short NVDA Option Income Strategy ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+DJTU,ETF Opportunities Trust T-REX 2X Long DJT Daily Target ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b', 'lev/inv: \\bT[- ]?Rex\\b.*\\b2x\\b']",ETF,2025-09-08 22:10:30 UTC
+DKNX,Defiance Daily Target 2X Long DKNG ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b']",ETF,2025-09-08 22:10:30 UTC
+DKUP,ETF Opportunities Trust T-REX 2X Long DKNG Daily Target ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b', 'lev/inv: \\bT[- ]?Rex\\b.*\\b2x\\b']",ETF,2025-09-08 22:10:30 UTC
+DLLL,GraniteShares 2x Long DELL Daily ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b']",ETF,2025-09-08 22:10:30 UTC
+DOG,ProShares Short Dow30,Y,['leveraged_or_inverse'],"['lev/inv: \\bshort\\b', 'lev/inv: short-inverse context']",ETF,2025-09-08 22:10:30 UTC
+DOGD,Tradr 2X Long QBTS Daily ETF Tradr 2X Long DDOG Daily ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b']",ETF,2025-09-08 22:10:30 UTC
+DPST,Direxion Daily Regional Banks Bull 3X Shares,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*3x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b']",ETF,2025-09-08 22:10:30 UTC
+DRIP,Direxion Daily S&P Oil & Gas Exp. & Prod. Bear 2X Shares,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b']",ETF,2025-09-08 22:10:30 UTC
+DRN,Direxion Daily Real Estate Bull 3X Shares,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*3x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b']",ETF,2025-09-08 22:10:30 UTC
+DRV,Direxion Daily Real Estate Bear 3X Shares,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*3x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b']",ETF,2025-09-08 22:10:30 UTC
+DUG,ProShares UltraShort Energy,Y,['leveraged_or_inverse'],['lev/inv: short-inverse context'],ETF,2025-09-08 22:10:30 UTC
+DUSL,Direxion Daily Industrials Bull 3X Shares,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*3x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdaily\\s+\\w+\\s+(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b']",ETF,2025-09-08 22:10:30 UTC
+DUST,Direxion Daily Gold Miners Index Bear 2X Shares,Y,"['leveraged_or_inverse', 'futures_or_physical']","['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b', 'fut/phys: \\b(gold|silver|platinum|palladium)\\b']",ETF,2025-09-08 22:10:30 UTC
+DWSH,AdvisorShares Dorsey Wright Short ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+DXD,ProShares UltraShort Dow30,Y,['leveraged_or_inverse'],['lev/inv: short-inverse context'],ETF,2025-09-08 22:10:30 UTC
+EDC,Direxion Emerging Markets Bull 3X Shares,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*3x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b']",ETF,2025-09-08 22:10:30 UTC
+EDZ,Direxion Emerging Markets Bear 3X Shares,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*3x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b']",ETF,2025-09-08 22:10:30 UTC
+EET,ProShares Ultra MSCI Emerging Markets,Y,['leveraged_or_inverse'],['lev/inv: \\bproshares\\s+ultra\\b'],ETF,2025-09-08 22:10:30 UTC
+EEV,ProShares UltraShort MSCI Emerging Markets,Y,['leveraged_or_inverse'],['lev/inv: short-inverse context'],ETF,2025-09-08 22:10:30 UTC
+EFO,ProShares Ultra MSCI EAFE,Y,['leveraged_or_inverse'],['lev/inv: \\bproshares\\s+ultra\\b'],ETF,2025-09-08 22:10:30 UTC
+EFU,ProShares UltraShort MSCI EAFE,Y,['leveraged_or_inverse'],['lev/inv: short-inverse context'],ETF,2025-09-08 22:10:30 UTC
+EFZ,ProShares Short MSCI EAFE,Y,['leveraged_or_inverse'],"['lev/inv: \\bshort\\b', 'lev/inv: short-inverse context']",ETF,2025-09-08 22:10:30 UTC
+EHLS,Even Herd Long Short ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+ELIL,Direxion Daily LLY Bull 2X Shares,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdaily\\s+\\w+\\s+(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b']",ETF,2025-09-08 22:10:30 UTC
+ELIS,Direxion Daily LLY Bear 1X Shares,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*1x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdaily\\s+\\w+\\s+(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b']",ETF,2025-09-08 22:10:30 UTC
+EMNT,PIMCO Enhanced Short Maturity Active ESG Exchange-Traded Fund,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+EMSF,Matthews International Funds Matthews Emerging Markets Sustainable Future Active ETF,Y,['futures_or_physical'],['fut/phys: \\bfuture(s)?\\b'],ETF,2025-09-08 22:10:30 UTC
+EPV,ProShares UltraShort FTSE Europe ETF,Y,['leveraged_or_inverse'],['lev/inv: short-inverse context'],ETF,2025-09-08 22:10:30 UTC
+ERTH,Invesco MSCI Sustainable Future ETF,Y,['futures_or_physical'],['fut/phys: \\bfuture(s)?\\b'],ETF,2025-09-08 22:10:30 UTC
+ERX,Direxion Energy Bull 2X Shares,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b']",ETF,2025-09-08 22:10:30 UTC
+ERY,Direxion Daily Energy Bear 2X Shares,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdaily\\s+\\w+\\s+(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b']",ETF,2025-09-08 22:10:30 UTC
+ETHV,VanEck Ethereum ETF VanEck Ethereum ETF,Y,['futures_or_physical'],['fut/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b'],ETF,2025-09-08 22:10:30 UTC
+ETHW,Bitwise Ethereum ETF Common shares of beneficial interest,Y,['futures_or_physical'],['fut/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b'],ETF,2025-09-08 22:10:30 UTC
+ETQ,T-Rex 2X Inverse Ether Daily Target ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\bT[- ]?Rex\\b.*\\b2x\\b', 'lev/inv: \\bInverse\\b']",ETF,2025-09-08 22:10:30 UTC
+ETRL,GraniteShares 2x Long ETOR Daily ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b']",ETF,2025-09-08 22:10:30 UTC
+ETU,T-Rex 2X Long Ether Daily Target ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b', 'lev/inv: \\bT[- ]?Rex\\b.*\\b2x\\b']",ETF,2025-09-08 22:10:30 UTC
+EUM,ProShares Short MSCI Emerging Markets,Y,['leveraged_or_inverse'],"['lev/inv: \\bshort\\b', 'lev/inv: short-inverse context']",ETF,2025-09-08 22:10:30 UTC
+EUO,ProShares UltraShort Euro,Y,['leveraged_or_inverse'],['lev/inv: short-inverse context'],ETF,2025-09-08 22:10:30 UTC
+EURL,Direxion Daily FTSE Europe Bull 3x Shares,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*3x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b']",ETF,2025-09-08 22:10:30 UTC
+EVAV,Direxion Shares ETF Trust Direxion Daily Electric and Autonomous Vehicles Bull 2X Shares,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b']",ETF,2025-09-08 22:10:30 UTC
+EVSB,Morgan Stanley ETF Trust Eaton Vance Ultra-Short Income ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+EVSD,Eaton Vance Short Duration Income ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+EVSM,Morgan Stanley ETF Trust Eaton Vance Short Duration Municipal Income ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+EWV,ProShares UltraShort MSCI Japan,Y,['leveraged_or_inverse'],['lev/inv: short-inverse context'],ETF,2025-09-08 22:10:30 UTC
+EZET,Franklin Ethereum ETF Franklin Ethereum ETF,Y,['futures_or_physical'],['fut/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b'],ETF,2025-09-08 22:10:30 UTC
+EZJ,ProShares Ultra MSCI Japan,Y,['leveraged_or_inverse'],['lev/inv: \\bproshares\\s+ultra\\b'],ETF,2025-09-08 22:10:30 UTC
+FAS,Direxion Financial Bull 3X Shares,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*3x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b']",ETF,2025-09-08 22:10:30 UTC
+FAZ,Direxion Financial Bear 3X Shares,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*3x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b']",ETF,2025-09-08 22:10:30 UTC
+FBL,GraniteShares 2x Long META Daily ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b']",ETF,2025-09-08 22:10:30 UTC
+FBTC,Fidelity Wise Origin Bitcoin Fund Common Shares of Beneficial Interest,Y,['futures_or_physical'],['fut/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b'],ETF,2025-09-08 22:10:30 UTC
+FCSH,Federated Hermes ETF Trust Federated Hermes Short Duration Corporate ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+FDRV,Fidelity Electric Vehicles and Future Transportation ETF,Y,['futures_or_physical'],['fut/phys: \\bfuture(s)?\\b'],ETF,2025-09-08 22:10:30 UTC
+FETH,Fidelity Ethereum Fund Fidelity Ethereum Fund,Y,['futures_or_physical'],['fut/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b'],ETF,2025-09-08 22:10:30 UTC
+FFLS,Northern Lights Fund Trust II The Future Fund Long/Short ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+FFUT,Fidelity Managed Futures ETF,Y,['futures_or_physical'],['fut/phys: \\bfuture(s)?\\b'],ETF,2025-09-08 22:10:30 UTC
+FHYS,Federated Hermes ETF Trust Federated Hermes Short Duration High Yield ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+FIAT,Tidal Trust II YieldMax Short COIN Option Income Strategy ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+FITE,SPDR S&P Kensho Future Security ETF,Y,['futures_or_physical'],['fut/phys: \\bfuture(s)?\\b'],ETF,2025-09-08 22:10:30 UTC
+FLUD,Franklin Ultra Short Bond ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+FNGG,Direxion Daily NYSE FANG+ Bull 2X Shares,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b']",ETF,2025-09-08 22:10:30 UTC
+FPAS,Investment Managers Series Trust III FPA Short Duration Government ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+FRDD,Direxion Daily F Bear 1X ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*1x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdaily\\s+\\w+\\s+(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b']",ETF,2025-09-08 22:10:30 UTC
+FRDU,Direxion Daily F Bull 2X ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdaily\\s+\\w+\\s+(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b']",ETF,2025-09-08 22:10:30 UTC
+FSMB,First Trust Short Duration Managed Municipal ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+FTLS,First Trust Long/Short Equity,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+FTSD,Franklin Short Duration U.S. Government ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+FTSM,First Trust Enhanced Short Maturity ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+FUMB,First Trust Ultra Short Duration Municipal ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+FXP,ProShares Ultrashort FTSE China 50,Y,['leveraged_or_inverse'],['lev/inv: short-inverse context'],ETF,2025-09-08 22:10:30 UTC
+GBUG,Sprott Active Gold & Silver Miners ETF,Y,['futures_or_physical'],['fut/phys: \\b(gold|silver|platinum|palladium)\\b'],ETF,2025-09-08 22:10:30 UTC
+GDOC,Goldman Sachs Future Health Care Equity ETF,Y,['futures_or_physical'],['fut/phys: \\bfuture(s)?\\b'],ETF,2025-09-08 22:10:30 UTC
+GDX,VanEck Gold Miners ETF,Y,['futures_or_physical'],['fut/phys: \\b(gold|silver|platinum|palladium)\\b'],ETF,2025-09-08 22:10:30 UTC
+GDXJ,VanEck Junior Gold Miners ETF,Y,['futures_or_physical'],['fut/phys: \\b(gold|silver|platinum|palladium)\\b'],ETF,2025-09-08 22:10:30 UTC
+GEVX,Tradr 2X Long GEV Daily ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b']",ETF,2025-09-08 22:10:30 UTC
+GGLL,Direxion Daily GOOGL Bull 2X Shares,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdaily\\s+\\w+\\s+(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b']",ETF,2025-09-08 22:10:30 UTC
+GGLS,Direxion Daily GOOGL Bear 1X Shares,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*1x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdaily\\s+\\w+\\s+(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b']",ETF,2025-09-08 22:10:30 UTC
+GLDY,Defiance Gold Enhanced Options Income ETF,Y,['futures_or_physical'],['fut/phys: \\b(gold|silver|platinum|palladium)\\b'],ETF,2025-09-08 22:10:30 UTC
+GLGG,Leverage Shares 2X Long GLXY Daily ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b', 'lev/inv: \\bLeverage Shares\\b']",ETF,2025-09-08 22:10:30 UTC
+GLL,ProShares UltraShort Gold,Y,"['leveraged_or_inverse', 'futures_or_physical']","['lev/inv: short-inverse context', 'fut/phys: \\b(gold|silver|platinum|palladium)\\b']",ETF,2025-09-08 22:10:30 UTC
+GLTR,abrdn Physical Precious Metals Basket Shares ETF,Y,['futures_or_physical'],['fut/phys: \\b(physical|physically)\\b'],ETF,2025-09-08 22:10:30 UTC
+GLXU,ETF Opportunities Trust T-REX 2X Long GLXY Daily Target ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b', 'lev/inv: \\bT[- ]?Rex\\b.*\\b2x\\b']",ETF,2025-09-08 22:10:30 UTC
+GMEU,ETF Opp Tr T-REX 2X Long GME Daily Target ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b', 'lev/inv: \\bT[- ]?Rex\\b.*\\b2x\\b']",ETF,2025-09-08 22:10:30 UTC
+GOAU,US Global GO Gold and Precious Metal Miners ETF,Y,['futures_or_physical'],['fut/phys: \\b(gold|silver|platinum|palladium)\\b'],ETF,2025-09-08 22:10:30 UTC
+GOEX,Global X Gold Explorers ETF,Y,['futures_or_physical'],['fut/phys: \\b(gold|silver|platinum|palladium)\\b'],ETF,2025-09-08 22:10:30 UTC
+GOLY,Strategy Shares Gold Enhanced Yield ETF,Y,['futures_or_physical'],['fut/phys: \\b(gold|silver|platinum|palladium)\\b'],ETF,2025-09-08 22:10:30 UTC
+GOOX,ETF Opportunities Trust T-Rex 2X Long Alphabet Daily Target ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b', 'lev/inv: \\bT[- ]?Rex\\b.*\\b2x\\b']",ETF,2025-09-08 22:10:30 UTC
+GSST,Goldman Sachs Ultra Short Bond ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+GSY,Invesco Ultra Short Duration ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+GTEK,Goldman Sachs Future Tech Leaders Equity ETF,Y,['futures_or_physical'],['fut/phys: \\bfuture(s)?\\b'],ETF,2025-09-08 22:10:30 UTC
+GTOC,Invesco Managed Futures Strategy ETF Invesco Core Fixed Income ETF,Y,['futures_or_physical'],['fut/phys: \\bfuture(s)?\\b'],ETF,2025-09-08 22:10:30 UTC
+GTOS,Invesco Short Duration Total Return Bond ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+GUSH,Direxion Daily S&P Oil & Gas Exp. & Prod. Bull 2X Shares,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b']",ETF,2025-09-08 22:10:30 UTC
+HFEQ,Tidal Trust I Unlimited HFEQ Equity Long/Short ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+HIBL,Direxion Daily S&P 500 High Beta Bull 3X Shares,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*3x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b']",ETF,2025-09-08 22:10:30 UTC
+HIBS,Direxion Daily S&P 500 High Beta Bear 3X Shares,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*3x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b']",ETF,2025-09-08 22:10:30 UTC
+HIMZ,Defiance Daily Target 2X Long HIMS ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b']",ETF,2025-09-08 22:10:30 UTC
+HOOG,Leverage Shares 2X Long HOOD Daily ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b', 'lev/inv: \\bLeverage Shares\\b']",ETF,2025-09-08 22:10:30 UTC
+HOOX,Defiance Daily Target 2X Long HOOD ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b']",ETF,2025-09-08 22:10:30 UTC
+HYSD,Columbia ETF Trust I Columbia Short Duration High Yield ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+ICOP,iShares Copper and Metals Mining ETF,Y,['futures_or_physical'],['fut/phys: \\b(uranium|lithium|nickel|copper|aluminum|zinc|tin)\\b'],ETF,2025-09-08 22:10:30 UTC
+ICSH,iShares Ultra Short Duration Bond Active ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+IGLD,FT Vest Gold Strategy Target Income ETF,Y,['futures_or_physical'],['fut/phys: \\b(gold|silver|platinum|palladium)\\b'],ETF,2025-09-08 22:10:30 UTC
+ILIT,iShares Lithium Miners and Producers ETF,Y,['futures_or_physical'],['fut/phys: \\b(uranium|lithium|nickel|copper|aluminum|zinc|tin)\\b'],ETF,2025-09-08 22:10:30 UTC
+IMF,Invesco Managed Futures Strategy ETF Invesco Managed Futures Strategy ETF,Y,['futures_or_physical'],['fut/phys: \\bfuture(s)?\\b'],ETF,2025-09-08 22:10:30 UTC
+INDL,Direxion Daily MSCI India Bull 2X Shares,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b']",ETF,2025-09-08 22:10:30 UTC
+INTM,Invesco Managed Futures Strategy ETF Invesco Intermediate Municipal ETF,Y,['futures_or_physical'],['fut/phys: \\bfuture(s)?\\b'],ETF,2025-09-08 22:10:30 UTC
+INTW,GraniteShares 2x Long INTC Daily ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b']",ETF,2025-09-08 22:10:30 UTC
+IONL,GraniteShares 2x Long IONQ Daily ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b']",ETF,2025-09-08 22:10:30 UTC
+IONX,Defiance Daily Target 2X Long IONQ ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b']",ETF,2025-09-08 22:10:30 UTC
+IONZ,Defiance Daily Target 2x Short IONQ ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b', 'lev/inv: \\bshort\\b', 'lev/inv: short-inverse context']",ETF,2025-09-08 22:10:30 UTC
+IQSZ,Invesco Managed Futures Strategy ETF Invesco Global Equity Net Zero ETF,Y,['futures_or_physical'],['fut/phys: \\bfuture(s)?\\b'],ETF,2025-09-08 22:10:30 UTC
+JDST,Direxion Daily Junior Gold Miners Index Bear 2X Shares,Y,"['leveraged_or_inverse', 'futures_or_physical']","['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b', 'fut/phys: \\b(gold|silver|platinum|palladium)\\b']",ETF,2025-09-08 22:10:30 UTC
+JMST,JPMorgan Ultra-Short Municipal Income ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+JNUG,Direxion Daily Junior Gold Miners Index Bull 2X Shares,Y,"['leveraged_or_inverse', 'futures_or_physical']","['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b', 'fut/phys: \\b(gold|silver|platinum|palladium)\\b']",ETF,2025-09-08 22:10:30 UTC
+JPST,JPMorgan Ultra-Short Income ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+JPX,Defiance Daily Target 2X Long JPM ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b']",ETF,2025-09-08 22:10:30 UTC
+JSCP,JPMorgan Short Duration Core Plus ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+KARS,KraneShares Electric Vehicles and Future Mobility Index ETF,Y,['futures_or_physical'],['fut/phys: \\bfuture(s)?\\b'],ETF,2025-09-08 22:10:30 UTC
+KBAB,KraneShares 2x Long BABA Daily ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b']",ETF,2025-09-08 22:10:30 UTC
+KCSH,KraneShares Trust KraneShares Sustainable Ultra Short Duration Index ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+KMLI,KraneShares 2x Long MELI Daily ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b']",ETF,2025-09-08 22:10:30 UTC
+KMLM,KraneShares Mount Lucas Managed Futures Index Strategy ETF,Y,['futures_or_physical'],['fut/phys: \\bfuture(s)?\\b'],ETF,2025-09-08 22:10:30 UTC
+KOLD,ProShares UltraShort Bloomberg Natural Gas,Y,"['leveraged_or_inverse', 'futures_or_physical']","['lev/inv: short-inverse context', 'fut/phys: \\b(wti|brent|crude oil|natural gas|gasoline|heating oil)\\b']",ETF,2025-09-08 22:10:30 UTC
+KORU,Direxion Daily South Korea Bull 3X Shares,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*3x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b']",ETF,2025-09-08 22:10:30 UTC
+KPDD,KraneShares 2x Long PDD Daily ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b']",ETF,2025-09-08 22:10:30 UTC
+LABD,Direxion Daily S&P Biotech Bear 3X Shares,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*3x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b']",ETF,2025-09-08 22:10:30 UTC
+LABU,Direxion Daily S&P Biotech Bull 3X Shares,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*3x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b']",ETF,2025-09-08 22:10:30 UTC
+LABX,Tradr 2X Long QBTS Daily ETF Tradr 2X Long ALAB Daily ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b']",ETF,2025-09-08 22:10:30 UTC
+LBAY,Leatherback Long/Short Alternative Yield ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+LCDL,GraniteShares 2x Long LCID Daily ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b']",ETF,2025-09-08 22:10:30 UTC
+LIT,Global X Lithium & Battery Tech ETF,Y,['futures_or_physical'],['fut/phys: \\b(uranium|lithium|nickel|copper|aluminum|zinc|tin)\\b'],ETF,2025-09-08 22:10:30 UTC
+LITP,Sprott Lithium Miners ETF,Y,['futures_or_physical'],['fut/phys: \\b(uranium|lithium|nickel|copper|aluminum|zinc|tin)\\b'],ETF,2025-09-08 22:10:30 UTC
+LLYX,Tidal Trust II Defiance Daily Target 2X Long LLY ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b']",ETF,2025-09-08 22:10:30 UTC
+LLYZ,Defiance Daily Target 2X Short LLY ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b', 'lev/inv: \\bshort\\b', 'lev/inv: short-inverse context']",ETF,2025-09-08 22:10:30 UTC
+LMBO,Direxion Shares ETF Trust Direxion Daily Crypto Industry Bull 2X Shares,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b']",ETF,2025-09-08 22:10:30 UTC
+LMTL,Direxion Daily LMT Bull 2X ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdaily\\s+\\w+\\s+(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b']",ETF,2025-09-08 22:10:30 UTC
+LMTS,Direxion Daily LMT Bear 1X ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*1x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdaily\\s+\\w+\\s+(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b']",ETF,2025-09-08 22:10:30 UTC
+LRCU,Tradr 2X Long LRCX Daily ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b']",ETF,2025-09-08 22:10:30 UTC
+LSEQ,Harbor ETF Trust Harbor Long-Short Equity ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+LTL,ProShares Ultra Communication Services,Y,['leveraged_or_inverse'],['lev/inv: \\bproshares\\s+ultra\\b'],ETF,2025-09-08 22:10:30 UTC
+MAGX,Roundhill Daily 2X Long Magnificent Seven ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b']",ETF,2025-09-08 22:10:30 UTC
+MAXI,Simplify Bitcoin Strategy PLUS Income ETF,Y,['futures_or_physical'],['fut/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b'],ETF,2025-09-08 22:10:30 UTC
+MDBX,Tradr 2X Long MDB Daily ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b']",ETF,2025-09-08 22:10:30 UTC
+MEAR,iShares Short Maturity Municipal Bond Active ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+METD,Direxion Daily META Bear 1X Shares,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*1x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdaily\\s+\\w+\\s+(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b']",ETF,2025-09-08 22:10:30 UTC
+METU,Direxion Daily META Bull 2X Shares,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdaily\\s+\\w+\\s+(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b']",ETF,2025-09-08 22:10:30 UTC
+MEXX,Direxion Daily MSCI Mexico Bull 3X Shares,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*3x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b']",ETF,2025-09-08 22:10:30 UTC
+MIDU,Direxion Mid Cap Bull 3X Shares,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*3x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b']",ETF,2025-09-08 22:10:30 UTC
+MINT,PIMCO Enhanced Short Maturity Active Exchange-Traded Fund,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+MMSD,New York Life Investments Active ETF Trust NYLI MacKay Muni Short Duration ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+MQQQ,Tradr 2X Long Innovation 100 Monthly ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b']",ETF,2025-09-08 22:10:30 UTC
+MRAL,GraniteShares 2x Long MARA Daily ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b']",ETF,2025-09-08 22:10:30 UTC
+MSDD,GraniteShares 2x Short MSTR Daily ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b', 'lev/inv: \\bshort\\b', 'lev/inv: short-inverse context']",ETF,2025-09-08 22:10:30 UTC
+MSFD,Direxion Daily MSFT Bear 1X Shares,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*1x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdaily\\s+\\w+\\s+(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b']",ETF,2025-09-08 22:10:30 UTC
+MSFL,GraniteShares 2x Long MSFT Daily ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b']",ETF,2025-09-08 22:10:30 UTC
+MSFU,Direxion Daily MSFT Bull 2X Shares,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdaily\\s+\\w+\\s+(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b']",ETF,2025-09-08 22:10:30 UTC
+MSFX,ETF Opportunities Trust T-Rex 2X Long Microsoft Daily Target ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b', 'lev/inv: \\bT[- ]?Rex\\b.*\\b2x\\b']",ETF,2025-09-08 22:10:30 UTC
+MSOO,Themes ETF Trust Leverage Shares 2x Capped Accelerated MSTR Monthly ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\bLeverage Shares\\b']",ETF,2025-09-08 22:10:30 UTC
+MSTI,Madison ETFs Trust Madison Short Term Strategic Income ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+MSTP,GraniteShares 2x Long MSTR Daily ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b']",ETF,2025-09-08 22:10:30 UTC
+MSTU,ETF Opportunities Trust T-Rex 2X Long MSTR Daily Target ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b', 'lev/inv: \\bT[- ]?Rex\\b.*\\b2x\\b']",ETF,2025-09-08 22:10:30 UTC
+MSTX,Defiance Daily Target 2x Long MSTR ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b']",ETF,2025-09-08 22:10:30 UTC
+MSTZ,ETF Opportunities Trust T-Rex 2X Inverse MSTR Daily Target ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\bT[- ]?Rex\\b.*\\b2x\\b', 'lev/inv: \\bInverse\\b']",ETF,2025-09-08 22:10:30 UTC
+MTRA,Invesco Managed Futures Strategy ETF Invesco International Growth Focus ETF,Y,['futures_or_physical'],['fut/phys: \\bfuture(s)?\\b'],ETF,2025-09-08 22:10:30 UTC
+MUD,Direxion Daily MU Bear 1X Shares,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*1x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdaily\\s+\\w+\\s+(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b']",ETF,2025-09-08 22:10:30 UTC
+MULL,GraniteShares 2x Long MU Daily ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b']",ETF,2025-09-08 22:10:30 UTC
+MUU,Direxion Daily MU Bull 2X Shares,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdaily\\s+\\w+\\s+(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b']",ETF,2025-09-08 22:10:30 UTC
+MVLL,GraniteShares 2x Long MRVL Daily ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b']",ETF,2025-09-08 22:10:30 UTC
+MVV,ProShares Ultra MidCap400,Y,['leveraged_or_inverse'],['lev/inv: \\bproshares\\s+ultra\\b'],ETF,2025-09-08 22:10:30 UTC
+MYY,ProShares Short MidCap400,Y,['leveraged_or_inverse'],"['lev/inv: \\bshort\\b', 'lev/inv: short-inverse context']",ETF,2025-09-08 22:10:30 UTC
+MZZ,ProShares UltraShort MidCap400,Y,['leveraged_or_inverse'],['lev/inv: short-inverse context'],ETF,2025-09-08 22:10:30 UTC
+NAIL,Direxion Daily Homebuilders & Supplies Bull 3X Shares,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*3x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b']",ETF,2025-09-08 22:10:30 UTC
+NBSD,Neuberger Berman ETF Trust Neuberger Berman Short Duration Income ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+NEAR,iShares Short Duration Bond Active ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+NFLU,ETF Opportunities Trust T-Rex 2X Long NFLX Daily Target ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b', 'lev/inv: \\bT[- ]?Rex\\b.*\\b2x\\b']",ETF,2025-09-08 22:10:30 UTC
+NFXL,Direxion Daily NFLX Bull 2X Shares,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdaily\\s+\\w+\\s+(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b']",ETF,2025-09-08 22:10:30 UTC
+NFXS,Direxion Daily NFLX Bear 1X Shares,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*1x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdaily\\s+\\w+\\s+(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b']",ETF,2025-09-08 22:10:30 UTC
+NIKL,Sprott Nickel Miners ETF,Y,['futures_or_physical'],['fut/phys: \\b(uranium|lithium|nickel|copper|aluminum|zinc|tin)\\b'],ETF,2025-09-08 22:10:30 UTC
+NLR,VanEck Uranium and Nuclear ETF,Y,['futures_or_physical'],['fut/phys: \\b(uranium|lithium|nickel|copper|aluminum|zinc|tin)\\b'],ETF,2025-09-08 22:10:30 UTC
+NOWL,GraniteShares 2x Long NOW Daily ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b']",ETF,2025-09-08 22:10:30 UTC
+NUGT,Direxion Daily Gold Miners Index Bull 2XShares,Y,"['leveraged_or_inverse', 'futures_or_physical']","['lev/inv: \\bdirexion daily\\b', 'fut/phys: \\b(gold|silver|platinum|palladium)\\b']",ETF,2025-09-08 22:10:30 UTC
+NURE,Nuveen Short-Term REIT ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+NUSB,Nuveen Ultra Short Income ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+NVD,GraniteShares 2x Short NVDA Daily ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b', 'lev/inv: \\bshort\\b', 'lev/inv: short-inverse context']",ETF,2025-09-08 22:10:30 UTC
+NVDD,Direxion Daily NVDA Bear 1X Shares,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*1x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdaily\\s+\\w+\\s+(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b']",ETF,2025-09-08 22:10:30 UTC
+NVDG,Leverage Shares 2X Long NVDA Daily ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b', 'lev/inv: \\bLeverage Shares\\b']",ETF,2025-09-08 22:10:30 UTC
+NVDL,GraniteShares 2x Long NVDA Daily ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b']",ETF,2025-09-08 22:10:30 UTC
+NVDO,Themes ETF Trust Leverage Shares 2x Capped Accelerated NVDA Monthly ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\bLeverage Shares\\b']",ETF,2025-09-08 22:10:30 UTC
+NVDQ,ETF Opportunities Trust T-Rex 2X Inverse NVIDIA Daily Target ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\bT[- ]?Rex\\b.*\\b2x\\b', 'lev/inv: \\bInverse\\b']",ETF,2025-09-08 22:10:30 UTC
+NVDS,Tradr 1.5X Short NVDA Daily ETF,Y,['leveraged_or_inverse'],"['lev/inv: \\bshort\\b', 'lev/inv: short-inverse context']",ETF,2025-09-08 22:10:30 UTC
+NVDU,Direxion Daily NVDA Bull 2X Shares,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdaily\\s+\\w+\\s+(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b']",ETF,2025-09-08 22:10:30 UTC
+NVDX,ETF Opportunities Trust T-Rex 2X Long NVIDIA Daily Target ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b', 'lev/inv: \\bT[- ]?Rex\\b.*\\b2x\\b']",ETF,2025-09-08 22:10:30 UTC
+NVOX,Tidal Trust II Defiance Daily Target 2X Long NVO ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b']",ETF,2025-09-08 22:10:30 UTC
+OILK,ProShares K-1 Free Crude Oil ETF,Y,['futures_or_physical'],['fut/phys: \\b(wti|brent|crude oil|natural gas|gasoline|heating oil)\\b'],ETF,2025-09-08 22:10:30 UTC
+OKLL,Defiance Daily Target 2x Long OKLO ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b']",ETF,2025-09-08 22:10:30 UTC
+OOQB,One One Nasdaq-100 and Bitcoin ETF,Y,['futures_or_physical'],['fut/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b'],ETF,2025-09-08 22:10:30 UTC
+OOSB,One One S&P 500 and Bitcoin ETF,Y,['futures_or_physical'],['fut/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b'],ETF,2025-09-08 22:10:30 UTC
+OPER,ETF Series Solutions ETF ClearShares Ultra-Short Maturity ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+ORCX,Defiance Daily Target 2X Long ORCL ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b']",ETF,2025-09-08 22:10:30 UTC
+ORR,Militia Long/Short Equity ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+OUNZ,VanEck Merk Gold ETF,Y,['futures_or_physical'],['fut/phys: \\b(gold|silver|platinum|palladium)\\b'],ETF,2025-09-08 22:10:30 UTC
+OVT,Overlay Shares Short Term Bond ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+PALD,Direxion Daily PANW Bear 1X Shares,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*1x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdaily\\s+\\w+\\s+(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b']",ETF,2025-09-08 22:10:30 UTC
+PALL,abrdn Physical Palladium Shares ETF,Y,['futures_or_physical'],"['fut/phys: \\b(physical|physically)\\b', 'fut/phys: \\b(gold|silver|platinum|palladium)\\b']",ETF,2025-09-08 22:10:30 UTC
+PALU,Direxion Daily PANW Bull 2X Shares,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdaily\\s+\\w+\\s+(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b']",ETF,2025-09-08 22:10:30 UTC
+PANG,Leverage Shares 2X Long PANW Daily ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b', 'lev/inv: \\bLeverage Shares\\b']",ETF,2025-09-08 22:10:30 UTC
+PDDL,GraniteShares 2x Long PDD Daily ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b']",ETF,2025-09-08 22:10:30 UTC
+PFUT,Putnam Sustainable Future ETF,Y,['futures_or_physical'],['fut/phys: \\bfuture(s)?\\b'],ETF,2025-09-08 22:10:30 UTC
+PILL,Direxion Daily Pharmaceutical & Medical Bull 3X Shares,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*3x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b']",ETF,2025-09-08 22:10:30 UTC
+PLOO,Themes ETF Trust Leverage Shares 2x Capped Accelerated PLTR Monthly ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\bLeverage Shares\\b']",ETF,2025-09-08 22:10:30 UTC
+PLTD,Direxion Daily PLTR Bear 1X Shares,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*1x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdaily\\s+\\w+\\s+(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b']",ETF,2025-09-08 22:10:30 UTC
+PLTG,Leverage Shares 2X Long PLTR Daily ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b', 'lev/inv: \\bLeverage Shares\\b']",ETF,2025-09-08 22:10:30 UTC
+PLTM,GraniteShares Platinum Shares ETF,Y,['futures_or_physical'],['fut/phys: \\b(gold|silver|platinum|palladium)\\b'],ETF,2025-09-08 22:10:30 UTC
+PLTU,Direxion Daily PLTR Bull 2X Shares,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdaily\\s+\\w+\\s+(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b']",ETF,2025-09-08 22:10:30 UTC
+PLTZ,Defiance Daily Target 2x Short PLTR ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b', 'lev/inv: \\bshort\\b', 'lev/inv: short-inverse context']",ETF,2025-09-08 22:10:30 UTC
+PPLT,abrdn Physical Platinum Shares ETF,Y,['futures_or_physical'],"['fut/phys: \\b(physical|physically)\\b', 'fut/phys: \\b(gold|silver|platinum|palladium)\\b']",ETF,2025-09-08 22:10:30 UTC
+PSDM,PGIM ETF Trust PGIM Short Duration Multi-Sector Bond ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+PSH,PGIM ETF Trust PGIM Short Duration High Yield ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+PSQ,ProShares Short QQQ,Y,['leveraged_or_inverse'],"['lev/inv: \\bshort\\b', 'lev/inv: short-inverse context']",ETF,2025-09-08 22:10:30 UTC
+PST,ProShares UltraShort Lehman 7-10 Year Treasury,Y,['leveraged_or_inverse'],['lev/inv: short-inverse context'],ETF,2025-09-08 22:10:30 UTC
+PTIR,GraniteShares 2x Long PLTR Daily ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b']",ETF,2025-09-08 22:10:30 UTC
+PULS,PGIM Ultra Short Bond ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+PULT,Putnam ETF Trust Putnam ESG Ultra Short ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+PUSH,PGIM ETF Trust PGIM Ultra Short Municipal Bond ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+PYPG,Leverage Shares 2X Long PYPL Daily ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b', 'lev/inv: \\bLeverage Shares\\b']",ETF,2025-09-08 22:10:30 UTC
+QBTX,Tradr 2X Long QBTS Daily ETF Tradr 2X Long QBTS Daily ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b']",ETF,2025-09-08 22:10:30 UTC
+QCMD,Direxion Daily QCOM Bear 1X ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*1x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdaily\\s+\\w+\\s+(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b']",ETF,2025-09-08 22:10:30 UTC
+QCML,GraniteShares 2x Long QCOM Daily ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b']",ETF,2025-09-08 22:10:30 UTC
+QCMU,Direxion Daily QCOM Bull 2X ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdaily\\s+\\w+\\s+(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b']",ETF,2025-09-08 22:10:30 UTC
+QETH,Invesco Galaxy Ethereum ETF,Y,['futures_or_physical'],['fut/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b'],ETF,2025-09-08 22:10:30 UTC
+QID,ProShares UltraShort QQQ,Y,['leveraged_or_inverse'],['lev/inv: short-inverse context'],ETF,2025-09-08 22:10:30 UTC
+QLD,ProShares Ultra QQQ,Y,['leveraged_or_inverse'],['lev/inv: \\bproshares\\s+ultra\\b'],ETF,2025-09-08 22:10:30 UTC
+QPUX,Defiance 2X Daily Long Pure Quantum ETF,Y,['leveraged_or_inverse'],['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])'],ETF,2025-09-08 22:10:30 UTC
+QQDN,ProShares UltraShort Top QQQ,Y,['leveraged_or_inverse'],['lev/inv: short-inverse context'],ETF,2025-09-08 22:10:30 UTC
+QQQD,Direxion Daily Magnificent 7 Bear 1X Shares,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*1x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b']",ETF,2025-09-08 22:10:30 UTC
+QQQP,Tradr 2X Long Innovation 100 Quarterly ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b']",ETF,2025-09-08 22:10:30 UTC
+QQQS,Invesco NASDAQ Future Gen 200 ETF,Y,['futures_or_physical'],['fut/phys: \\bfuture(s)?\\b'],ETF,2025-09-08 22:10:30 UTC
+QQQU,Direxion Daily Magnificent 7 Bull 2X Shares,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b']",ETF,2025-09-08 22:10:30 UTC
+QQUP,ProShares Ultra Top QQQ,Y,['leveraged_or_inverse'],['lev/inv: \\bproshares\\s+ultra\\b'],ETF,2025-09-08 22:10:30 UTC
+QQXL,ProShares Ultra QQQ Top 30,Y,['leveraged_or_inverse'],['lev/inv: \\bproshares\\s+ultra\\b'],ETF,2025-09-08 22:10:30 UTC
+QSIG,WisdomTree U.S. Short Term Corporate Bond Fund,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+QUBX,Tradr 2X Long QBTS Daily ETF Tradr 2X Long QUBT Daily ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b']",ETF,2025-09-08 22:10:30 UTC
+RAVI,FlexShares Ultra-Short Income Fund,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+RBLU,ETF Opportunities Trust T-REX 2X Long RBLX Daily Target ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b', 'lev/inv: \\bT[- ]?Rex\\b.*\\b2x\\b']",ETF,2025-09-08 22:10:30 UTC
+RDTL,GraniteShares 2x Long RDDT Daily ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b']",ETF,2025-09-08 22:10:30 UTC
+REK,ProShares Short Real Estate,Y,['leveraged_or_inverse'],"['lev/inv: \\bshort\\b', 'lev/inv: short-inverse context']",ETF,2025-09-08 22:10:30 UTC
+REKT,Direxion Shares ETF Trust Direxion Daily Crypto Industry Bear 1X Shares,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*1x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b']",ETF,2025-09-08 22:10:30 UTC
+RETL,Direxion Daily Retail Bull 3X Shares ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*3x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdaily\\s+\\w+\\s+(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b']",ETF,2025-09-08 22:10:30 UTC
+REW,ProShares UltraShort Technology,Y,['leveraged_or_inverse'],['lev/inv: short-inverse context'],ETF,2025-09-08 22:10:30 UTC
+RGTU,Tradr 2X Long QBTS Daily ETF Tradr 2X Long RGTI Daily ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b']",ETF,2025-09-08 22:10:30 UTC
+RGTX,Defiance Daily Target 2X Long RGTI ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b']",ETF,2025-09-08 22:10:30 UTC
+RING,iShares MSCI Global Gold Miners ETF,Y,['futures_or_physical'],['fut/phys: \\b(gold|silver|platinum|palladium)\\b'],ETF,2025-09-08 22:10:30 UTC
+RIOX,Tidal Trust II Defiance Daily Target 2X Long RIOT ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b']",ETF,2025-09-08 22:10:30 UTC
+RKLX,Defiance Daily Target 2X Long RKLB ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b']",ETF,2025-09-08 22:10:30 UTC
+ROBN,ETF Opportunities Trust T-Rex 2X Long HOOD Daily Target ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b', 'lev/inv: \\bT[- ]?Rex\\b.*\\b2x\\b']",ETF,2025-09-08 22:10:30 UTC
+ROM,ProShares Ultra Technology,Y,['leveraged_or_inverse'],['lev/inv: \\bproshares\\s+ultra\\b'],ETF,2025-09-08 22:10:30 UTC
+RSBT,Return Stacked Bonds & Managed Futures ETF,Y,['futures_or_physical'],['fut/phys: \\bfuture(s)?\\b'],ETF,2025-09-08 22:10:30 UTC
+RTXG,Leverage Shares 2X Long RTX Daily ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b', 'lev/inv: \\bLeverage Shares\\b']",ETF,2025-09-08 22:10:30 UTC
+RVNL,GraniteShares 2x Long RIVN Daily ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b']",ETF,2025-09-08 22:10:30 UTC
+RWM,ProShares Short Russell2000,Y,['leveraged_or_inverse'],"['lev/inv: \\bshort\\b', 'lev/inv: short-inverse context']",ETF,2025-09-08 22:10:30 UTC
+RXD,ProShares UltraShort Health Care,Y,['leveraged_or_inverse'],['lev/inv: short-inverse context'],ETF,2025-09-08 22:10:30 UTC
+RXL,ProShares Ultra Health Care,Y,['leveraged_or_inverse'],['lev/inv: \\bproshares\\s+ultra\\b'],ETF,2025-09-08 22:10:30 UTC
+SAA,ProShares Ultra SmallCap600,Y,['leveraged_or_inverse'],['lev/inv: \\bproshares\\s+ultra\\b'],ETF,2025-09-08 22:10:30 UTC
+SARK,Tradr 1X Short Innovation Daily ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*1x(?![A-Z0-9])', 'lev/inv: \\bshort\\b', 'lev/inv: short-inverse context']",ETF,2025-09-08 22:10:30 UTC
+SBB,ProShares Short SmallCap600,Y,['leveraged_or_inverse'],"['lev/inv: \\bshort\\b', 'lev/inv: short-inverse context']",ETF,2025-09-08 22:10:30 UTC
+SBND,Columbia Short Duration Bond ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+SCC,ProShares UltraShort Consumer Discretionary,Y,['leveraged_or_inverse'],['lev/inv: short-inverse context'],ETF,2025-09-08 22:10:30 UTC
+SCHO,Schwab Short-Term U.S. Treasury ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+SCO,ProShares UltraShort Bloomberg Crude Oil,Y,"['leveraged_or_inverse', 'futures_or_physical']","['lev/inv: short-inverse context', 'fut/phys: \\b(wti|brent|crude oil|natural gas|gasoline|heating oil)\\b']",ETF,2025-09-08 22:10:30 UTC
+SCUS,Schwab Strategic Trust Schwab Ultra-Short Income ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+SDCP,Virtus ETF Trust II Virtus Newfleet Short Duration Core Plus Bond ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+SDD,ProShares UltraShort SmallCap600,Y,['leveraged_or_inverse'],['lev/inv: short-inverse context'],ETF,2025-09-08 22:10:30 UTC
+SDFI,"AB Active ETFs, Inc. AB Short Duration Income ETF",Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+SDOW,UltraPro Short Dow30,Y,['leveraged_or_inverse'],"['lev/inv: \\bultrapro\\b', 'lev/inv: \\bshort\\b']",ETF,2025-09-08 22:10:30 UTC
+SDP,ProShares UltraShort Utilities,Y,['leveraged_or_inverse'],['lev/inv: short-inverse context'],ETF,2025-09-08 22:10:30 UTC
+SDS,ProShares UltraShort S&P500,Y,['leveraged_or_inverse'],['lev/inv: short-inverse context'],ETF,2025-09-08 22:10:30 UTC
+SDSI,American Century Short Duration Strategic Income ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+SEF,ProShares Short Financials,Y,['leveraged_or_inverse'],"['lev/inv: \\bshort\\b', 'lev/inv: short-inverse context']",ETF,2025-09-08 22:10:30 UTC
+SETH,ProShares Short Ether ETF,Y,['leveraged_or_inverse'],"['lev/inv: \\bshort\\b', 'lev/inv: short-inverse context']",ETF,2025-09-08 22:10:30 UTC
+SGDJ,Sprott Junior Gold Miners ETF,Y,['futures_or_physical'],['fut/phys: \\b(gold|silver|platinum|palladium)\\b'],ETF,2025-09-08 22:10:30 UTC
+SGDM,Sprott Gold Miners ETF,Y,['futures_or_physical'],['fut/phys: \\b(gold|silver|platinum|palladium)\\b'],ETF,2025-09-08 22:10:30 UTC
+SGOL,abrdn Physical Gold Shares ETF,Y,['futures_or_physical'],"['fut/phys: \\b(physical|physically)\\b', 'fut/phys: \\b(gold|silver|platinum|palladium)\\b']",ETF,2025-09-08 22:10:30 UTC
+SH,ProShares Short S&P500,Y,['leveraged_or_inverse'],"['lev/inv: \\bshort\\b', 'lev/inv: short-inverse context']",ETF,2025-09-08 22:10:30 UTC
+SHAG,WisdomTree Yield Enhanced U.S. Short-Term Aggregate Bond Fund,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+SHM,SPDR Nuveen ICE Short Term Municipal Bond ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+SHPD,Direxion Daily SHOP Bear 1X ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*1x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdaily\\s+\\w+\\s+(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b']",ETF,2025-09-08 22:10:30 UTC
+SHPU,Direxion Daily SHOP Bull 2X ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdaily\\s+\\w+\\s+(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b']",ETF,2025-09-08 22:10:30 UTC
+SHRT,Gotham Short Strategies ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+SHV,iShares Short Treasury Bond ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+SHYD,VanEck ETF Trust VanEck Short High Yield Muni ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+SHYL,Xtrackers Short Duration High Yield Bond ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+SHYM,iShares Short Duration High Yield Muni Active ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+SIJ,ProShares UltraShort Industrials,Y,['leveraged_or_inverse'],['lev/inv: short-inverse context'],ETF,2025-09-08 22:10:30 UTC
+SIL,Global X Silver Miners ETF,Y,['futures_or_physical'],['fut/phys: \\b(gold|silver|platinum|palladium)\\b'],ETF,2025-09-08 22:10:30 UTC
+SIVR,abrdn Physical Silver Shares ETF,Y,['futures_or_physical'],"['fut/phys: \\b(physical|physically)\\b', 'fut/phys: \\b(gold|silver|platinum|palladium)\\b']",ETF,2025-09-08 22:10:30 UTC
+SJB,ProShares Short High Yield,Y,['leveraged_or_inverse'],"['lev/inv: \\bshort\\b', 'lev/inv: short-inverse context']",ETF,2025-09-08 22:10:30 UTC
+SJNK,SPDR Bloomberg Short Term High Yield Bond ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+SKF,ProShares UltraShort Financials,Y,['leveraged_or_inverse'],['lev/inv: short-inverse context'],ETF,2025-09-08 22:10:30 UTC
+SKRE,Tuttle Capital Daily 2X Inverse Regional Banks ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\bInverse\\b']",ETF,2025-09-08 22:10:30 UTC
+SKYU,ProShares Ultra Cloud Computing,Y,['leveraged_or_inverse'],['lev/inv: \\bproshares\\s+ultra\\b'],ETF,2025-09-08 22:10:30 UTC
+SLDR,Global X Funds Global X Short-Term Treasury Ladder ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+SLON,ProShares Trust ProShares Ultra Solana ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bproshares\\s+ultra\\b'],ETF,2025-09-08 22:10:30 UTC
+SLTY,Tidal Trust II YieldMax Ultra Short Option Income Strategy ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+SLVP,iShares MSCI Global Silver Miners Fund,Y,['futures_or_physical'],['fut/phys: \\b(gold|silver|platinum|palladium)\\b'],ETF,2025-09-08 22:10:30 UTC
+SLVR,Sprott Silver Miners & Physical Silver ETF,Y,['futures_or_physical'],"['fut/phys: \\b(physical|physically)\\b', 'fut/phys: \\b(gold|silver|platinum|palladium)\\b']",ETF,2025-09-08 22:10:30 UTC
+SMB,VanEck ETF Trust VanEck Short Muni ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+SMCL,GraniteShares 2x Long SMCI Daily ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b']",ETF,2025-09-08 22:10:30 UTC
+SMCX,Defiance Daily Target 2X Long SMCI ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b']",ETF,2025-09-08 22:10:30 UTC
+SMCZ,Defiance Daily Target 2X Short SMCI ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b', 'lev/inv: \\bshort\\b', 'lev/inv: short-inverse context']",ETF,2025-09-08 22:10:30 UTC
+SMDD,UltraPro Short MidCap400,Y,['leveraged_or_inverse'],"['lev/inv: \\bultrapro\\b', 'lev/inv: \\bshort\\b']",ETF,2025-09-08 22:10:30 UTC
+SMMU,Short Term Municipal Bond Active Exchange-Traded Fund,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+SMN,ProShares UltraShort Materials,Y,['leveraged_or_inverse'],['lev/inv: short-inverse context'],ETF,2025-09-08 22:10:30 UTC
+SMST,Defiance Daily Target 2x Short MSTR ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b', 'lev/inv: \\bshort\\b', 'lev/inv: short-inverse context']",ETF,2025-09-08 22:10:30 UTC
+SMU,Tradr 2X Long SMR Daily ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b']",ETF,2025-09-08 22:10:30 UTC
+SMUP,ETF Opportunities Trust T-REX 2X Long SMR Daily Target ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b', 'lev/inv: \\bT[- ]?Rex\\b.*\\b2x\\b']",ETF,2025-09-08 22:10:30 UTC
+SNOU,ETF Opp Tr T-REX 2X Long SNOW Daily Target ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b', 'lev/inv: \\bT[- ]?Rex\\b.*\\b2x\\b']",ETF,2025-09-08 22:10:30 UTC
+SOFL,Tidal Trust III 2x Daily Software Platform ETF,Y,['leveraged_or_inverse'],['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])'],ETF,2025-09-08 22:10:30 UTC
+SOFX,Defiance Daily Target 2X Long SOFI ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b']",ETF,2025-09-08 22:10:30 UTC
+SOLT,2x Solana ETF,Y,['leveraged_or_inverse'],['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])'],ETF,2025-09-08 22:10:30 UTC
+SOUX,Defiance Daily Target 2X Long SOUN ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b']",ETF,2025-09-08 22:10:30 UTC
+SOXL,Direxion Daily Semiconductor Bull 3x Shares,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*3x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdaily\\s+\\w+\\s+(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b']",ETF,2025-09-08 22:10:30 UTC
+SOXS,Direxion Daily Semiconductor Bear 3x Shares,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*3x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdaily\\s+\\w+\\s+(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b']",ETF,2025-09-08 22:10:30 UTC
+SOYB,Teucrium Soybean Fund ETV,Y,['futures_or_physical'],['fut/phys: \\b(corn|soybean|soybeans|wheat|coffee|sugar|cocoa|cotton|live cattle|lean hogs|feeder cattle)\\b'],ETF,2025-09-08 22:10:30 UTC
+SPBC,Simplify US Equity PLUS Bitcoin Strategy ETF,Y,['futures_or_physical'],['fut/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b'],ETF,2025-09-08 22:10:30 UTC
+SPDN,Direxion Daily S&P 500 Bear 1X Shares,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*1x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b']",ETF,2025-09-08 22:10:30 UTC
+SPSB,SPDR Portfolio Short Term Corporate Bond ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+SPTS,SPDR Portfolio Short Term Treasury ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+SPUU,Direxion Daily S&P 500 Bull 2X Shares,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b']",ETF,2025-09-08 22:10:30 UTC
+SPXL,Direxion Daily S&P 500 Bull 3X Shares,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*3x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b']",ETF,2025-09-08 22:10:30 UTC
+SPXS,Direxion Daily S&P 500 Bear 3X,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*3x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b']",ETF,2025-09-08 22:10:30 UTC
+SPXU,ProShares UltraPro Short S&P500,Y,['leveraged_or_inverse'],"['lev/inv: \\bultrapro\\b', 'lev/inv: \\bshort\\b', 'lev/inv: short-inverse context']",ETF,2025-09-08 22:10:30 UTC
+SPYQ,Tradr 2X Long SPY Quarterly ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b']",ETF,2025-09-08 22:10:30 UTC
+SQQQ,ProShares UltraPro Short QQQ,Y,['leveraged_or_inverse'],"['lev/inv: \\bultrapro\\b', 'lev/inv: \\bshort\\b', 'lev/inv: short-inverse context']",ETF,2025-09-08 22:10:30 UTC
+SRS,ProShares UltraShort Real Estate,Y,['leveraged_or_inverse'],['lev/inv: short-inverse context'],ETF,2025-09-08 22:10:30 UTC
+SRTY,ProShares UltraPro Short Russell2000,Y,['leveraged_or_inverse'],"['lev/inv: \\bultrapro\\b', 'lev/inv: \\bshort\\b', 'lev/inv: short-inverse context']",ETF,2025-09-08 22:10:30 UTC
+SSG,ProShares UltraShort Semiconductors,Y,['leveraged_or_inverse'],['lev/inv: short-inverse context'],ETF,2025-09-08 22:10:30 UTC
+SSO,ProShares Ultra S&P500,Y,['leveraged_or_inverse'],['lev/inv: \\bproshares\\s+ultra\\b'],ETF,2025-09-08 22:10:30 UTC
+STAX,Macquarie ETF Trust Macquarie Tax-Free USA Short Term ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+STBF,Trust for Professional Managers Performance Trust Short Term Bond ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+STOT,SPDR DoubleLine Short Duration Total Return Tactical ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+SUB,iShares Short-Term National Muni Bond ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+SVIX,VS TR -1x Short VIX Futures ETF,Y,"['leveraged_or_inverse', 'futures_or_physical']","['lev/inv: (?<![A-Z0-9])[-–—]?\\s*1x(?![A-Z0-9])', 'lev/inv: \\bshort\\b', 'lev/inv: short-inverse context', 'fut/phys: \\bfuture(s)?\\b', 'fut/phys: \\b(vix|cboe volatility)\\b']",ETF,2025-09-08 22:10:30 UTC
+SVXY,ProShares Short VIX Short Term Futures ETF,Y,"['leveraged_or_inverse', 'futures_or_physical']","['lev/inv: \\bshort\\b', 'fut/phys: \\bfuture(s)?\\b', 'fut/phys: \\b(vix|cboe volatility)\\b']",ETF,2025-09-08 22:10:30 UTC
+SYFI,"AB Active ETFs, Inc. AB Short Duration High Yield ETF",Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+SZK,ProShares UltraShort Consumer Staples,Y,['leveraged_or_inverse'],['lev/inv: short-inverse context'],ETF,2025-09-08 22:10:30 UTC
+TAFI,"AB Active ETFs, Inc. AB Tax-Aware Short Duration Municipal ETF",Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+TARK,Tradr 2X Long Innovation ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b']",ETF,2025-09-08 22:10:30 UTC
+TAXS,Northern Trust Short-Term Tax-Exempt Bond ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+TAXX,BondBloxx ETF Trust BondBloxx IR+M Tax-Aware Short Duration ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+TBF,ProShares Short 20+ Year Treasury,Y,['leveraged_or_inverse'],"['lev/inv: \\bshort\\b', 'lev/inv: short-inverse context']",ETF,2025-09-08 22:10:30 UTC
+TBLL,Invesco Short Term Treasury ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+TBT,ProShares UltraShort Lehman 20 Year Treasury,Y,['leveraged_or_inverse'],['lev/inv: short-inverse context'],ETF,2025-09-08 22:10:30 UTC
+TBUX,T. Rowe Price Ultra Short-Term Bond ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+TBX,ProShares Short 7 10 Year Treasury,Y,['leveraged_or_inverse'],"['lev/inv: \\bshort\\b', 'lev/inv: short-inverse context']",ETF,2025-09-08 22:10:30 UTC
+TECL,Direxion Technology Bull 3X Shares,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*3x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b']",ETF,2025-09-08 22:10:30 UTC
+TECS,Direxion Technology Bear 3X Shares,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*3x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b']",ETF,2025-09-08 22:10:30 UTC
+TEMT,Tradr 2X Long QBTS Daily ETF Tradr 2X Long TEM Daily ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b']",ETF,2025-09-08 22:10:30 UTC
+TETH,21Shares Ethereum ETF,Y,['futures_or_physical'],['fut/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b'],ETF,2025-09-08 22:10:30 UTC
+TMF,Direxion Daily 20-Yr Treasury Bull 3x Shrs,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*3x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b']",ETF,2025-09-08 22:10:30 UTC
+TMV,Direxion Daily 20-Year Treasury Bear 3X,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*3x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b']",ETF,2025-09-08 22:10:30 UTC
+TNA,Direxion Small Cap Bull 3X Shares,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*3x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b']",ETF,2025-09-08 22:10:30 UTC
+TOAK,Manager Directed Portfolios Twin Oak Short Horizon Absolute Return ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+TPOR,Direxion Daily Transportation Bull 3X Shares,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*3x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdaily\\s+\\w+\\s+(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b']",ETF,2025-09-08 22:10:30 UTC
+TQQQ,ProShares UltraPro QQQ,Y,['leveraged_or_inverse'],['lev/inv: \\bultrapro\\b'],ETF,2025-09-08 22:10:30 UTC
+TSDD,GraniteShares 2x Short TSLA Daily ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b', 'lev/inv: \\bshort\\b', 'lev/inv: short-inverse context']",ETF,2025-09-08 22:10:30 UTC
+TSLG,Leverage Shares 2X Long TSLA Daily ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b', 'lev/inv: \\bLeverage Shares\\b']",ETF,2025-09-08 22:10:30 UTC
+TSLL,Direxion Daily TSLA Bull 2X Shares,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdaily\\s+\\w+\\s+(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b']",ETF,2025-09-08 22:10:30 UTC
+TSLO,Themes ETF Trust Leverage Shares 2x Capped Accelerated TSLA Monthly ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\bLeverage Shares\\b']",ETF,2025-09-08 22:10:30 UTC
+TSLQ,Tradr 2X Short TSLA Daily ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b', 'lev/inv: \\bshort\\b', 'lev/inv: short-inverse context']",ETF,2025-09-08 22:10:30 UTC
+TSLR,GraniteShares 2x Long TSLA Daily ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b']",ETF,2025-09-08 22:10:30 UTC
+TSLS,Direxion Daily TSLA Bear 1X Shares,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*1x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdaily\\s+\\w+\\s+(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b']",ETF,2025-09-08 22:10:30 UTC
+TSLT,ETF Opportunities Trust T-REX 2X Long Tesla Daily Target ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b', 'lev/inv: \\bT[- ]?Rex\\b.*\\b2x\\b']",ETF,2025-09-08 22:10:30 UTC
+TSLZ,ETF Opportunities Trust T-Rex 2X Inverse Tesla Daily Target ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\bT[- ]?Rex\\b.*\\b2x\\b', 'lev/inv: \\bInverse\\b']",ETF,2025-09-08 22:10:30 UTC
+TSMG,Leverage Shares 2X Long TSM Daily ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b', 'lev/inv: \\bLeverage Shares\\b']",ETF,2025-09-08 22:10:30 UTC
+TSMU,GraniteShares 2x Long TSM Daily ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b']",ETF,2025-09-08 22:10:30 UTC
+TSMX,Direxion Daily TSM Bull 2X Shares,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdaily\\s+\\w+\\s+(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b']",ETF,2025-09-08 22:10:30 UTC
+TSMZ,Direxion Daily TSM Bear 1X Shares,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*1x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdaily\\s+\\w+\\s+(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b']",ETF,2025-09-08 22:10:30 UTC
+TTT,ProShares UltraPro Short 20 Year Treasury,Y,['leveraged_or_inverse'],"['lev/inv: \\bultrapro\\b', 'lev/inv: \\bshort\\b', 'lev/inv: short-inverse context']",ETF,2025-09-08 22:10:30 UTC
+TUA,Simplify Exchange Traded Funds Simplify Short Term Treasury Futures Strategy ETF,Y,"['leveraged_or_inverse', 'futures_or_physical']","['lev/inv: \\bshort\\b', 'fut/phys: \\bfuture(s)?\\b']",ETF,2025-09-08 22:10:30 UTC
+TUSB,Thrivent ETF Trust Thrivent Ultra Short Bond ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+TUSI,Touchstone ETF Trust Touchstone Ultra Short Income ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+TWM,ProShares UltraShort Russell2000,Y,['leveraged_or_inverse'],['lev/inv: short-inverse context'],ETF,2025-09-08 22:10:30 UTC
+TYA,Simplify Intermediate Term Treasury Futures Strategy ETF,Y,['futures_or_physical'],['fut/phys: \\bfuture(s)?\\b'],ETF,2025-09-08 22:10:30 UTC
+TYD,Direxion Daily 10-Yr Treasury Bull 3x Shrs,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*3x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b']",ETF,2025-09-08 22:10:30 UTC
+TYO,Direxion Daily 10-Yr Treasury Bear 3x Shrs,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*3x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b']",ETF,2025-09-08 22:10:30 UTC
+TZA,Direxion Small Cap Bear 3X Shares,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*3x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b']",ETF,2025-09-08 22:10:30 UTC
+UBOT,"Direxion Daily Robotics, Artificial Intelligence & Automation Index Bull 2X Shares",Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b']",ETF,2025-09-08 22:10:30 UTC
+UBR,ProShares Ultra MSCI Brazil Capped,Y,['leveraged_or_inverse'],['lev/inv: \\bproshares\\s+ultra\\b'],ETF,2025-09-08 22:10:30 UTC
+UBRL,GraniteShares 2x Long UBER Daily ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b']",ETF,2025-09-08 22:10:30 UTC
+UBT,ProShares Ultra 20+ Year Treasury,Y,['leveraged_or_inverse'],['lev/inv: \\bproshares\\s+ultra\\b'],ETF,2025-09-08 22:10:30 UTC
+UCC,ProShares Ultra Consumer Discretionary,Y,['leveraged_or_inverse'],['lev/inv: \\bproshares\\s+ultra\\b'],ETF,2025-09-08 22:10:30 UTC
+UCO,ProShares Ultra Bloomberg Crude Oil,Y,"['leveraged_or_inverse', 'futures_or_physical']","['lev/inv: \\bproshares\\s+ultra\\b', 'fut/phys: \\b(wti|brent|crude oil|natural gas|gasoline|heating oil)\\b']",ETF,2025-09-08 22:10:30 UTC
+UCYB,ProShares Ultra Nasdaq Cybersecurity,Y,['leveraged_or_inverse'],['lev/inv: \\bproshares\\s+ultra\\b'],ETF,2025-09-08 22:10:30 UTC
+UDOW,ProShares UltraPro Dow30,Y,['leveraged_or_inverse'],['lev/inv: \\bultrapro\\b'],ETF,2025-09-08 22:10:30 UTC
+UGA,United States Gasoline Fund LP,Y,['futures_or_physical'],"['fut/phys: \\b(wti|brent|crude oil|natural gas|gasoline|heating oil)\\b', 'fut/phys: \\bUnited States (Oil|Natural Gas|Gasoline|Heating Oil) Fund\\b']",ETF,2025-09-08 22:10:30 UTC
+UGE,ProShares Ultra Consumer Staples,Y,['leveraged_or_inverse'],['lev/inv: \\bproshares\\s+ultra\\b'],ETF,2025-09-08 22:10:30 UTC
+UGL,ProShares Ultra Gold,Y,"['leveraged_or_inverse', 'futures_or_physical']","['lev/inv: \\bproshares\\s+ultra\\b', 'fut/phys: \\b(gold|silver|platinum|palladium)\\b']",ETF,2025-09-08 22:10:30 UTC
+UJB,ProShares Ultra High Yield ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bproshares\\s+ultra\\b'],ETF,2025-09-08 22:10:30 UTC
+ULE,ProShares Ultra Euro,Y,['leveraged_or_inverse'],['lev/inv: \\bproshares\\s+ultra\\b'],ETF,2025-09-08 22:10:30 UTC
+ULST,SPDR SSgA Ultra Short Term Bond ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+UMDD,UltraPro MidCap400,Y,['leveraged_or_inverse'],['lev/inv: \\bultrapro\\b'],ETF,2025-09-08 22:10:30 UTC
+UNG,United States Natural Gas Fund LP,Y,['futures_or_physical'],"['fut/phys: \\b(wti|brent|crude oil|natural gas|gasoline|heating oil)\\b', 'fut/phys: \\bUnited States (Oil|Natural Gas|Gasoline|Heating Oil) Fund\\b']",ETF,2025-09-08 22:10:30 UTC
+UNHG,Leverage Shares 2X Long UNH Daily ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b', 'lev/inv: \\bLeverage Shares\\b']",ETF,2025-09-08 22:10:30 UTC
+UNL,United States 12 Month Natural Gas Fund,Y,['futures_or_physical'],['fut/phys: \\b(wti|brent|crude oil|natural gas|gasoline|heating oil)\\b'],ETF,2025-09-08 22:10:30 UTC
+UPRO,ProShares UltraPro S&P 500,Y,['leveraged_or_inverse'],['lev/inv: \\bultrapro\\b'],ETF,2025-09-08 22:10:30 UTC
+UPSX,Tradr 2X Long QBTS Daily ETF Tradr 2X Long UPST Daily ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b']",ETF,2025-09-08 22:10:30 UTC
+UPV,ProShares Ultra FTSE Europe,Y,['leveraged_or_inverse'],['lev/inv: \\bproshares\\s+ultra\\b'],ETF,2025-09-08 22:10:30 UTC
+UPW,ProShares Ultra Utilities,Y,['leveraged_or_inverse'],['lev/inv: \\bproshares\\s+ultra\\b'],ETF,2025-09-08 22:10:30 UTC
+URA,Global X Uranium ETF,Y,['futures_or_physical'],['fut/phys: \\b(uranium|lithium|nickel|copper|aluminum|zinc|tin)\\b'],ETF,2025-09-08 22:10:30 UTC
+URE,ProShares Ultra Real Estate,Y,['leveraged_or_inverse'],['lev/inv: \\bproshares\\s+ultra\\b'],ETF,2025-09-08 22:10:30 UTC
+URNJ,Sprott Junior Uranium Miners ETF,Y,['futures_or_physical'],['fut/phys: \\b(uranium|lithium|nickel|copper|aluminum|zinc|tin)\\b'],ETF,2025-09-08 22:10:30 UTC
+URNM,Sprott Uranium Miners ETF,Y,['futures_or_physical'],['fut/phys: \\b(uranium|lithium|nickel|copper|aluminum|zinc|tin)\\b'],ETF,2025-09-08 22:10:30 UTC
+URSP,ProShares Trust ProShares Ultra S&P 500 Equal Weight,Y,['leveraged_or_inverse'],['lev/inv: \\bproshares\\s+ultra\\b'],ETF,2025-09-08 22:10:30 UTC
+URTY,ProShares UltraPro Russell2000,Y,['leveraged_or_inverse'],['lev/inv: \\bultrapro\\b'],ETF,2025-09-08 22:10:30 UTC
+USD,ProShares Ultra Semiconductors,Y,['leveraged_or_inverse'],['lev/inv: \\bproshares\\s+ultra\\b'],ETF,2025-09-08 22:10:30 UTC
+USG,USCF Gold Strategy Plus Income Fund,Y,['futures_or_physical'],['fut/phys: \\b(gold|silver|platinum|palladium)\\b'],ETF,2025-09-08 22:10:30 UTC
+USO,United States Oil Fund,Y,['futures_or_physical'],['fut/phys: \\bUnited States (Oil|Natural Gas|Gasoline|Heating Oil) Fund\\b'],ETF,2025-09-08 22:10:30 UTC
+UST,ProShares Ultra 7-10 Year Treasury,Y,['leveraged_or_inverse'],['lev/inv: \\bproshares\\s+ultra\\b'],ETF,2025-09-08 22:10:30 UTC
+USTB,VictoryShares Short-Term Bond ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+UTSL,Direxion Daily Utilities Bull 3X Shares,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*3x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdaily\\s+\\w+\\s+(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b']",ETF,2025-09-08 22:10:30 UTC
+UVIX,VS TR 2x Long VIX Futures ETF,Y,"['leveraged_or_inverse', 'futures_or_physical']","['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b', 'fut/phys: \\bfuture(s)?\\b', 'fut/phys: \\b(vix|cboe volatility)\\b']",ETF,2025-09-08 22:10:30 UTC
+UWM,ProShares Ultra Russell2000,Y,['leveraged_or_inverse'],['lev/inv: \\bproshares\\s+ultra\\b'],ETF,2025-09-08 22:10:30 UTC
+UXI,ProShares Ultra Industrials,Y,['leveraged_or_inverse'],['lev/inv: \\bproshares\\s+ultra\\b'],ETF,2025-09-08 22:10:30 UTC
+UXRP,ProShares Trust ProShares Ultra XRP ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bproshares\\s+ultra\\b'],ETF,2025-09-08 22:10:30 UTC
+UYG,ProShares Ultra Financials,Y,['leveraged_or_inverse'],['lev/inv: \\bproshares\\s+ultra\\b'],ETF,2025-09-08 22:10:30 UTC
+UYM,ProShares Ultra Materials,Y,['leveraged_or_inverse'],['lev/inv: \\bproshares\\s+ultra\\b'],ETF,2025-09-08 22:10:30 UTC
+VCSH,Vanguard Short-Term Corporate Bond ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+VGSH,Vanguard Short-Term Treasury ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+VGUS,Vanguard Ultra-Short Treasury ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+VNLA,Janus Henderson Short Duration Income ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+VRTL,GraniteShares 2x Long VRT Daily ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b']",ETF,2025-09-08 22:10:30 UTC
+VSDB,Vanguard Malvern Funds Vanguard Short Duration Bond ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+VSDM,Vanguard Tax-Managed Funds Vanguard Short Duration Tax-Exempt Bond ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+VSHY,Virtus Newfleet Short Duration High Yield Bond ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+VSTL,Defiance Daily Target 2X Long VST ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b']",ETF,2025-09-08 22:10:30 UTC
+VTES,Vanguard Wellington Fund Vanguard Short-Term Tax Exempt Bond ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+VTIP,Vanguard Short-Term Inflation-Protected Securities Index Fund ETF Shares,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+VUSB,Vanguard Ultra-Short Bond ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+WANT,Direxion Daily Consumer Discretionary Bull 3X Shares,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*3x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b']",ETF,2025-09-08 22:10:30 UTC
+WEAT,Teucrium Wheat Fund ETV,Y,['futures_or_physical'],['fut/phys: \\b(corn|soybean|soybeans|wheat|coffee|sugar|cocoa|cotton|live cattle|lean hogs|feeder cattle)\\b'],ETF,2025-09-08 22:10:30 UTC
+WEBL,Direxion Daily Dow Jones Internet Bull 3X Shares,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*3x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b']",ETF,2025-09-08 22:10:30 UTC
+WEBS,Direxion Daily Dow Jones Internet Bear 3X Shares,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*3x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b']",ETF,2025-09-08 22:10:30 UTC
+WGMI,CoinShares Bitcoin Mining ETF,Y,['futures_or_physical'],['fut/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b'],ETF,2025-09-08 22:10:30 UTC
+WILD,Tidal Trust III VistaShares Animal Spirits Daily 2X Strategy ETF,Y,['leveraged_or_inverse'],['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])'],ETF,2025-09-08 22:10:30 UTC
+WNTR,Tidal Trust II YieldMax MSTR Short Option Income Strategy ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+WTMF,WisdomTree Managed Futures Strategy Fund,Y,['futures_or_physical'],['fut/phys: \\bfuture(s)?\\b'],ETF,2025-09-08 22:10:30 UTC
+XBTY,GraniteShares YieldBOOST Bitcoin ETF,Y,['futures_or_physical'],['fut/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b'],ETF,2025-09-08 22:10:30 UTC
+XOMX,Direxion Daily XOM Bull 2X Shares,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdaily\\s+\\w+\\s+(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b']",ETF,2025-09-08 22:10:30 UTC
+XOMZ,Direxion Daily XOM Bear 1X Shares,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*1x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdaily\\s+\\w+\\s+(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b']",ETF,2025-09-08 22:10:30 UTC
+XPP,ProShares Ultra FTSE China 50,Y,['leveraged_or_inverse'],['lev/inv: \\bproshares\\s+ultra\\b'],ETF,2025-09-08 22:10:30 UTC
+XXCH,Direxion Shares ETF Trust Direxion Daily MSCI Emerging Markets ex China Bull 2X Shares,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b']",ETF,2025-09-08 22:10:30 UTC
+XXRP,Listed Funds Trust Teucrium 2x Long Daily XRP ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b']",ETF,2025-09-08 22:10:30 UTC
+XYZG,Leverage Shares 2X Long XYZ Daily ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b', 'lev/inv: \\bLeverage Shares\\b']",ETF,2025-09-08 22:10:30 UTC
+YANG,Direxion Daily FTSE China Bear 3x Shares,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*3x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b']",ETF,2025-09-08 22:10:30 UTC
+YCL,ProShares Ultra Yen,Y,['leveraged_or_inverse'],['lev/inv: \\bproshares\\s+ultra\\b'],ETF,2025-09-08 22:10:30 UTC
+YCS,ProShares UltraShort Yen New,Y,['leveraged_or_inverse'],['lev/inv: short-inverse context'],ETF,2025-09-08 22:10:30 UTC
+YEAR,"AB Active ETFs, Inc. AB Ultra Short Income ETF",Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+YGLD,Simplify Exchange Traded Funds Simplify Gold Strategy PLUS Income ETF,Y,['futures_or_physical'],['fut/phys: \\b(gold|silver|platinum|palladium)\\b'],ETF,2025-09-08 22:10:30 UTC
+YINN,Direxion Daily FTSE China Bull 3x Shares,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*3x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b']",ETF,2025-09-08 22:10:30 UTC
+YQQQ,YieldMax Short N100 Option Income Strategy ETF,Y,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],ETF,2025-09-08 22:10:30 UTC
+YXI,ProShares Short FTSE China 50,Y,['leveraged_or_inverse'],"['lev/inv: \\bshort\\b', 'lev/inv: short-inverse context']",ETF,2025-09-08 22:10:30 UTC
+ZSL,ProShares UltraShort Silver,Y,"['leveraged_or_inverse', 'futures_or_physical']","['lev/inv: short-inverse context', 'fut/phys: \\b(gold|silver|platinum|palladium)\\b']",ETF,2025-09-08 22:10:30 UTC
+ZYN,Defiance Daily Target 2x Long PM ETF,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:2x|3x)\\s+(?:bull|bear|long|short)\\b']",ETF,2025-09-08 22:10:30 UTC
+BERZ,MicroSectors FANG & Innovation -3x Inverse Leveraged ETN,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*3x(?![A-Z0-9])', 'lev/inv: \\bInverse\\b']",ETN,2025-09-08 22:10:30 UTC
+BNKD,"Bank Of Montreal MicroSectors U.S. Big Banks -3 Inverse Leveraged ETNs due February 17, 2045",Y,['leveraged_or_inverse'],['lev/inv: \\bInverse\\b'],ETN,2025-09-08 22:10:30 UTC
+BULZ,MicroSectors FANG & Innovation 3x Leveraged ETN,Y,['leveraged_or_inverse'],['lev/inv: (?<![A-Z0-9])[-–—]?\\s*3x(?![A-Z0-9])'],ETN,2025-09-08 22:10:30 UTC
+CARD,Bank Of Montreal MAX Auto Industry -3x Inverse Leveraged ETN,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*3x(?![A-Z0-9])', 'lev/inv: \\bInverse\\b']",ETN,2025-09-08 22:10:30 UTC
+CARU,Bank Of Montreal MAX Auto Industry 3x Leveraged ETN,Y,['leveraged_or_inverse'],['lev/inv: (?<![A-Z0-9])[-–—]?\\s*3x(?![A-Z0-9])'],ETN,2025-09-08 22:10:30 UTC
+DGP,"DB Gold Double Long ETN due February 15, 2038",N,['futures_or_physical'],['fut/phys: \\b(gold|silver|platinum|palladium)\\b'],ETN,2025-09-08 22:10:30 UTC
+DGZ,"DB Gold Short ETN due February 15, 2038",N,"['leveraged_or_inverse', 'futures_or_physical']","['lev/inv: \\bshort\\b', 'fut/phys: \\b(gold|silver|platinum|palladium)\\b']",ETN,2025-09-08 22:10:30 UTC
+DULL,"Bank Of Montreal MicroSectors Gold -3X Inverse Leveraged ETNs due January 29, 2043",Y,"['leveraged_or_inverse', 'futures_or_physical']","['lev/inv: (?<![A-Z0-9])[-–—]?\\s*3x(?![A-Z0-9])', 'lev/inv: \\bInverse\\b', 'fut/phys: \\b(gold|silver|platinum|palladium)\\b']",ETN,2025-09-08 22:10:30 UTC
+DZZ,"DB Gold Double Short ETN due February 15, 2038",N,"['leveraged_or_inverse', 'futures_or_physical']","['lev/inv: \\bshort\\b', 'fut/phys: \\b(gold|silver|platinum|palladium)\\b']",ETN,2025-09-08 22:10:30 UTC
+FLYD,Bank of Montreal MicroSectors Travel -3x Inverse Leveraged ETN,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*3x(?![A-Z0-9])', 'lev/inv: \\bInverse\\b']",ETN,2025-09-08 22:10:30 UTC
+FLYU,Bank of Montreal MicroSectors Travel 3x Leveraged ETN,Y,['leveraged_or_inverse'],['lev/inv: (?<![A-Z0-9])[-–—]?\\s*3x(?![A-Z0-9])'],ETN,2025-09-08 22:10:30 UTC
+FNGD,"MicroSectors FANG Index -3X Inverse Leveraged ETNs due January 8, 2038",N,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*3x(?![A-Z0-9])', 'lev/inv: \\bInverse\\b']",ETN,2025-09-08 22:10:30 UTC
+FNGO,"MicroSectors FANG Index 2X Leveraged ETNs due January 8, 2038",N,['leveraged_or_inverse'],['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])'],ETN,2025-09-08 22:10:30 UTC
+FNGU,Bank Of Montreal MicroSectors FANG+ 3X Leveraged ETNs,Y,['leveraged_or_inverse'],['lev/inv: (?<![A-Z0-9])[-–—]?\\s*3x(?![A-Z0-9])'],ETN,2025-09-08 22:10:30 UTC
+GDXD,MicroSectors Gold Miners -3X Inverse Leveraged ETNs,Y,"['leveraged_or_inverse', 'futures_or_physical']","['lev/inv: (?<![A-Z0-9])[-–—]?\\s*3x(?![A-Z0-9])', 'lev/inv: \\bInverse\\b', 'fut/phys: \\b(gold|silver|platinum|palladium)\\b']",ETN,2025-09-08 22:10:30 UTC
+GDXU,MicroSectors Gold Miners 3X Leveraged ETN,Y,"['leveraged_or_inverse', 'futures_or_physical']","['lev/inv: (?<![A-Z0-9])[-–—]?\\s*3x(?![A-Z0-9])', 'fut/phys: \\b(gold|silver|platinum|palladium)\\b']",ETN,2025-09-08 22:10:30 UTC
+GLDI,"ETRACS Gold Shares Covered Call ETNs due February 2, 2033",N,['futures_or_physical'],['fut/phys: \\b(gold|silver|platinum|palladium)\\b'],ETN,2025-09-08 22:10:30 UTC
+IWDL,ETRACS 2x Leveraged US Value Factor TR ETN,Y,['leveraged_or_inverse'],['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])'],ETN,2025-09-08 22:10:30 UTC
+IWFL,ETRACS 2x Leveraged US Growth Factor TR ETN,Y,['leveraged_or_inverse'],['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])'],ETN,2025-09-08 22:10:30 UTC
+IWML,ETRACS 2x Leveraged US Size Factor TR ETN,Y,['leveraged_or_inverse'],['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])'],ETN,2025-09-08 22:10:30 UTC
+JETD,Bank Of Montreal MAX Airlines -3X Inverse Leveraged ETNs,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*3x(?![A-Z0-9])', 'lev/inv: \\bInverse\\b']",ETN,2025-09-08 22:10:30 UTC
+JETU,Bank Of Montreal MAX Airlines 3X Leveraged ETNs,Y,['leveraged_or_inverse'],['lev/inv: (?<![A-Z0-9])[-–—]?\\s*3x(?![A-Z0-9])'],ETN,2025-09-08 22:10:30 UTC
+MTUL,ETRACS 2x Leveraged MSCI US Momentum Factor TR ETN,Y,['leveraged_or_inverse'],['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])'],ETN,2025-09-08 22:10:30 UTC
+NRGD,"Bank Of Montreal MicroSectors U.S. Big Oil -3 Inverse Leveraged ETNs due February 17, 2045",Y,['leveraged_or_inverse'],['lev/inv: \\bInverse\\b'],ETN,2025-09-08 22:10:30 UTC
+OILD,MicroSectors Oil & Gas Exp. & Prod. -3x Inverse Leveraged ETN,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*3x(?![A-Z0-9])', 'lev/inv: \\bInverse\\b']",ETN,2025-09-08 22:10:30 UTC
+OILU,MicroSectors Oil & Gas Exp. & Prod. 3x Leveraged ETN,Y,['leveraged_or_inverse'],['lev/inv: (?<![A-Z0-9])[-–—]?\\s*3x(?![A-Z0-9])'],ETN,2025-09-08 22:10:30 UTC
+QULL,ETRACS 2x Leveraged MSCI US Quality Factor TR ETN,Y,['leveraged_or_inverse'],['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])'],ETN,2025-09-08 22:10:30 UTC
+SCDL,ETRACS 2x Leveraged US Dividend Factor TR ETN,Y,['leveraged_or_inverse'],['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])'],ETN,2025-09-08 22:10:30 UTC
+SHNY,"Bank Of Montreal MicroSectors Gold 3X Leveraged ETNs due January 29, 2043",Y,"['leveraged_or_inverse', 'futures_or_physical']","['lev/inv: (?<![A-Z0-9])[-–—]?\\s*3x(?![A-Z0-9])', 'fut/phys: \\b(gold|silver|platinum|palladium)\\b']",ETN,2025-09-08 22:10:30 UTC
+SLVO,"ETRACS Silver Shares Covered Call ETNs due April 21, 2033",N,['futures_or_physical'],['fut/phys: \\b(gold|silver|platinum|palladium)\\b'],ETN,2025-09-08 22:10:30 UTC
+SMHB,ETRACS Monthly Pay 2x Leveraged Small Cap High Dividend ETN Series B,N,['leveraged_or_inverse'],['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])'],ETN,2025-09-08 22:10:30 UTC
+USML,ETRACS 2x Leveraged MSCI US Minimum Volatility Factor TR ETN,Y,['leveraged_or_inverse'],['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])'],ETN,2025-09-08 22:10:30 UTC
+USOI,"ETRACS Crude Oil Shares Covered Call ETNs due April 24, 2037",N,['futures_or_physical'],['fut/phys: \\b(wti|brent|crude oil|natural gas|gasoline|heating oil)\\b'],ETN,2025-09-08 22:10:30 UTC
+VXX,iPath Series B S&P 500 VIX Short-Term Futures ETN,N,"['leveraged_or_inverse', 'futures_or_physical']","['lev/inv: \\bshort\\b', 'fut/phys: \\bfuture(s)?\\b', 'fut/phys: \\b(vix|cboe volatility)\\b']",ETN,2025-09-08 22:10:30 UTC
+VXZ,iPath Series B S&P 500 VIX Mid-Term Futures ETN,N,['futures_or_physical'],"['fut/phys: \\bfuture(s)?\\b', 'fut/phys: \\b(vix|cboe volatility)\\b']",ETN,2025-09-08 22:10:30 UTC
+VYLD,"J P Morgan Chase & Co Inverse VIX Short-Term Futures ETNs due March 22, 2045",Y,"['leveraged_or_inverse', 'futures_or_physical']","['lev/inv: \\bInverse\\b', 'lev/inv: \\bshort\\b', 'fut/phys: \\bfuture(s)?\\b', 'fut/phys: \\b(vix|cboe volatility)\\b']",ETN,2025-09-08 22:10:30 UTC
+WTID,Bank Of Montreal MicroSectors Energy 3X Inverse Leveraged ETNs,Y,['leveraged_or_inverse'],"['lev/inv: (?<![A-Z0-9])[-–—]?\\s*3x(?![A-Z0-9])', 'lev/inv: \\bInverse\\b']",ETN,2025-09-08 22:10:30 UTC
+WTIU,Bank Of Montreal MicroSectors Energy 3X Leveraged ETNs,Y,['leveraged_or_inverse'],['lev/inv: (?<![A-Z0-9])[-–—]?\\s*3x(?![A-Z0-9])'],ETN,2025-09-08 22:10:30 UTC
+CPZ,Calamos Long/Short Equity & Dynamic Income Trust - Closed End Fund,N,['leveraged_or_inverse'],['lev/inv: \\bshort\\b'],Other ETP,2025-09-08 22:10:30 UTC
+ABR-F,"Arbor Realty Trust 6.25% Series F Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock, Liquidation Preference $25.00 per share",N,['futures_or_physical'],['fut/phys: \\btrust\\b'],Trust,2025-09-08 22:10:30 UTC
+ADAML,"Adamas Trust, Inc. - 6.875% Series F Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock, $0.01 par value per share",N,['futures_or_physical'],['fut/phys: \\btrust\\b'],Trust,2025-09-08 22:10:30 UTC
+ADAMM,"Adamas Trust, Inc. - 7.875% Series E Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock",N,['futures_or_physical'],['fut/phys: \\btrust\\b'],Trust,2025-09-08 22:10:30 UTC
+ADAMN,"Adamas Trust, Inc. - 8.00% Series D Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock",N,['futures_or_physical'],['fut/phys: \\btrust\\b'],Trust,2025-09-08 22:10:30 UTC
+ARKA,EA Series Trust ARK 21Shares Active Bitcoin Futures Strategy ETF,Y,['futures_or_physical'],"['fut/phys: \\bfuture(s)?\\b', 'fut/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b', 'fut/phys: \\btrust\\b']",Trust,2025-09-08 22:10:30 UTC
+ARKZ,EA Series Trust ARK 21Shares Active Ethereum Futures Strategy ETF,Y,['futures_or_physical'],"['fut/phys: \\bfuture(s)?\\b', 'fut/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b', 'fut/phys: \\btrust\\b']",Trust,2025-09-08 22:10:30 UTC
+BAGY,Amplify ETF Trust Amplify Bitcoin Max Income Covered Call ETF,Y,['futures_or_physical'],"['fut/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b', 'fut/phys: \\btrust\\b']",Trust,2025-09-08 22:10:30 UTC
+BAR,GraniteShares Gold Trust Shares of Beneficial Interest,N,['futures_or_physical'],"['fut/phys: \\b(gold|silver|platinum|palladium)\\b', 'fut/phys: \\btrust\\b']",Trust,2025-09-08 22:10:30 UTC
+BCOR,Grayscale Funds Trust Grayscale Bitcoin Adopters ETF,Y,['futures_or_physical'],"['fut/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b', 'fut/phys: \\btrust\\b']",Trust,2025-09-08 22:10:30 UTC
+BFAP,First Trust Exchange-Traded Fund FT Vest Bitcoin Strategy Floor15 ETF April,Y,['futures_or_physical'],"['fut/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b', 'fut/phys: \\btrust\\b']",Trust,2025-09-08 22:10:30 UTC
+BFJL,First Trust Exchange-Traded Fund FT Vest Bitcoin Strategy Floor15 ETF July,Y,['futures_or_physical'],"['fut/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b', 'fut/phys: \\btrust\\b']",Trust,2025-09-08 22:10:30 UTC
+BGT,BlackRock Floating Rate Income Trust,N,['futures_or_physical'],['fut/phys: \\btrust\\b'],Trust,2025-09-08 22:10:30 UTC
+BITU,ProShares Trust ProShares Ultra Bitcoin ETF,Y,"['leveraged_or_inverse', 'futures_or_physical']","['lev/inv: \\bproshares\\s+ultra\\b', 'fut/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b', 'fut/phys: \\btrust\\b']",Trust,2025-09-08 22:10:30 UTC
+BITX,Volatility Shares Trust 2x Bitcoin Strategy ETF,Y,"['leveraged_or_inverse', 'futures_or_physical']","['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'fut/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b', 'fut/phys: \\btrust\\b']",Trust,2025-09-08 22:10:30 UTC
+BPI,Grayscale Funds Trust Grayscale Bitcoin Premium Income ETF,Y,['futures_or_physical'],"['fut/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b', 'fut/phys: \\btrust\\b']",Trust,2025-09-08 22:10:30 UTC
+BTC,Grayscale Bitcoin Mini Trust (BTC) Common units of fractional undivided beneficial interest,Y,['futures_or_physical'],"['fut/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b', 'fut/phys: \\btrust\\b']",Trust,2025-09-08 22:10:30 UTC
+BTCC,Grayscale Funds Trust Grayscale Bitcoin Covered Call ETF,Y,['futures_or_physical'],"['fut/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b', 'fut/phys: \\btrust\\b']",Trust,2025-09-08 22:10:30 UTC
+BTCI,NEOS ETF Trust NEOS Bitcoin High Income ETF,Y,['futures_or_physical'],"['fut/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b', 'fut/phys: \\btrust\\b']",Trust,2025-09-08 22:10:30 UTC
+C-N,Citigroup Capital XIII 7.875% Fixed rate Floating Rate trust Preferred Securities (TruPS),N,['futures_or_physical'],['fut/phys: \\btrust\\b'],Trust,2025-09-08 22:10:30 UTC
+CBOA,Calamos ETF Trust Calamos Bitcoin Structured Alt Protection ETF - April,Y,['futures_or_physical'],"['fut/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b', 'fut/phys: \\btrust\\b']",Trust,2025-09-08 22:10:30 UTC
+CBOJ,Calamos ETF Trust Calamos Bitcoin Structured Alt Protection ETF - January,Y,['futures_or_physical'],"['fut/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b', 'fut/phys: \\btrust\\b']",Trust,2025-09-08 22:10:30 UTC
+CBOY,Calamos ETF Trust Calamos Bitcoin Structured Alt Protection ETF - July,Y,['futures_or_physical'],"['fut/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b', 'fut/phys: \\btrust\\b']",Trust,2025-09-08 22:10:30 UTC
+CBTA,Calamos ETF Trust Calamos Bitcoin 80 Series Structured Alt Protection ETF - April,Y,['futures_or_physical'],"['fut/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b', 'fut/phys: \\btrust\\b']",Trust,2025-09-08 22:10:30 UTC
+CBTJ,Calamos ETF Trust Calamos Bitcoin 80 Series Structured Alt Protection ETF - January,Y,['futures_or_physical'],"['fut/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b', 'fut/phys: \\btrust\\b']",Trust,2025-09-08 22:10:30 UTC
+CBTY,Calamos ETF Trust Calamos Bitcoin 80 Series Structured Alt Protection ETF - July,Y,['futures_or_physical'],"['fut/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b', 'fut/phys: \\btrust\\b']",Trust,2025-09-08 22:10:30 UTC
+CBXA,Calamos ETF Trust Calamos Bitcoin 90 Series Structured Alt Protection ETF - April,Y,['futures_or_physical'],"['fut/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b', 'fut/phys: \\btrust\\b']",Trust,2025-09-08 22:10:30 UTC
+CBXJ,Calamos ETF Trust Calamos Bitcoin 90 Series Structured Alt Protection ETF - January,Y,['futures_or_physical'],"['fut/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b', 'fut/phys: \\btrust\\b']",Trust,2025-09-08 22:10:30 UTC
+CBXY,Calamos ETF Trust Calamos Bitcoin 90 Series Structured Alt Protection ETF - July,Y,['futures_or_physical'],"['fut/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b', 'fut/phys: \\btrust\\b']",Trust,2025-09-08 22:10:30 UTC
+CEF,Sprott Physical Gold and Silver Trust Units,Y,['futures_or_physical'],"['fut/phys: \\b(physical|physically)\\b', 'fut/phys: \\b(gold|silver|platinum|palladium)\\b', 'fut/phys: \\btrust\\b']",Trust,2025-09-08 22:10:30 UTC
+COPA,Themes ETF Trust Themes Copper Miners ETF,Y,['futures_or_physical'],"['fut/phys: \\b(uranium|lithium|nickel|copper|aluminum|zinc|tin)\\b', 'fut/phys: \\btrust\\b']",Trust,2025-09-08 22:10:30 UTC
+CORX,Volatility Shares Trust 2x Corn ETF,Y,"['leveraged_or_inverse', 'futures_or_physical']","['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'fut/phys: \\b(corn|soybean|soybeans|wheat|coffee|sugar|cocoa|cotton|live cattle|lean hogs|feeder cattle)\\b', 'fut/phys: \\btrust\\b']",Trust,2025-09-08 22:10:30 UTC
+CPXR,Tidal Trust III USCF Daily Target 2X Copper Index ETF,Y,"['leveraged_or_inverse', 'futures_or_physical']","['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'fut/phys: \\b(uranium|lithium|nickel|copper|aluminum|zinc|tin)\\b', 'fut/phys: \\btrust\\b']",Trust,2025-09-08 22:10:30 UTC
+CXRN,Listed Funds Trust Teucrium 2x Daily Corn ETF,Y,"['leveraged_or_inverse', 'futures_or_physical']","['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'fut/phys: \\b(corn|soybean|soybeans|wheat|coffee|sugar|cocoa|cotton|live cattle|lean hogs|feeder cattle)\\b', 'fut/phys: \\btrust\\b']",Trust,2025-09-08 22:10:30 UTC
+DEFI,Tidal Commodities Trust I Hashdex Bitcoin ETF,Y,['futures_or_physical'],"['fut/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b', 'fut/phys: \\btrust\\b']",Trust,2025-09-08 22:10:30 UTC
+DFII,First Trust Exchange-Traded Fund FT Vest Bitcoin Strategy & Target Income ETF,Y,['futures_or_physical'],"['fut/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b', 'fut/phys: \\btrust\\b']",Trust,2025-09-08 22:10:30 UTC
+DVOL,First Trust Dorsey Wright Momentum & Low Volatility ETF,Y,['futures_or_physical'],['fut/phys: \\btrust\\b'],Trust,2025-09-08 22:10:30 UTC
+EFT,Eaton Vance Floating Rate Income Trust Common Shares of Beneficial Interest,N,['futures_or_physical'],['fut/phys: \\btrust\\b'],Trust,2025-09-08 22:10:30 UTC
+ETCO,Grayscale Funds Trust Grayscale Ethereum Covered Call ETF,Y,['futures_or_physical'],"['fut/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b', 'fut/phys: \\btrust\\b']",Trust,2025-09-08 22:10:30 UTC
+ETH,Grayscale Ethereum Mini Trust (ETH) Common units of fractional undivided beneficial interest,Y,['futures_or_physical'],"['fut/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b', 'fut/phys: \\btrust\\b']",Trust,2025-09-08 22:10:30 UTC
+ETHA,iShares Ethereum Trust - iShares Ethereum Trust ETF,N,['futures_or_physical'],"['fut/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b', 'fut/phys: \\btrust\\b']",Trust,2025-09-08 22:10:30 UTC
+ETHD,ProShares Trust ProShares UltraShort Ether ETF,Y,"['leveraged_or_inverse', 'futures_or_physical']","['lev/inv: short-inverse context', 'fut/phys: \\btrust\\b']",Trust,2025-09-08 22:10:30 UTC
+ETHE,Grayscale Ethereum Trust (ETH) Common units of fractional undivided beneficial interest,Y,['futures_or_physical'],"['fut/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b', 'fut/phys: \\btrust\\b']",Trust,2025-09-08 22:10:30 UTC
+ETHT,ProShares Trust ProShares Ultra Ether ETF,Y,"['leveraged_or_inverse', 'futures_or_physical']","['lev/inv: \\bproshares\\s+ultra\\b', 'fut/phys: \\btrust\\b']",Trust,2025-09-08 22:10:30 UTC
+ETHU,Volatility Shares Trust 2x Ether ETF,Y,"['leveraged_or_inverse', 'futures_or_physical']","['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'fut/phys: \\btrust\\b']",Trust,2025-09-08 22:10:30 UTC
+EVLN,Morgan Stanley ETF Trust Eaton Vance Floating-Rate ETF,Y,['futures_or_physical'],['fut/phys: \\btrust\\b'],Trust,2025-09-08 22:10:30 UTC
+EZBC,Franklin Templeton Digital Holdings Trust Shares of Franklin Bitcoin ETF,Y,['futures_or_physical'],"['fut/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b', 'fut/phys: \\btrust\\b']",Trust,2025-09-08 22:10:30 UTC
+FCG,First Trust Natural Gas ETF,Y,['futures_or_physical'],"['fut/phys: \\b(wti|brent|crude oil|natural gas|gasoline|heating oil)\\b', 'fut/phys: \\btrust\\b']",Trust,2025-09-08 22:10:30 UTC
+FCPT,"Four Corners Property Trust, Inc. Common Stock",N,['futures_or_physical'],['fut/phys: \\btrust\\b'],Trust,2025-09-08 22:10:30 UTC
+FCT,First Trust Senior Floating Rate Income Fund II Common Shares of Beneficial Interest,N,['futures_or_physical'],['fut/phys: \\btrust\\b'],Trust,2025-09-08 22:10:30 UTC
+FGDL,Franklin Templeton Holdings Trust Franklin Responsibly Sourced Gold ETF,Y,['futures_or_physical'],"['fut/phys: \\b(gold|silver|platinum|palladium)\\b', 'fut/phys: \\btrust\\b']",Trust,2025-09-08 22:10:30 UTC
+FLN,First Trust Latin America AlphaDEX Fund,Y,['futures_or_physical'],['fut/phys: \\btrust\\b'],Trust,2025-09-08 22:10:30 UTC
+FLTR,VanEck ETF Trust VanEck IG Floating Rate ETF,Y,['futures_or_physical'],['fut/phys: \\btrust\\b'],Trust,2025-09-08 22:10:30 UTC
+FRT-C,"Federal Realty Investment Trust Depositary Shares, each representing a 1/1000th interest in a 5.000% Series C Cumulative Redeemable Preferred Share",N,['futures_or_physical'],['fut/phys: \\btrust\\b'],Trust,2025-09-08 22:10:30 UTC
+FTXN,First Trust Nasdaq Oil & Gas ETF,Y,['futures_or_physical'],['fut/phys: \\btrust\\b'],Trust,2025-09-08 22:10:30 UTC
+FUSI,American Century ETF Trust American Century Multisector Floating Income ETF,Y,['futures_or_physical'],['fut/phys: \\btrust\\b'],Trust,2025-09-08 22:10:30 UTC
+GBND,Goldman Sachs ETF Trust Goldman Sachs Core Bond ETF,Y,['futures_or_physical'],['fut/phys: \\btrust\\b'],Trust,2025-09-08 22:10:30 UTC
+GBTC,Grayscale Bitcoin Trust (BTC) Common Units of fractional undivided beneficial interest,Y,['futures_or_physical'],"['fut/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b', 'fut/phys: \\btrust\\b']",Trust,2025-09-08 22:10:30 UTC
+GBXA,Goldman Sachs ETF Trust Goldman Sachs U.S. Large Cap Buffer 1 ETF,Y,['futures_or_physical'],['fut/phys: \\btrust\\b'],Trust,2025-09-08 22:10:30 UTC
+GBXB,Goldman Sachs ETF Trust Goldman Sachs U.S. Large Cap Buffer 2 ETF,Y,['futures_or_physical'],['fut/phys: \\btrust\\b'],Trust,2025-09-08 22:10:30 UTC
+GBXC,Goldman Sachs ETF Trust Goldman Sachs U.S. Large Cap Buffer 3 ETF,Y,['futures_or_physical'],['fut/phys: \\btrust\\b'],Trust,2025-09-08 22:10:30 UTC
+GCAL,Goldman Sachs ETF Trust Goldman Sachs Dynamic California Municipal Income ETF,Y,['futures_or_physical'],['fut/phys: \\btrust\\b'],Trust,2025-09-08 22:10:30 UTC
+GCOR,Goldman Sachs ETF Trust Goldman Sachs Access U.S. Aggregate Bond ETF,Y,['futures_or_physical'],['fut/phys: \\btrust\\b'],Trust,2025-09-08 22:10:30 UTC
+GDE,WisdomTree Trust WisdomTree Efficient Gold Plus Equity Strategy Fund,Y,['futures_or_physical'],"['fut/phys: \\b(gold|silver|platinum|palladium)\\b', 'fut/phys: \\btrust\\b']",Trust,2025-09-08 22:10:30 UTC
+GDMN,WisdomTree Trust WisdomTree Efficient Gold Plus Gold Miners Strategy Fund,Y,['futures_or_physical'],"['fut/phys: \\b(gold|silver|platinum|palladium)\\b', 'fut/phys: \\btrust\\b']",Trust,2025-09-08 22:10:30 UTC
+GDXY,Tidal Trust II YieldMax Gold Miners Option Income Strategy ETF,Y,['futures_or_physical'],"['fut/phys: \\b(gold|silver|platinum|palladium)\\b', 'fut/phys: \\btrust\\b']",Trust,2025-09-08 22:10:30 UTC
+GEMD,Goldman Sachs ETF Trust Goldman Sachs Access Emerging Markets USD Bond ETF,Y,['futures_or_physical'],['fut/phys: \\btrust\\b'],Trust,2025-09-08 22:10:30 UTC
+GGN,"GAMCO Global Gold, Natural Resources & Income Trust",N,['futures_or_physical'],"['fut/phys: \\b(gold|silver|platinum|palladium)\\b', 'fut/phys: \\btrust\\b']",Trust,2025-09-08 22:10:30 UTC
+GGN-B,"GAMCO Global Gold, Natural Reources & Income Trust 5.00% Series B Cumulative 25.00 Liquidation Preference",N,['futures_or_physical'],"['fut/phys: \\b(gold|silver|platinum|palladium)\\b', 'fut/phys: \\btrust\\b']",Trust,2025-09-08 22:10:30 UTC
+GGUS,Goldman Sachs ETF Trust Goldman Sachs MarketBeta Russell 1000 Growth Equity ETF,Y,['futures_or_physical'],['fut/phys: \\btrust\\b'],Trust,2025-09-08 22:10:30 UTC
+GIGL,Goldman Sachs ETF Trust Goldman Sachs Corporate Bond ETF,Y,['futures_or_physical'],['fut/phys: \\btrust\\b'],Trust,2025-09-08 22:10:30 UTC
+GJP,"Synthetic Fixed-Income Securities, Inc. on behalf of STRATS (SM) Trust for Dominion Resources, Inc. Securities, Series 2005-6, Floating Rate Structured Repackaged Asset-Backed Trust Securities (STRATS) Certificates",N,['futures_or_physical'],['fut/phys: \\btrust\\b'],Trust,2025-09-08 22:10:30 UTC
+GJS,"Goldman Sachs Group Securities STRATS Trust for Goldman Sachs Group Securities, Series 2006-2",N,['futures_or_physical'],['fut/phys: \\btrust\\b'],Trust,2025-09-08 22:10:30 UTC
+GJT,"Synthetic Fixed-Income Securities, Inc. Floating Rate Structured Repackaged Asset-Backed Trust Securities Certificates, Series 2006-3",N,['futures_or_physical'],['fut/phys: \\btrust\\b'],Trust,2025-09-08 22:10:30 UTC
+GLD,SPDR Gold Trust,Y,['futures_or_physical'],"['fut/phys: \\b(gold|silver|platinum|palladium)\\b', 'fut/phys: \\btrust\\b']",Trust,2025-09-08 22:10:30 UTC
+GLDM,SPDR Gold MiniShares Trust,Y,['futures_or_physical'],"['fut/phys: \\b(gold|silver|platinum|palladium)\\b', 'fut/phys: \\btrust\\b']",Trust,2025-09-08 22:10:30 UTC
+GLOV,Goldman Sachs ETF Trust Goldman Sachs ActiveBeta World Low Vol Plus Equity ETF,Y,['futures_or_physical'],['fut/phys: \\btrust\\b'],Trust,2025-09-08 22:10:30 UTC
+GMNY,Goldman Sachs ETF Trust Goldman Sachs Dynamic New York Municipal Income ETF,Y,['futures_or_physical'],['fut/phys: \\btrust\\b'],Trust,2025-09-08 22:10:30 UTC
+GMUB,Goldman Sachs ETF Trust Goldman Sachs Municipal Income ETF,Y,['futures_or_physical'],['fut/phys: \\btrust\\b'],Trust,2025-09-08 22:10:30 UTC
+GNT,"GAMCO Natural Resources, Gold & Income Trust",N,['futures_or_physical'],"['fut/phys: \\b(gold|silver|platinum|palladium)\\b', 'fut/phys: \\btrust\\b']",Trust,2025-09-08 22:10:30 UTC
+GPMT-A,Granite Point Mortgage Trust Inc. 7.00% Series A Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,N,['futures_or_physical'],['fut/phys: \\btrust\\b'],Trust,2025-09-08 22:10:30 UTC
+GSIG,Golden Sachs ETF Trust Goldman Sachs Access Investment Grade Corporate 1-5 Year Bond ETF,Y,['futures_or_physical'],['fut/phys: \\btrust\\b'],Trust,2025-09-08 22:10:30 UTC
+GUMI,Goldman Sachs ETF Trust Goldman Sachs Ultra Short Municipal Income ETF,Y,"['leveraged_or_inverse', 'futures_or_physical']","['lev/inv: \\bshort\\b', 'fut/phys: \\btrust\\b']",Trust,2025-09-08 22:10:30 UTC
+GUSA,Goldman Sachs ETF Trust II Goldman Sachs MarketBeta U.S. 1000 Equity ETF,Y,['futures_or_physical'],['fut/phys: \\btrust\\b'],Trust,2025-09-08 22:10:30 UTC
+GVUS,Goldman Sachs ETF Trust Goldman Sachs MarketBeta Russell 1000 Value Equity ETF,Y,['futures_or_physical'],['fut/phys: \\btrust\\b'],Trust,2025-09-08 22:10:30 UTC
+GXUS,Goldman Sachs ETF Trust II Goldman Sachs MarketBeta Total International Equity ETF,Y,['futures_or_physical'],['fut/phys: \\btrust\\b'],Trust,2025-09-08 22:10:30 UTC
+HBTC,Listed Funds Trust Fortuna Hedged Bitcoin Fund,Y,['futures_or_physical'],"['fut/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b', 'fut/phys: \\btrust\\b']",Trust,2025-09-08 22:10:30 UTC
+HDMV,First Trust Exchange-Traded Fund III First Trust Horizon Managed Volatility Developed International ETF,Y,['futures_or_physical'],['fut/phys: \\btrust\\b'],Trust,2025-09-08 22:10:30 UTC
+HODL,VanEck Bitcoin Trust Common Shares of Beneficial Interest,Y,['futures_or_physical'],"['fut/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b', 'fut/phys: \\btrust\\b']",Trust,2025-09-08 22:10:30 UTC
+HSMV,First Trust Horizon Managed Volatility Small/Mid ETF,Y,['futures_or_physical'],['fut/phys: \\btrust\\b'],Trust,2025-09-08 22:10:30 UTC
+HUSV,First Trust Exchange-Traded Fund III First Trust Horizon Managed Volatility Domestic ETF,Y,['futures_or_physical'],['fut/phys: \\btrust\\b'],Trust,2025-09-08 22:10:30 UTC
+IAU,iShares Gold Trust Shares of the iShares Gold Trust,Y,['futures_or_physical'],"['fut/phys: \\b(gold|silver|platinum|palladium)\\b', 'fut/phys: \\btrust\\b']",Trust,2025-09-08 22:10:30 UTC
+IAUI,NEOS ETF Trust NEOS Gold High Income ETF,Y,['futures_or_physical'],"['fut/phys: \\b(gold|silver|platinum|palladium)\\b', 'fut/phys: \\btrust\\b']",Trust,2025-09-08 22:10:30 UTC
+IAUM,iShares Gold Trust Micro Shares,Y,['futures_or_physical'],"['fut/phys: \\b(gold|silver|platinum|palladium)\\b', 'fut/phys: \\btrust\\b']",Trust,2025-09-08 22:10:30 UTC
+IBIT,iShares Bitcoin Trust ETF - iShares Bitcoin Trust ETF,N,['futures_or_physical'],"['fut/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b', 'fut/phys: \\btrust\\b']",Trust,2025-09-08 22:10:30 UTC
+KGLD,Kurv ETF Trust Kurv Gold Enhanced Income ETF,Y,['futures_or_physical'],"['fut/phys: \\b(gold|silver|platinum|palladium)\\b', 'fut/phys: \\btrust\\b']",Trust,2025-09-08 22:10:30 UTC
+LIMI,Themes ETF Trust Themes Lithium & Battery Metal Miners ETF,Y,['futures_or_physical'],"['fut/phys: \\b(uranium|lithium|nickel|copper|aluminum|zinc|tin)\\b', 'fut/phys: \\btrust\\b']",Trust,2025-09-08 22:10:30 UTC
+MBSF,Valued Advisers Trust Regan Floating Rate MBS ETF,Y,['futures_or_physical'],['fut/phys: \\btrust\\b'],Trust,2025-09-08 22:10:30 UTC
+MITT-C,"AG Mortgage Investment Trust, Inc. 8.00% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock, $0.01 par value per share",N,['futures_or_physical'],['fut/phys: \\btrust\\b'],Trust,2025-09-08 22:10:30 UTC
+MNRS,Grayscale Funds Trust Grayscale Bitcoin Miners ETF,Y,['futures_or_physical'],"['fut/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b', 'fut/phys: \\btrust\\b']",Trust,2025-09-08 22:10:30 UTC
+MUNA,Northern Funds Northern Trust 2030 Tax-Exempt Distributing Ladder ETF,Y,['futures_or_physical'],['fut/phys: \\btrust\\b'],Trust,2025-09-08 22:10:30 UTC
+MUNB,Northern Funds Northern Trust 2035 Tax-Exempt Distributing Ladder ETF,Y,['futures_or_physical'],['fut/phys: \\btrust\\b'],Trust,2025-09-08 22:10:30 UTC
+MUNC,Northern Funds Northern Trust 2045 Tax-Exempt Distributing Ladder ETF,Y,['futures_or_physical'],['fut/phys: \\btrust\\b'],Trust,2025-09-08 22:10:30 UTC
+MUND,Northern Funds Northern Trust 2055 Tax-Exempt Distributing Ladder ETF,Y,['futures_or_physical'],['fut/phys: \\btrust\\b'],Trust,2025-09-08 22:10:30 UTC
+MVO,MV Oil Trust Units of Beneficial Interests,N,['futures_or_physical'],['fut/phys: \\btrust\\b'],Trust,2025-09-08 22:10:30 UTC
+NRT,North European Oil Royality Trust Common Stock,N,['futures_or_physical'],['fut/phys: \\btrust\\b'],Trust,2025-09-08 22:10:30 UTC
+NTRSO,"Northern Trust Corporation - Depositary Shares Each Representing a 1/1,000th Interest in a Share of Series E Non-Cumulative Perpetual Preferred Stock",N,['futures_or_physical'],['fut/phys: \\btrust\\b'],Trust,2025-09-08 22:10:30 UTC
+OILT,Texas Capital Funds Trust Texas Capital Texas Oil Index ETF,Y,['futures_or_physical'],['fut/phys: \\btrust\\b'],Trust,2025-09-08 22:10:30 UTC
+OWNB,Bitwise Funds Trust Bitwise Bitcoin Standard Corporations ETF,Y,['futures_or_physical'],"['fut/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b', 'fut/phys: \\btrust\\b']",Trust,2025-09-08 22:10:30 UTC
+PCFI,FundVantage Trust Polen Floating Rate Income ETF,Y,['futures_or_physical'],['fut/phys: \\btrust\\b'],Trust,2025-09-08 22:10:30 UTC
+PFRL,PGIM ETF Trust PGIM Floating Rate Income ETF,Y,['futures_or_physical'],['fut/phys: \\btrust\\b'],Trust,2025-09-08 22:10:30 UTC
+PHYS,Sprott Physical Gold Trust ETV,Y,['futures_or_physical'],"['fut/phys: \\b(physical|physically)\\b', 'fut/phys: \\b(gold|silver|platinum|palladium)\\b', 'fut/phys: \\btrust\\b']",Trust,2025-09-08 22:10:30 UTC
+PMT-A,PennyMac Mortgage Investment Trust 8.125% Series A Fixed-to-Floating Rate Cumulative Redeemable Preferred Shares of Beneficial Interest,N,['futures_or_physical'],['fut/phys: \\btrust\\b'],Trust,2025-09-08 22:10:30 UTC
+PMT-B,PennyMac Mortgage Investment Trust 8.00% Series B Fixed-to-Floating Rate Cumulative Redeemable Preferred Shares of Beneficial Interest,N,['futures_or_physical'],['fut/phys: \\btrust\\b'],Trust,2025-09-08 22:10:30 UTC
+PSLV,Sprott Physical Silver Trust ETV,Y,['futures_or_physical'],"['fut/phys: \\b(physical|physically)\\b', 'fut/phys: \\b(gold|silver|platinum|palladium)\\b', 'fut/phys: \\btrust\\b']",Trust,2025-09-08 22:10:30 UTC
+QBF,Innovator ETFs Trust Innovator Uncapped Bitcoin 20 Floor ETF - Quarterly,Y,['futures_or_physical'],"['fut/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b', 'fut/phys: \\btrust\\b']",Trust,2025-09-08 22:10:30 UTC
+RPT-C,Rithm Property Trust Inc. 9.875% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,N,['futures_or_physical'],['fut/phys: \\btrust\\b'],Trust,2025-09-08 22:10:30 UTC
+RSMV,Listed Funds Trust Relative Strength Managed Volatility Strategy ETF,Y,['futures_or_physical'],['fut/phys: \\btrust\\b'],Trust,2025-09-08 22:10:30 UTC
+RSSX,Tidal Trust II Return Stacked U.S. Stocks & Gold/Bitcoin ETF,Y,['futures_or_physical'],"['fut/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b', 'fut/phys: \\b(gold|silver|platinum|palladium)\\b', 'fut/phys: \\btrust\\b']",Trust,2025-09-08 22:10:30 UTC
+SBIT,ProShares Trust ProShares UltraShort Bitcoin ETF,Y,"['leveraged_or_inverse', 'futures_or_physical']","['lev/inv: short-inverse context', 'fut/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b', 'fut/phys: \\btrust\\b']",Trust,2025-09-08 22:10:30 UTC
+SCE-J,Southern California Edison Company 5.375% Fixed-to-Floating Rate Trust Preference Securities,N,['futures_or_physical'],['fut/phys: \\btrust\\b'],Trust,2025-09-08 22:10:30 UTC
+SCE-K,Southern California Edison Company 5.45% Fixed-to-Floating Rate Trust Preference Securities,N,['futures_or_physical'],['fut/phys: \\btrust\\b'],Trust,2025-09-08 22:10:30 UTC
+SILJ,Amplify ETF Trust Amplify Junior Silver Miners ETF,Y,['futures_or_physical'],"['fut/phys: \\b(gold|silver|platinum|palladium)\\b', 'fut/phys: \\btrust\\b']",Trust,2025-09-08 22:10:30 UTC
+SKYY,First Trust Cloud Computing ETF,Y,['futures_or_physical'],['fut/phys: \\btrust\\b'],Trust,2025-09-08 22:10:30 UTC
+SLV,iShares Silver Trust,Y,['futures_or_physical'],"['fut/phys: \\b(gold|silver|platinum|palladium)\\b', 'fut/phys: \\btrust\\b']",Trust,2025-09-08 22:10:30 UTC
+SPPP,Sprott Physical Platinum and Palladium Trust,Y,['futures_or_physical'],"['fut/phys: \\b(physical|physically)\\b', 'fut/phys: \\b(gold|silver|platinum|palladium)\\b', 'fut/phys: \\btrust\\b']",Trust,2025-09-08 22:10:30 UTC
+TIPA,Northern Funds Northern Trust 2030 Inflation-Linked Distributing Ladder ETF,Y,['futures_or_physical'],['fut/phys: \\btrust\\b'],Trust,2025-09-08 22:10:30 UTC
+TIPB,Northern Funds Northern Trust 2035 Inflation-Linked Distributing Ladder ETF,Y,['futures_or_physical'],['fut/phys: \\btrust\\b'],Trust,2025-09-08 22:10:30 UTC
+TIPC,Northern Funds Northern Trust 2045 Inflation-Linked Distributing Ladder ETF,Y,['futures_or_physical'],['fut/phys: \\btrust\\b'],Trust,2025-09-08 22:10:30 UTC
+TIPD,Northern Funds Northern Trust 2055 Inflation-Linked Distributing Ladder ETF,Y,['futures_or_physical'],['fut/phys: \\btrust\\b'],Trust,2025-09-08 22:10:30 UTC
+URAA,Direxion Shares ETF Trust Direxion Daily Uranium Industry Bull 2X Shares,Y,"['leveraged_or_inverse', 'futures_or_physical']","['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'lev/inv: \\b(?:bull|bear)\\s+(?:1x|2x|3x)\\b', 'lev/inv: \\bdirexion daily\\b', 'fut/phys: \\b(uranium|lithium|nickel|copper|aluminum|zinc|tin)\\b', 'fut/phys: \\btrust\\b']",Trust,2025-09-08 22:10:30 UTC
+URAN,Themes ETF Trust Themes Uranium & Nuclear ETF,Y,['futures_or_physical'],"['fut/phys: \\b(uranium|lithium|nickel|copper|aluminum|zinc|tin)\\b', 'fut/phys: \\btrust\\b']",Trust,2025-09-08 22:10:30 UTC
+USNG,Amplify ETF Trust Amplify Samsung U.S. Natural Gas Infrastructure ETF,Y,['futures_or_physical'],"['fut/phys: \\b(wti|brent|crude oil|natural gas|gasoline|heating oil)\\b', 'fut/phys: \\btrust\\b']",Trust,2025-09-08 22:10:30 UTC
+UVXY,ProShares Trust Ultra VIX Short Term Futures ETF,Y,"['leveraged_or_inverse', 'futures_or_physical']","['lev/inv: \\bshort\\b', 'fut/phys: \\bfuture(s)?\\b', 'fut/phys: \\b(vix|cboe volatility)\\b', 'fut/phys: \\btrust\\b']",Trust,2025-09-08 22:10:30 UTC
+UX,Roundhill ETF Trust Roundhill Uranium ETF,Y,['futures_or_physical'],"['fut/phys: \\b(uranium|lithium|nickel|copper|aluminum|zinc|tin)\\b', 'fut/phys: \\btrust\\b']",Trust,2025-09-08 22:10:30 UTC
+VIXM,ProShares Trust VIX Mid-Term Futures ETF,Y,['futures_or_physical'],"['fut/phys: \\bfuture(s)?\\b', 'fut/phys: \\b(vix|cboe volatility)\\b', 'fut/phys: \\btrust\\b']",Trust,2025-09-08 22:10:30 UTC
+VIXY,ProShares Trust VIX Short-Term Futures ETF,Y,"['leveraged_or_inverse', 'futures_or_physical']","['lev/inv: \\bshort\\b', 'fut/phys: \\bfuture(s)?\\b', 'fut/phys: \\b(vix|cboe volatility)\\b', 'fut/phys: \\btrust\\b']",Trust,2025-09-08 22:10:30 UTC
+WHTX,Volatility Shares Trust 2x Wheat ETF,Y,"['leveraged_or_inverse', 'futures_or_physical']","['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'fut/phys: \\b(corn|soybean|soybeans|wheat|coffee|sugar|cocoa|cotton|live cattle|lean hogs|feeder cattle)\\b', 'fut/phys: \\btrust\\b']",Trust,2025-09-08 22:10:30 UTC
+WXET,Listed Funds Trust Teucrium 2x Daily Wheat ETF,Y,"['leveraged_or_inverse', 'futures_or_physical']","['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'fut/phys: \\b(corn|soybean|soybeans|wheat|coffee|sugar|cocoa|cotton|live cattle|lean hogs|feeder cattle)\\b', 'fut/phys: \\btrust\\b']",Trust,2025-09-08 22:10:30 UTC
+XES,SPDR Series Trust SPDR S&P Oil & Gas Equipment & Services ETF,Y,['futures_or_physical'],['fut/phys: \\btrust\\b'],Trust,2025-09-08 22:10:30 UTC
+XFLT,XAI Octagon Floating Rate & Alternative Income Trust Common Shares of Beneficial Interest,N,['futures_or_physical'],['fut/phys: \\btrust\\b'],Trust,2025-09-08 22:10:30 UTC
+XFLT-A,"XAI Octagon Floating Rate & Alternative Income Trust 6.50% Series 2026 Term Preferred Shares, (Liquidation Preference $25.00)",N,['futures_or_physical'],['fut/phys: \\btrust\\b'],Trust,2025-09-08 22:10:30 UTC
+XRPI,Volatility Shares Trust XRP ETF,Y,['futures_or_physical'],['fut/phys: \\btrust\\b'],Trust,2025-09-08 22:10:30 UTC
+XRPT,Volatility Shares Trust XRP 2X ETF,Y,"['leveraged_or_inverse', 'futures_or_physical']","['lev/inv: (?<![A-Z0-9])[-–—]?\\s*2x(?![A-Z0-9])', 'fut/phys: \\btrust\\b']",Trust,2025-09-08 22:10:30 UTC
+YBIT,Tidal Trust II YieldMax Bitcoin Option Income Strategy ETF,Y,['futures_or_physical'],"['fut/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b', 'fut/phys: \\btrust\\b']",Trust,2025-09-08 22:10:30 UTC
+YBTC,Roundhill ETF Trust Roundhill Bitcoin Covered Call Strategy ETF,Y,['futures_or_physical'],"['fut/phys: \\bbitcoin\\b|\\bbtc\\b|\\beth(?:ereum)?\\b|\\beth\\b', 'fut/phys: \\btrust\\b']",Trust,2025-09-08 22:10:30 UTC
+YETH,Roundhill ETF Trust Roundhill Ether Covered Call Strategy ETF,Y,['futures_or_physical'],['fut/phys: \\btrust\\b'],Trust,2025-09-08 22:10:30 UTC
