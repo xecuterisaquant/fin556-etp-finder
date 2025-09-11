@@ -1,6 +1,7 @@
 from __future__ import annotations
 import argparse, os, sys, json
 from typing import List, Dict
+
 from .io_utils import fetch_nasdaq_traded, chicago_timestamp, write_csv, write_jsonl, ensure_dir
 from .detectors import detect
 from . import constants as C
@@ -17,7 +18,14 @@ def parse_args():
     return ap.parse_args()
 
 def run(source_url: str, outdir: str, netid: str, make_pdf: bool):
-    rows = fetch_nasdaq_traded(source_url)
+    # --- Fetch data (pass outdir so io_utils can save the raw file snapshot) ---
+    try:
+        # New signature: fetch_nasdaq_traded(url=..., timeout=..., outdir=...)
+        rows = fetch_nasdaq_traded(source_url, outdir=outdir)  # type: ignore[arg-type]
+    except TypeError:
+        # Backward-compat: older io_utils without outdir param
+        rows = fetch_nasdaq_traded(source_url)
+
     ts = chicago_timestamp()
 
     # Columns to emit
@@ -76,7 +84,7 @@ def run(source_url: str, outdir: str, netid: str, make_pdf: bool):
         }
         build_assignment_pdf(pdf_path, netid=netid, records=records, code_paths=code_paths, run_meta=run_meta)
 
-    # Summary to stdout
+    # Summary to stdout (useful in Actions logs)
     print(json.dumps({
         "count": len(records),
         "csv": csv_path,
