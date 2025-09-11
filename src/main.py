@@ -18,25 +18,27 @@ def parse_args():
     return ap.parse_args()
 
 def run(source_url: str, outdir: str, netid: str, make_pdf: bool):
-    # Fetch data with outdir (saves raw file snapshot under outputs/YYYY-MM-DD/)
-    rows = fetch_nasdaq_traded(source_url, outdir=outdir)
-
+    # Chicago-local timestamp and date folder (shared across ALL artifacts)
     ts = chicago_timestamp()
+    date_dir = ts[:10]  # "YYYY-MM-DD"
+
+    # Fetch data; also saves the raw snapshot under outdir/date_dir/
+    rows = fetch_nasdaq_traded(source_url, outdir=outdir, date_dir=date_dir)
 
     # Columns to emit
-    fields = ["symbol","name","etp_type","category","reasons","timestamp"]
+    fields = ["symbol", "name", "etp_type", "category", "reasons", "timestamp"]
     records: List[Dict[str, str]] = []
 
     for row in rows:
         # Skip test issues
-        if row.get("Test Issue","").upper() != "N":
+        if row.get("Test Issue", "").upper() != "N":
             continue
-        name = row.get("Security Name","")
+        name = row.get("Security Name", "")
         matched, category, reasons, etp_type = detect(name, row)
         if not matched:
             continue
         rec = {
-            "symbol": row.get("Symbol",""),
+            "symbol": row.get("Symbol", ""),
             "name": name,
             "etp_type": etp_type or "",
             "category": category or "",
@@ -45,8 +47,7 @@ def run(source_url: str, outdir: str, netid: str, make_pdf: bool):
         }
         records.append(rec)
 
-    # Write CSV/JSONL into dated folder
-    date_dir = ts[:10]  # YYYY-MM-DD
+    # Write CSV/JSONL into the SAME date folder used for the raw file
     base_dir = os.path.join(outdir, date_dir)
     csv_path = os.path.join(base_dir, "etp_candidates.csv")
     jsonl_path = os.path.join(base_dir, "etp_candidates.jsonl")
@@ -64,8 +65,9 @@ def run(source_url: str, outdir: str, netid: str, make_pdf: bool):
         # Collect code paths to embed
         code_paths = []
         here = os.path.dirname(__file__)
-        for rel in ["constants.py","detectors.py","io_utils.py","pdf_report.py","main.py"]:
+        for rel in ["constants.py", "detectors.py", "io_utils.py", "pdf_report.py", "main.py"]:
             code_paths.append(os.path.join(here, rel))
+        # add workflow for completeness if present
         wf = os.path.join(os.path.dirname(here), ".github", "workflows", "daily.yml")
         if os.path.exists(wf):
             code_paths.append(wf)
@@ -75,6 +77,7 @@ def run(source_url: str, outdir: str, netid: str, make_pdf: bool):
             "records_count": str(len(records)),
             "output_csv": os.path.relpath(csv_path),
             "output_jsonl": os.path.relpath(jsonl_path),
+            "date_dir": date_dir,
         }
         build_assignment_pdf(pdf_path, netid=netid, records=records, code_paths=code_paths, run_meta=run_meta)
 
@@ -83,7 +86,8 @@ def run(source_url: str, outdir: str, netid: str, make_pdf: bool):
         "count": len(records),
         "csv": csv_path,
         "jsonl": jsonl_path,
-        "pdf": pdf_path
+        "pdf": pdf_path,
+        "date_dir": date_dir
     }, indent=2))
 
 if __name__ == "__main__":
