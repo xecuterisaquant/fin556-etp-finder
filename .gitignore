@@ -3,7 +3,6 @@ __pycache__/
 .venv/
 env/
 venv/
-outputs/
 *.zip
 *.mp4
 .DS_Store
