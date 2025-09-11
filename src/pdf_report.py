@@ -47,7 +47,7 @@ def build_assignment_pdf(
     story = []
     story.append(Paragraph(f"{netid}_fin556_algo_trading_symbols_homework", styles["Title"]))
     story.append(Spacer(1, 4))
-    story.append(Paragraph("Automated NASDAQ ETP Scanner — Output and Source Code", styles["Italic"]))
+    story.append(Paragraph("Automated NASDAQ ETP Scanner — Output and Source Code | GitHub: https://github.com/xecuterisaquant/fin556-etp-finder", styles["Italic"]))
     story.append(Spacer(1, 10))
 
     # Summary
