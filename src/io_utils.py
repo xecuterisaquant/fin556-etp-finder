@@ -8,28 +8,29 @@ from .constants import NASDAQ_TRADED_URL, EXPECTED_COLUMNS
 def fetch_nasdaq_traded(
     url: str = NASDAQ_TRADED_URL,
     timeout: int = 30,
-    outdir: str = "outputs"
+    outdir: str = "outputs",
+    date_dir: str | None = None,   # <- NEW: folder name like "YYYY-MM-DD"
 ) -> List[Dict[str, str]]:
-    """Download nasdaqtraded.txt, save a raw snapshot for today, and return parsed rows."""
+    """Download nasdaqtraded.txt, save a raw snapshot in outdir/date_dir, and return parsed rows."""
     r = requests.get(url, timeout=timeout)
     r.raise_for_status()
 
-    # --- Save raw file snapshot for auditing ---
-    today_dir = datetime.date.today().isoformat()
-    raw_dir = os.path.join(outdir or "outputs", today_dir)
+    # Decide which date folder to use for the raw snapshot
+    if date_dir is None:
+        # Default to Chicago date to match the rest of the outputs
+        chi = tz.gettz("America/Chicago")
+        date_dir = datetime.datetime.now(chi).date().isoformat()
+
+    raw_dir = os.path.join(outdir or "outputs", date_dir)
     os.makedirs(raw_dir, exist_ok=True)
     raw_path = os.path.join(raw_dir, "nasdaqtraded_raw.txt")
     with open(raw_path, "w", encoding="utf-8") as rf:
         rf.write(r.text)
 
-    # --- Parse the pipe-delimited content ---
+    # Parse the file
     content = r.text.splitlines()
-
-    # The first line is headers separated by '|'
-    # The last line is usually "File Creation Time: ..."
     header = content[0].split('|')
     if header[0].strip() not in ("Nasdaq Traded", "Nasdaq Traded\xef\xbb\xbf"):
-        # try to find header if there's a BOM or comment lines
         for i, line in enumerate(content):
             parts = line.split('|')
             if len(parts) >= 5 and parts[0].strip() in ("Nasdaq Traded", "Nasdaq Traded\xef\xbb\xbf"):
@@ -46,7 +47,6 @@ def fetch_nasdaq_traded(
             parts += [""] * (len(header) - len(parts))
         row = {header[i].strip(): parts[i].strip() if i < len(parts) else "" for i in range(len(header))}
         rows.append(row)
-
     return rows
 
 def chicago_timestamp() -> str:
