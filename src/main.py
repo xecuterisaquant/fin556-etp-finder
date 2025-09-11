@@ -2,7 +2,7 @@ from __future__ import annotations
 import argparse, os, sys, json
 from typing import List, Dict
 
-from .io_utils import fetch_nasdaq_traded, chicago_timestamp, write_csv, write_jsonl, ensure_dir
+from .io_utils import fetch_nasdaq_traded, chicago_timestamp, write_csv, write_jsonl
 from .detectors import detect
 from . import constants as C
 from .pdf_report import build_assignment_pdf
@@ -18,13 +18,8 @@ def parse_args():
     return ap.parse_args()
 
 def run(source_url: str, outdir: str, netid: str, make_pdf: bool):
-    # --- Fetch data (pass outdir so io_utils can save the raw file snapshot) ---
-    try:
-        # New signature: fetch_nasdaq_traded(url=..., timeout=..., outdir=...)
-        rows = fetch_nasdaq_traded(source_url, outdir=outdir)  # type: ignore[arg-type]
-    except TypeError:
-        # Backward-compat: older io_utils without outdir param
-        rows = fetch_nasdaq_traded(source_url)
+    # Fetch data with outdir (saves raw file snapshot under outputs/YYYY-MM-DD/)
+    rows = fetch_nasdaq_traded(source_url, outdir=outdir)
 
     ts = chicago_timestamp()
 
@@ -71,7 +66,6 @@ def run(source_url: str, outdir: str, netid: str, make_pdf: bool):
         here = os.path.dirname(__file__)
         for rel in ["constants.py","detectors.py","io_utils.py","pdf_report.py","main.py"]:
             code_paths.append(os.path.join(here, rel))
-        # add workflow for completeness if present
         wf = os.path.join(os.path.dirname(here), ".github", "workflows", "daily.yml")
         if os.path.exists(wf):
             code_paths.append(wf)
