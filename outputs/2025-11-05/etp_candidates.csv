@@ -1,0 +1,602 @@
+symbol,name,etp_type,category,reasons,timestamp
+AAAU,Goldman Sachs Physical Gold ETF Shares,ETF,commodity_physical_trust,"['etf_flag_Y', 'type_etf', 'physical_keyword']",2025-11-05T09:39:35-06:00
+AALG,Leverage Shares 2X Long AAL Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+AAPB,GraniteShares 2x Long AAPL Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+AAPD,Direxion Daily AAPL Bear 1X Shares,ETF,leveraged_single_stock_inverse,"['etf_flag_Y', 'type_etf', 'leverage_context', 'inverse_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+AAPU,Direxion Daily AAPL Bull 2X Shares,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+AAPX,ETF Opportunities Trust T-Rex 2X Long Apple Daily Target ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+ADBG,Leverage Shares 2X Long ADBE Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+AETH,Bitwise Trendwise Ether and Treasuries Rotation Strategy ETF,ETF,crypto_futures,"['etf_flag_Y', 'type_etf', 'futures_keyword']",2025-11-05T09:39:35-06:00
+AFRU,ETF Opportunities Trust T-REX 2X Long AFRM Daily Target ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+AGQ,ProShares Ultra Silver,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'brand_proshares_ultra_implies_2x', 'implied_multiplier_2x']",2025-11-05T09:39:35-06:00
+AIBD,Direxion Shares ETF Trust Direxion Daily AI and Big Data Bear 2X Shares,ETF,leveraged_single_stock_inverse,"['etf_flag_Y', 'type_etf', 'leverage_context', 'inverse_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+AIBU,Direxion Shares ETF Trust Direxion Daily AI and Big Data Bull 2X Shares,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+AMDD,Direxion Daily AMD Bear 1X Shares,ETF,leveraged_single_stock_inverse,"['etf_flag_Y', 'type_etf', 'leverage_context', 'inverse_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+AMDG,Leverage Shares 2X Long AMD Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+AMDL,GraniteShares 2x Long AMD Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+AMUU,Direxion Daily AMD Bull 2X Shares,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+AMZD,Direxion Daily AMZN Bear 1X Shares,ETF,leveraged_single_stock_inverse,"['etf_flag_Y', 'type_etf', 'leverage_context', 'inverse_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+AMZU,Direxion Daily AMZN Bull 2X Shares,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+AMZZ,GraniteShares 2x Long AMZN Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+ANEL,Defiance Daily Target 2x Long ANET ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+APLX,Tradr 2X Long APLD Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+APPX,Tradr 2X Long APP Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+ARCX,Tradr 2X Long ACHR Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+ARMG,Leverage Shares 2X Long ARM Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+ARMU,ETF Opportunities Trust T-REX 2X Long ARM Daily Target ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+ASMG,Leverage Shares 2X Long ASML Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+ASTX,Tradr 2X Long ASTS Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+AURU,Investment Managers Series Trust II Tradr 2X Long AUR Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+AVGG,Leverage Shares 2X Long AVGO Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+AVGU,GraniteShares 2x Long AVGO Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+AVGX,Defiance Daily Target 2X Long AVGO ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+AVL,Direxion Daily AVGO Bull 2X Shares,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+AVS,Direxion Daily AVGO Bear 1X Shares,ETF,leveraged_single_stock_inverse,"['etf_flag_Y', 'type_etf', 'leverage_context', 'inverse_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+AVXX,Defiance Daily Target 2x Long AVAV ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+AXUP,ETF Opportunities Trust T-REX 2X Long AXON Daily Target ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+BABX,GraniteShares 2x Long BABA Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+BAGY,Amplify ETF Trust Amplify Bitcoin Max Income Covered Call ETF,Trust,crypto_trust,"['etf_flag_Y', 'type_trust_with_commodity']",2025-11-05T09:39:35-06:00
+BAIG,Leverage Shares 2X Long BBAI Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+BAR,GraniteShares Gold Trust Shares of Beneficial Interest,Trust,commodity_physical_trust,['type_trust_with_commodity'],2025-11-05T09:39:35-06:00
+BBB,CYBER HORNET S&P 500 and Bitcoin 75/25 Strategy ETF,ETF,crypto_futures,"['etf_flag_Y', 'type_etf', 'futures_keyword']",2025-11-05T09:39:35-06:00
+BCOR,Grayscale Funds Trust Grayscale Bitcoin Adopters ETF,Trust,crypto_trust,"['etf_flag_Y', 'type_trust_with_commodity']",2025-11-05T09:39:35-06:00
+BDCX,"ETRACS Quarterly Pay 1.5x Leveraged MarketVector BDC Liquid Index ETN due June 10, 2050",ETN,leveraged_index_long,"['etf_flag_Y', 'type_etn_by_name', 'leverage_context']",2025-11-05T09:39:35-06:00
+BEGS,Collaborative Investment Series Trust Rareview 2x Bull Cryptocurrency & Precious Metals ETF,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'leverage_context']",2025-11-05T09:39:35-06:00
+BERZ,MicroSectors FANG & Innovation -3x Inverse Leveraged ETN,ETN,leveraged_index_inverse,"['etf_flag_Y', 'type_etn_by_name', 'leverage_context', 'inverse_context']",2025-11-05T09:39:35-06:00
+BFAP,First Trust Exchange-Traded Fund FT Vest Bitcoin Strategy Floor15 ETF   April,Trust,crypto_futures,"['etf_flag_Y', 'type_trust_with_commodity', 'futures_keyword']",2025-11-05T09:39:35-06:00
+BFJL,First Trust Exchange-Traded Fund FT Vest Bitcoin Strategy Floor15 ETF   July,Trust,crypto_futures,"['etf_flag_Y', 'type_trust_with_commodity', 'futures_keyword']",2025-11-05T09:39:35-06:00
+BFOC,First Trust Exchange-Traded Fund FT Vest Bitcoin Strategy Floor15 ETF - October,Trust,crypto_futures,"['etf_flag_Y', 'type_trust_with_commodity', 'futures_keyword']",2025-11-05T09:39:35-06:00
+BGLD,FT Vest Gold Strategy Quarterly Buffer ETF,ETF,commodity_futures,"['etf_flag_Y', 'type_etf', 'futures_keyword']",2025-11-05T09:39:35-06:00
+BIB,ProShares Ultra Nasdaq Biotechnology,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'brand_proshares_ultra_implies_2x', 'implied_multiplier_2x']",2025-11-05T09:39:35-06:00
+BIS,ProShares UltraShort Nasdaq Biotechnology,ETF,leveraged_index_inverse,"['etf_flag_Y', 'type_etf', 'brand_proshares_ultrashort_implies_minus2x', 'implied_multiplier_2x']",2025-11-05T09:39:35-06:00
+BITC,Bitwise Trendwise Bitcoin and Treasuries Rotation Strategy ETF,ETF,crypto_futures,"['etf_flag_Y', 'type_etf', 'futures_keyword']",2025-11-05T09:39:35-06:00
+BITI,ProShares Short Bitcoin ETF,ETF,leveraged_index_inverse,"['etf_flag_Y', 'type_etf', 'inverse_context']",2025-11-05T09:39:35-06:00
+BITS,Global X Blockchain & Bitcoin Strategy ETF,ETF,crypto_futures,"['etf_flag_Y', 'type_etf', 'futures_keyword']",2025-11-05T09:39:35-06:00
+BITU,ProShares Trust ProShares Ultra Bitcoin ETF,Trust,leveraged_index_long,"['etf_flag_Y', 'type_trust_with_commodity', 'brand_proshares_ultra_implies_2x', 'implied_multiplier_2x']",2025-11-05T09:39:35-06:00
+BITX,Volatility Shares Trust 2x Bitcoin Strategy ETF,Trust,leveraged_index_long,"['etf_flag_Y', 'type_trust_with_commodity', 'leverage_context']",2025-11-05T09:39:35-06:00
+BKNU,ETF Opportunities Trust T-REX 2X Long BKNG Daily Target ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+BLSG,Leverage Shares 2X Long BLSH Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+BLSX,Investment Managers Series Trust II Tradr 2X Long BLSH Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+BMNG,Leverage Shares 2X Long BMNR Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+BMNU,ETF Opportunities Trust T-REX 2X Long BMNR Daily Target ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+BNKD,"Bank Of Montreal MicroSectors  U.S. Big Banks -3  Inverse Leveraged ETNs due February 17, 2045",ETN,leveraged_index_inverse,"['etf_flag_Y', 'type_etn_by_name', 'inverse_context']",2025-11-05T09:39:35-06:00
+BOED,Direxion Daily BA Bear 1X Shares,ETF,leveraged_single_stock_inverse,"['etf_flag_Y', 'type_etf', 'leverage_context', 'inverse_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+BOEG,Leverage Shares 2X Long BA Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+BOEU,Direxion Daily BA Bull 2X Shares,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+BOIL,ProShares Ultra Bloomberg Natural Gas,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'brand_proshares_ultra_implies_2x', 'implied_multiplier_2x']",2025-11-05T09:39:35-06:00
+BPI,Grayscale Funds Trust Grayscale Bitcoin Premium Income ETF,Trust,crypto_trust,"['etf_flag_Y', 'type_trust_with_commodity']",2025-11-05T09:39:35-06:00
+BRKD,Direxion Daily BRKB Bear 1X Shares,ETF,leveraged_single_stock_inverse,"['etf_flag_Y', 'type_etf', 'leverage_context', 'inverse_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+BRKU,Direxion Daily BRKB Bull 2X Shares,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+BRZU,Direxion Daily Brazil Bull 2X Shares,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'leverage_context']",2025-11-05T09:39:35-06:00
+BTC,Grayscale Bitcoin Mini Trust (BTC) Common units of fractional undivided beneficial interest,Trust,crypto_trust,"['etf_flag_Y', 'type_trust_with_commodity']",2025-11-05T09:39:35-06:00
+BTCC,Grayscale Funds Trust Grayscale Bitcoin Covered Call ETF,Trust,crypto_trust,"['etf_flag_Y', 'type_trust_with_commodity']",2025-11-05T09:39:35-06:00
+BTCI,NEOS ETF Trust NEOS Bitcoin High Income ETF,Trust,crypto_trust,"['etf_flag_Y', 'type_trust_with_commodity']",2025-11-05T09:39:35-06:00
+BTCL,T-Rex 2X Long Bitcoin Daily Target ETF,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'leverage_context']",2025-11-05T09:39:35-06:00
+BTCZ,T-Rex 2X Inverse Bitcoin Daily Target ETF,ETF,leveraged_index_inverse,"['etf_flag_Y', 'type_etf', 'leverage_context', 'inverse_context']",2025-11-05T09:39:35-06:00
+BTOP,Bitwise Trendwise BTC/ETH and Treasuries Rotation Strategy ETF,ETF,crypto_futures,"['etf_flag_Y', 'type_etf', 'futures_keyword']",2025-11-05T09:39:35-06:00
+BTRN,Global X Funds Global X Bitcoin Trend Strategy ETF,ETF,crypto_futures,"['etf_flag_Y', 'type_etf', 'futures_keyword']",2025-11-05T09:39:35-06:00
+BULG,Leverage Shares 2X Long BULL Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+BULU,ETF Opportunities Trust T-REX 2X Long BULL Daily Target ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+BULX,GraniteShares 2x Long BULL Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+BULZ,MicroSectors FANG & Innovation 3x Leveraged ETN,ETN,leveraged_index_long,"['etf_flag_Y', 'type_etn_by_name', 'leverage_context']",2025-11-05T09:39:35-06:00
+BZQ,ProShares UltraShort MSCI Brazil Capped,ETF,leveraged_index_inverse,"['etf_flag_Y', 'type_etf', 'brand_proshares_ultrashort_implies_minus2x', 'implied_multiplier_2x']",2025-11-05T09:39:35-06:00
+CARD,Bank Of Montreal MAX Auto Industry -3x Inverse Leveraged ETN,ETN,leveraged_index_inverse,"['etf_flag_Y', 'type_etn_by_name', 'leverage_context', 'inverse_context']",2025-11-05T09:39:35-06:00
+CARU,Bank Of Montreal MAX Auto Industry 3x Leveraged ETN,ETN,leveraged_index_long,"['etf_flag_Y', 'type_etn_by_name', 'leverage_context']",2025-11-05T09:39:35-06:00
+CBOA,Calamos ETF Trust Calamos Bitcoin Structured Alt Protection ETF - April,Trust,crypto_trust,"['etf_flag_Y', 'type_trust_with_commodity']",2025-11-05T09:39:35-06:00
+CBOJ,Calamos ETF Trust Calamos Bitcoin Structured Alt Protection ETF - January,Trust,crypto_trust,"['etf_flag_Y', 'type_trust_with_commodity']",2025-11-05T09:39:35-06:00
+CBOL,Calamos ETF Trust Calamos Laddered Bitcoin Structured Alt Protection ETF,Trust,crypto_trust,"['etf_flag_Y', 'type_trust_with_commodity']",2025-11-05T09:39:35-06:00
+CBOO,Calamos ETF Trust Calamos Bitcoin Structured Alt Protection ETF - October,Trust,crypto_trust,"['etf_flag_Y', 'type_trust_with_commodity']",2025-11-05T09:39:35-06:00
+CBOY,Calamos ETF Trust Calamos Bitcoin Structured Alt Protection ETF - July,Trust,crypto_trust,"['etf_flag_Y', 'type_trust_with_commodity']",2025-11-05T09:39:35-06:00
+CBTA,Calamos ETF Trust Calamos Bitcoin 80 Series Structured Alt Protection ETF - April,Trust,crypto_trust,"['etf_flag_Y', 'type_trust_with_commodity']",2025-11-05T09:39:35-06:00
+CBTJ,Calamos ETF Trust Calamos Bitcoin 80 Series Structured Alt Protection ETF - January,Trust,crypto_trust,"['etf_flag_Y', 'type_trust_with_commodity']",2025-11-05T09:39:35-06:00
+CBTL,Calamos ETF Trust Calamos Laddered Bitcoin 80 Series Structured Alt Protection ETF,Trust,crypto_trust,"['etf_flag_Y', 'type_trust_with_commodity']",2025-11-05T09:39:35-06:00
+CBTO,Calamos ETF Trust Calamos Bitcoin 80 Series Structured Alt Protection ETF - October,Trust,crypto_trust,"['etf_flag_Y', 'type_trust_with_commodity']",2025-11-05T09:39:35-06:00
+CBTY,Calamos ETF Trust Calamos Bitcoin 80 Series Structured Alt Protection ETF - July,Trust,crypto_trust,"['etf_flag_Y', 'type_trust_with_commodity']",2025-11-05T09:39:35-06:00
+CBXA,Calamos ETF Trust Calamos Bitcoin 90 Series Structured Alt Protection ETF - April,Trust,crypto_trust,"['etf_flag_Y', 'type_trust_with_commodity']",2025-11-05T09:39:35-06:00
+CBXJ,Calamos ETF Trust Calamos Bitcoin 90 Series Structured Alt Protection ETF - January,Trust,crypto_trust,"['etf_flag_Y', 'type_trust_with_commodity']",2025-11-05T09:39:35-06:00
+CBXL,Calamos ETF Trust Calamos Laddered Bitcoin 90 Series Structured Alt Protection ETF,Trust,crypto_trust,"['etf_flag_Y', 'type_trust_with_commodity']",2025-11-05T09:39:35-06:00
+CBXO,Calamos ETF Trust Calamos Bitcoin 90 Series Structured Alt Protection ETF - October,Trust,crypto_trust,"['etf_flag_Y', 'type_trust_with_commodity']",2025-11-05T09:39:35-06:00
+CBXY,Calamos ETF Trust Calamos Bitcoin 90 Series Structured Alt Protection ETF - July,Trust,crypto_trust,"['etf_flag_Y', 'type_trust_with_commodity']",2025-11-05T09:39:35-06:00
+CCUP,ETF Opportunities Trust T-REX 2X Long CRCL Daily Target ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+CEF,Sprott Physical Gold and Silver Trust Units,Trust,commodity_physical_trust,"['etf_flag_Y', 'type_trust_with_commodity', 'physical_keyword']",2025-11-05T09:39:35-06:00
+CEFD,ETRACS Monthly Pay 1.5X Leveraged Closed-End Fund Index ETN,ETN,leveraged_index_long,"['etf_flag_Y', 'type_etn_by_name', 'leverage_context']",2025-11-05T09:39:35-06:00
+CEGX,Tradr 2X Long CEG Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+CELT,Investment Managers Series Trust II Tradr 2X Long CELH Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+CHAU,Direxion Daily CSI 300 China A Share Bull 2X Shares,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+CLIX,ProShares Long Online/Short Stores ETF,ETF,leveraged_index_inverse,"['etf_flag_Y', 'type_etf', 'inverse_context']",2025-11-05T09:39:35-06:00
+CLSE,Trust for Professional Managers Convergence Long/Short Equity ETF,ETF,leveraged_index_inverse,"['etf_flag_Y', 'type_etf', 'inverse_context']",2025-11-05T09:39:35-06:00
+CLSX,Investment Managers Series Trust II Tradr 2X Long CLSK Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+COIA,ProShares Trust ProShares Ultra COIN,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'brand_proshares_ultra_implies_2x', 'implied_multiplier_2x']",2025-11-05T09:39:35-06:00
+COIG,Leverage Shares 2X Long COIN Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+COIO,Themes ETF Trust Leverage Shares 2x Capped Accelerated COIN Monthly ETF,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'leverage_context']",2025-11-05T09:39:35-06:00
+CONI,GraniteShares 2x Short COIN Daily ETF,ETF,leveraged_single_stock_inverse,"['etf_flag_Y', 'type_etf', 'leverage_context', 'inverse_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+CONL,GraniteShares 2x Long COIN Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+COPA,Themes ETF Trust Themes Copper Miners ETF,Trust,commodity_physical_trust,"['etf_flag_Y', 'type_trust_with_commodity']",2025-11-05T09:39:35-06:00
+CORD,ETF Opportunities Trust T-REX 2X Inverse CRWV Daily Target ETF,ETF,leveraged_index_inverse,"['etf_flag_Y', 'type_etf', 'leverage_context', 'inverse_context']",2025-11-05T09:39:35-06:00
+CORX,Volatility Shares Trust 2x Corn ETF,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'leverage_context']",2025-11-05T09:39:35-06:00
+COTG,Leverage Shares 2X Long COST Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+COZX,Investment Managers Series Trust II Tradr 2X Long CORZ Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+CPXR,Tidal Trust III USCF Daily Target 2X Copper Index ETF,Trust,leveraged_index_long,"['etf_flag_Y', 'type_trust_with_commodity', 'leverage_context']",2025-11-05T09:39:35-06:00
+CPZ,Calamos Long/Short Equity & Dynamic Income Trust - Closed End Fund,ETF,leveraged_index_inverse,['inverse_context'],2025-11-05T09:39:35-06:00
+CRCA,ProShares Trust ProShares Ultra CRCL,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'brand_proshares_ultra_implies_2x', 'implied_multiplier_2x']",2025-11-05T09:39:35-06:00
+CRCD,ETF Opportunities Trust T-REX 2X Inverse CRCL Daily Target ETF,ETF,leveraged_index_inverse,"['etf_flag_Y', 'type_etf', 'leverage_context', 'inverse_context']",2025-11-05T09:39:35-06:00
+CRCG,Leverage Shares 2X Long CRCL Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+CRDU,Investment Managers Series Trust II Tradr 2X Long CRDO Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+CRMG,Leverage Shares 2X Long CRM Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+CRSH,Tidal Trust II YieldMax Short TSLA Option Income Strategy ETF,ETF,leveraged_single_stock_inverse,"['etf_flag_Y', 'type_etf', 'inverse_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+CRWG,Leverage Shares 2X Long CRWV Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+CRWL,GraniteShares 2x Long CRWD Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+CRWU,ETF Opportunities Trust T-REX 2X Long CRWV Daily Target ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+CSCL,Direxion Daily CSCO Bull 2X ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+CSCS,Direxion Daily CSCO Bear 1X ETF,ETF,leveraged_single_stock_inverse,"['etf_flag_Y', 'type_etf', 'leverage_context', 'inverse_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+CURE,Direxion Daily Healthcare Bull 3X Shares,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'leverage_context']",2025-11-05T09:39:35-06:00
+CVNX,Defiance Daily Target 2X Long CVNA ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+CVSB,Morgan Stanley ETF Trust Calvert Ultra-Short Investment Grade ETF,ETF,leveraged_index_inverse,"['etf_flag_Y', 'type_etf', 'inverse_context']",2025-11-05T09:39:35-06:00
+CWEB,Direxion Daily CSI China Internet Index Bull 2X Shares,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+CWVX,Tradr 2X Long CRWV Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+CXRN,Listed Funds Trust Teucrium 2x Daily Corn ETF,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'leverage_context']",2025-11-05T09:39:35-06:00
+DASX,Investment Managers Series Trust II Tradr 2X Long DASH Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+DDM,ProShares Ultra Dow30,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'brand_proshares_ultra_implies_2x', 'implied_multiplier_2x']",2025-11-05T09:39:35-06:00
+DEFI,Tidal Commodities Trust I Hashdex Bitcoin ETF,Trust,crypto_trust,"['etf_flag_Y', 'type_trust_with_commodity']",2025-11-05T09:39:35-06:00
+DFEN,Direxion Daily Aerospace & Defense Bull 3X Shares,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'leverage_context']",2025-11-05T09:39:35-06:00
+DFII,First Trust Exchange-Traded Fund FT Vest Bitcoin Strategy & Target Income ETF,Trust,crypto_futures,"['etf_flag_Y', 'type_trust_with_commodity', 'futures_keyword']",2025-11-05T09:39:35-06:00
+DGZ,"DB Gold Short ETN due February 15, 2038",ETN,leveraged_single_stock_inverse,"['type_etn_by_name', 'inverse_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+DIG,ProShares Ultra Energy,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'brand_proshares_ultra_implies_2x', 'implied_multiplier_2x']",2025-11-05T09:39:35-06:00
+DIPS,Tidal Trust II YieldMax Short NVDA Option Income Strategy ETF,ETF,leveraged_single_stock_inverse,"['etf_flag_Y', 'type_etf', 'inverse_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+DJTU,ETF Opportunities Trust T-REX 2X Long DJT Daily Target ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+DKNX,Defiance Daily Target 2X Long DKNG ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+DKUP,ETF Opportunities Trust T-REX 2X Long DKNG Daily Target ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+DLLL,GraniteShares 2x Long DELL Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+DOG,ProShares Short Dow30,ETF,leveraged_index_inverse,"['etf_flag_Y', 'type_etf', 'inverse_context']",2025-11-05T09:39:35-06:00
+DOGD,Tradr 2X Long DDOG Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+DPST,Direxion Daily Regional Banks Bull 3X Shares,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+DRIP,Direxion Daily S&P Oil & Gas Exp. & Prod. Bear 2X Shares,ETF,leveraged_index_inverse,"['etf_flag_Y', 'type_etf', 'leverage_context', 'inverse_context']",2025-11-05T09:39:35-06:00
+DRN,Direxion Daily Real Estate Bull 3X Shares,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'leverage_context']",2025-11-05T09:39:35-06:00
+DRV,Direxion Daily Real Estate Bear 3X Shares,ETF,leveraged_index_inverse,"['etf_flag_Y', 'type_etf', 'leverage_context', 'inverse_context']",2025-11-05T09:39:35-06:00
+DUG,ProShares UltraShort Energy,ETF,leveraged_index_inverse,"['etf_flag_Y', 'type_etf', 'brand_proshares_ultrashort_implies_minus2x', 'implied_multiplier_2x']",2025-11-05T09:39:35-06:00
+DULL,"Bank Of Montreal MicroSectors Gold -3X Inverse Leveraged ETNs due January 29, 2043",ETN,leveraged_index_inverse,"['etf_flag_Y', 'type_etn_by_name', 'leverage_context', 'inverse_context']",2025-11-05T09:39:35-06:00
+DUSL,Direxion Daily Industrials Bull 3X Shares,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'leverage_context']",2025-11-05T09:39:35-06:00
+DUST,Direxion Daily Gold Miners Index Bear 2X Shares,ETF,leveraged_single_stock_inverse,"['etf_flag_Y', 'type_etf', 'leverage_context', 'inverse_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+DWSH,AdvisorShares Dorsey Wright Short ETF,ETF,leveraged_single_stock_inverse,"['etf_flag_Y', 'type_etf', 'inverse_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+DXD,ProShares UltraShort Dow30,ETF,leveraged_index_inverse,"['etf_flag_Y', 'type_etf', 'brand_proshares_ultrashort_implies_minus2x', 'implied_multiplier_2x']",2025-11-05T09:39:35-06:00
+DZZ,"DB Gold Double Short ETN due February 15, 2038",ETN,leveraged_single_stock_inverse,"['type_etn_by_name', 'inverse_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+EDC,Direxion Emerging Markets Bull 3X Shares,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'leverage_context']",2025-11-05T09:39:35-06:00
+EDZ,Direxion Emerging Markets Bear 3X Shares,ETF,leveraged_index_inverse,"['etf_flag_Y', 'type_etf', 'leverage_context', 'inverse_context']",2025-11-05T09:39:35-06:00
+EET,ProShares Ultra MSCI Emerging Markets,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'brand_proshares_ultra_implies_2x', 'implied_multiplier_2x']",2025-11-05T09:39:35-06:00
+EEV,ProShares UltraShort MSCI Emerging Markets,ETF,leveraged_index_inverse,"['etf_flag_Y', 'type_etf', 'brand_proshares_ultrashort_implies_minus2x', 'implied_multiplier_2x']",2025-11-05T09:39:35-06:00
+EFO,ProShares Ultra MSCI EAFE,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'brand_proshares_ultra_implies_2x', 'implied_multiplier_2x']",2025-11-05T09:39:35-06:00
+EFU,ProShares UltraShort MSCI EAFE,ETF,leveraged_index_inverse,"['etf_flag_Y', 'type_etf', 'brand_proshares_ultrashort_implies_minus2x', 'implied_multiplier_2x']",2025-11-05T09:39:35-06:00
+EFZ,ProShares Short MSCI EAFE,ETF,leveraged_single_stock_inverse,"['etf_flag_Y', 'type_etf', 'inverse_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+EHLS,Even Herd Long Short ETF,ETF,leveraged_single_stock_inverse,"['etf_flag_Y', 'type_etf', 'inverse_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+EHY,Amplify ETF Trust Amplify Ethereum Max Income Covered Call ETF,Trust,crypto_trust,"['etf_flag_Y', 'type_trust_with_commodity']",2025-11-05T09:39:35-06:00
+ELIL,Direxion Daily LLY Bull 2X Shares,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+ELIS,Direxion Daily LLY Bear 1X Shares,ETF,leveraged_single_stock_inverse,"['etf_flag_Y', 'type_etf', 'leverage_context', 'inverse_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+ENPX,Investment Managers Series Trust II Tradr 2X Long ENPH Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+EPV,ProShares UltraShort FTSE Europe ETF,ETF,leveraged_index_inverse,"['etf_flag_Y', 'type_etf', 'brand_proshares_ultrashort_implies_minus2x', 'implied_multiplier_2x']",2025-11-05T09:39:35-06:00
+ERX,Direxion Energy Bull 2X Shares,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'leverage_context']",2025-11-05T09:39:35-06:00
+ERY,Direxion Daily Energy Bear 2X Shares,ETF,leveraged_index_inverse,"['etf_flag_Y', 'type_etf', 'leverage_context', 'inverse_context']",2025-11-05T09:39:35-06:00
+ETCO,Grayscale Funds Trust Grayscale Ethereum Covered Call ETF,Trust,crypto_trust,"['etf_flag_Y', 'type_trust_with_commodity']",2025-11-05T09:39:35-06:00
+ETH,Grayscale Ethereum Mini Trust (ETH) Common units of fractional undivided beneficial interest,Trust,crypto_trust,"['etf_flag_Y', 'type_trust_with_commodity']",2025-11-05T09:39:35-06:00
+ETHA,iShares Ethereum Trust ETF,Trust,crypto_trust,"['etf_flag_Y', 'type_trust_with_commodity']",2025-11-05T09:39:35-06:00
+ETHD,ProShares Trust ProShares UltraShort Ether ETF,Trust,leveraged_index_inverse,"['etf_flag_Y', 'type_trust_with_commodity', 'brand_proshares_ultrashort_implies_minus2x', 'implied_multiplier_2x']",2025-11-05T09:39:35-06:00
+ETHE,Grayscale Ethereum Trust (ETH) Common units of fractional undivided beneficial interest,Trust,crypto_trust,"['etf_flag_Y', 'type_trust_with_commodity']",2025-11-05T09:39:35-06:00
+ETHT,ProShares Trust ProShares Ultra Ether ETF,Trust,leveraged_index_long,"['etf_flag_Y', 'type_trust_with_commodity', 'brand_proshares_ultra_implies_2x', 'implied_multiplier_2x']",2025-11-05T09:39:35-06:00
+ETHU,Volatility Shares Trust 2x Ether ETF,Trust,leveraged_index_long,"['etf_flag_Y', 'type_trust_with_commodity', 'leverage_context']",2025-11-05T09:39:35-06:00
+ETQ,T-Rex 2X Inverse Ether Daily Target ETF,ETF,leveraged_index_inverse,"['etf_flag_Y', 'type_etf', 'leverage_context', 'inverse_context']",2025-11-05T09:39:35-06:00
+ETRL,GraniteShares 2x Long ETOR Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+ETTY,Amplify ETF Trust Amplify Ethereum 3% Monthly Option Income ETF,Trust,crypto_trust,"['etf_flag_Y', 'type_trust_with_commodity']",2025-11-05T09:39:35-06:00
+ETU,T-Rex 2X Long Ether Daily Target ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+EUM,ProShares Short MSCI Emerging Markets,ETF,leveraged_single_stock_inverse,"['etf_flag_Y', 'type_etf', 'inverse_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+EUO,ProShares UltraShort Euro,ETF,leveraged_index_inverse,"['etf_flag_Y', 'type_etf', 'brand_proshares_ultrashort_implies_minus2x', 'implied_multiplier_2x']",2025-11-05T09:39:35-06:00
+EURL,Direxion Daily FTSE Europe Bull 3x Shares,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'leverage_context']",2025-11-05T09:39:35-06:00
+EWV,ProShares UltraShort MSCI Japan,ETF,leveraged_index_inverse,"['etf_flag_Y', 'type_etf', 'brand_proshares_ultrashort_implies_minus2x', 'implied_multiplier_2x']",2025-11-05T09:39:35-06:00
+EZBC,Franklin Templeton Digital Holdings Trust Shares of Franklin Bitcoin ETF,Trust,crypto_trust,"['etf_flag_Y', 'type_trust_with_commodity']",2025-11-05T09:39:35-06:00
+EZJ,ProShares Ultra MSCI Japan,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'brand_proshares_ultra_implies_2x', 'implied_multiplier_2x']",2025-11-05T09:39:35-06:00
+FAS,Direxion Financial Bull 3X Shares,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'leverage_context']",2025-11-05T09:39:35-06:00
+FAZ,Direxion Financial Bear 3X Shares,ETF,leveraged_index_inverse,"['etf_flag_Y', 'type_etf', 'leverage_context', 'inverse_context']",2025-11-05T09:39:35-06:00
+FBL,GraniteShares 2x Long META Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+FCG,First Trust Natural Gas ETF,Trust,commodity_physical_trust,"['etf_flag_Y', 'type_trust_with_commodity']",2025-11-05T09:39:35-06:00
+FFLS,Northern Lights Fund Trust II The Future Fund Long/Short ETF,ETF,leveraged_single_stock_inverse,"['etf_flag_Y', 'type_etf', 'inverse_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+FGDL,Franklin Templeton Holdings Trust Franklin Responsibly Sourced Gold ETF,Trust,commodity_physical_trust,"['etf_flag_Y', 'type_trust_with_commodity']",2025-11-05T09:39:35-06:00
+FIAT,Tidal Trust II YieldMax Short COIN Option Income Strategy ETF,ETF,leveraged_single_stock_inverse,"['etf_flag_Y', 'type_etf', 'inverse_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+FIGG,Leverage Shares 2x Long FIG Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+FLYD,Bank of Montreal MicroSectors Travel -3x Inverse Leveraged ETN,ETN,leveraged_index_inverse,"['etf_flag_Y', 'type_etn_by_name', 'leverage_context', 'inverse_context']",2025-11-05T09:39:35-06:00
+FLYT,Investment Managers Series Trust II Tradr 2X Long FLY Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+FLYU,Bank of Montreal MicroSectors Travel 3x Leveraged ETN,ETN,leveraged_index_long,"['etf_flag_Y', 'type_etn_by_name', 'leverage_context']",2025-11-05T09:39:35-06:00
+FNGD,"MicroSectors FANG  Index -3X Inverse Leveraged ETNs due January 8, 2038",ETN,leveraged_index_inverse,"['type_etn_by_name', 'leverage_context', 'inverse_context']",2025-11-05T09:39:35-06:00
+FNGG,Direxion Daily NYSE FANG+ Bull 2X Shares,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'leverage_context']",2025-11-05T09:39:35-06:00
+FNGO,"MicroSectors FANG  Index 2X Leveraged ETNs due January 8, 2038",ETN,leveraged_index_long,"['type_etn_by_name', 'leverage_context']",2025-11-05T09:39:35-06:00
+FNGU,Bank Of Montreal MicroSectors FANG+ 3X Leveraged ETNs,ETN,leveraged_index_long,"['etf_flag_Y', 'type_etn_by_name', 'leverage_context']",2025-11-05T09:39:35-06:00
+FRDD,Direxion Daily F Bear 1X ETF,ETF,leveraged_single_stock_inverse,"['etf_flag_Y', 'type_etf', 'leverage_context', 'inverse_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+FRDU,Direxion Daily F Bull 2X ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+FTLS,First Trust Long/Short Equity,ETF,leveraged_index_inverse,"['etf_flag_Y', 'type_etf', 'inverse_context']",2025-11-05T09:39:35-06:00
+FTXN,First Trust Nasdaq Oil & Gas ETF,Trust,commodity_physical_trust,"['etf_flag_Y', 'type_trust_with_commodity']",2025-11-05T09:39:35-06:00
+FUTG,Leverage Shares 2x Long FUTU Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+FXP,ProShares Ultrashort FTSE China 50,ETF,leveraged_index_inverse,"['etf_flag_Y', 'type_etf', 'brand_proshares_ultrashort_implies_minus2x', 'implied_multiplier_2x']",2025-11-05T09:39:35-06:00
+GBTC,Grayscale Bitcoin Trust (BTC) Common Units of fractional undivided beneficial interest,Trust,crypto_trust,"['etf_flag_Y', 'type_trust_with_commodity']",2025-11-05T09:39:35-06:00
+GDE,WisdomTree Trust WisdomTree Efficient Gold Plus Equity Strategy Fund,Trust,commodity_futures,"['etf_flag_Y', 'type_trust_with_commodity', 'futures_keyword']",2025-11-05T09:39:35-06:00
+GDMN,WisdomTree Trust WisdomTree Efficient Gold Plus Gold Miners Strategy Fund,Trust,commodity_futures,"['etf_flag_Y', 'type_trust_with_commodity', 'futures_keyword']",2025-11-05T09:39:35-06:00
+GDXD,MicroSectors Gold Miners -3X Inverse Leveraged ETNs,ETN,leveraged_index_inverse,"['etf_flag_Y', 'type_etn_by_name', 'leverage_context', 'inverse_context']",2025-11-05T09:39:35-06:00
+GDXU,MicroSectors Gold Miners 3X Leveraged ETN,ETN,leveraged_index_long,"['etf_flag_Y', 'type_etn_by_name', 'leverage_context']",2025-11-05T09:39:35-06:00
+GDXY,Tidal Trust II YieldMax Gold Miners Option Income Strategy ETF,Trust,commodity_futures,"['etf_flag_Y', 'type_trust_with_commodity', 'futures_keyword']",2025-11-05T09:39:35-06:00
+GEMG,Leverage Shares 2X Long GEMI Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+GEVX,Tradr 2X Long GEV Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+GGLL,Direxion Daily GOOGL Bull 2X Shares,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+GGLS,Direxion Daily GOOGL Bear 1X Shares,ETF,leveraged_single_stock_inverse,"['etf_flag_Y', 'type_etf', 'leverage_context', 'inverse_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+GGN,"GAMCO Global Gold, Natural Resources & Income Trust",Trust,commodity_physical_trust,['type_trust_with_commodity'],2025-11-05T09:39:35-06:00
+GGN$B,"GAMCO Global Gold, Natural Reources & Income Trust 5.00% Series B Cumulative 25.00 Liquidation Preference",Trust,commodity_physical_trust,['type_trust_with_commodity'],2025-11-05T09:39:35-06:00
+GLD,SPDR Gold Trust,Trust,commodity_physical_trust,"['etf_flag_Y', 'type_trust_with_commodity']",2025-11-05T09:39:35-06:00
+GLDM,SPDR Gold MiniShares Trust,Trust,commodity_physical_trust,"['etf_flag_Y', 'type_trust_with_commodity']",2025-11-05T09:39:35-06:00
+GLGG,Leverage Shares 2X Long GLXY Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+GLL,ProShares UltraShort Gold,ETF,leveraged_index_inverse,"['etf_flag_Y', 'type_etf', 'brand_proshares_ultrashort_implies_minus2x', 'implied_multiplier_2x']",2025-11-05T09:39:35-06:00
+GLXU,ETF Opportunities Trust T-REX 2X Long GLXY Daily Target ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+GMEU,ETF Opp Tr T-REX 2X Long GME Daily Target ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+GNT,"GAMCO Natural Resources, Gold & Income Trust",Trust,commodity_physical_trust,['type_trust_with_commodity'],2025-11-05T09:39:35-06:00
+GOLY,Strategy Shares Gold Enhanced Yield ETF,ETF,commodity_futures,"['etf_flag_Y', 'type_etf', 'futures_keyword']",2025-11-05T09:39:35-06:00
+GOOX,ETF Opportunities Trust T-Rex 2X Long Alphabet Daily Target ETF,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'leverage_context']",2025-11-05T09:39:35-06:00
+GSX,Investment Managers Series Trust II Tradr 2X Long GS Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+GUSH,Direxion Daily S&P Oil & Gas Exp. & Prod. Bull 2X Shares,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'leverage_context']",2025-11-05T09:39:35-06:00
+HBTC,Listed Funds Trust Fortuna Hedged Bitcoin Fund,Trust,crypto_trust,"['etf_flag_Y', 'type_trust_with_commodity']",2025-11-05T09:39:35-06:00
+HDGE,Ranger Equity Bear Bear ETF,ETF,leveraged_index_inverse,"['etf_flag_Y', 'type_etf', 'inverse_context']",2025-11-05T09:39:35-06:00
+HFEQ,Tidal Trust I Unlimited HFEQ Equity Long/Short ETF,ETF,leveraged_single_stock_inverse,"['etf_flag_Y', 'type_etf', 'inverse_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+HIBL,Direxion Daily S&P 500 High Beta Bull 3X Shares,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+HIBS,Direxion Daily S&P 500 High Beta Bear 3X Shares,ETF,leveraged_single_stock_inverse,"['etf_flag_Y', 'type_etf', 'leverage_context', 'inverse_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+HIMZ,Defiance Daily Target 2X Long HIMS ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+HODL,VanEck Bitcoin Trust Common Shares of Beneficial Interest,Trust,crypto_trust,"['etf_flag_Y', 'type_trust_with_commodity']",2025-11-05T09:39:35-06:00
+HOOG,Leverage Shares 2X Long HOOD Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+HOOX,Defiance Daily Target 2X Long HOOD ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+IAU,iShares Gold Trust Shares of the iShares Gold Trust,Trust,commodity_physical_trust,"['etf_flag_Y', 'type_trust_with_commodity']",2025-11-05T09:39:35-06:00
+IAUI,NEOS ETF Trust NEOS Gold High Income ETF,Trust,commodity_physical_trust,"['etf_flag_Y', 'type_trust_with_commodity']",2025-11-05T09:39:35-06:00
+IAUM,iShares Gold Trust Micro Shares,Trust,commodity_physical_trust,"['etf_flag_Y', 'type_trust_with_commodity']",2025-11-05T09:39:35-06:00
+IBIT,iShares Bitcoin Trust ETF,Trust,crypto_trust,"['etf_flag_Y', 'type_trust_with_commodity']",2025-11-05T09:39:35-06:00
+IETH,Bitwise Funds Trust Bitwise Ethereum Option Income Strategy ETF,Trust,crypto_futures,"['etf_flag_Y', 'type_trust_with_commodity', 'futures_keyword']",2025-11-05T09:39:35-06:00
+IGLD,FT Vest Gold Strategy Target Income ETF,ETF,commodity_futures,"['etf_flag_Y', 'type_etf', 'futures_keyword']",2025-11-05T09:39:35-06:00
+INDL,Direxion Daily MSCI India Bull 2X Shares,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+INTW,GraniteShares 2x Long INTC Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+IONL,GraniteShares 2x Long IONQ Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+IONX,Defiance Daily Target 2X Long IONQ ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+IONZ,Defiance Daily Target 2x Short IONQ ETF,ETF,leveraged_single_stock_inverse,"['etf_flag_Y', 'type_etf', 'leverage_context', 'inverse_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+IRE,Tidal Trust II Defiance Daily Target 2X Long IREN ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+IREX,Investment Managers Series Trust II Tradr 2X Long IREN Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+ISUL,GraniteShares 2x Long ISRG Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+IWDL,ETRACS 2x Leveraged US Value Factor TR ETN,ETN,leveraged_index_long,"['etf_flag_Y', 'type_etn_by_name', 'leverage_context']",2025-11-05T09:39:35-06:00
+IWFL,ETRACS 2x Leveraged US Growth Factor TR ETN,ETN,leveraged_index_long,"['etf_flag_Y', 'type_etn_by_name', 'leverage_context']",2025-11-05T09:39:35-06:00
+IWML,ETRACS 2x Leveraged US Size Factor TR ETN,ETN,leveraged_index_long,"['etf_flag_Y', 'type_etn_by_name', 'leverage_context']",2025-11-05T09:39:35-06:00
+JDST,Direxion Daily Junior Gold Miners Index Bear 2X Shares,ETF,leveraged_single_stock_inverse,"['etf_flag_Y', 'type_etf', 'leverage_context', 'inverse_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+JETD,Bank Of Montreal MAX Airlines -3X Inverse Leveraged ETNs,ETN,leveraged_index_inverse,"['etf_flag_Y', 'type_etn_by_name', 'leverage_context', 'inverse_context']",2025-11-05T09:39:35-06:00
+JETU,Bank Of Montreal MAX Airlines 3X Leveraged ETNs,ETN,leveraged_index_long,"['etf_flag_Y', 'type_etn_by_name', 'leverage_context']",2025-11-05T09:39:35-06:00
+JNUG,Direxion Daily Junior Gold Miners Index Bull 2X Shares,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+JOBX,Tradr 2X Long JOBY Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+JPX,Defiance Daily Target 2X Long JPM ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+KBAB,KraneShares 2x Long BABA Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+KGLD,Kurv ETF Trust Kurv Gold Enhanced Income ETF,Trust,commodity_physical_trust,"['etf_flag_Y', 'type_trust_with_commodity']",2025-11-05T09:39:35-06:00
+KJD,KraneShares 2x Long JD Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+KMLI,KraneShares 2x Long MELI Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+KOLD,ProShares UltraShort Bloomberg Natural Gas,ETF,leveraged_index_inverse,"['etf_flag_Y', 'type_etf', 'brand_proshares_ultrashort_implies_minus2x', 'implied_multiplier_2x']",2025-11-05T09:39:35-06:00
+KORU,Direxion Daily South Korea Bull 3X Shares,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+KPDD,KraneShares 2x Long PDD Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+KSLV,Kurv ETF Trust Kurv Silver Enhanced Income ETF,Trust,commodity_physical_trust,"['etf_flag_Y', 'type_trust_with_commodity']",2025-11-05T09:39:35-06:00
+KTUP,ETF Opportunities Trust T-REX 2X Long KTOS Daily Target ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+LABD,Direxion Daily S&P Biotech Bear 3X Shares,ETF,leveraged_index_inverse,"['etf_flag_Y', 'type_etf', 'leverage_context', 'inverse_context']",2025-11-05T09:39:35-06:00
+LABU,Direxion Daily S&P Biotech Bull 3X Shares,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'leverage_context']",2025-11-05T09:39:35-06:00
+LABX,Tradr 2X Long ALAB Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+LBAY,Leatherback Long/Short Alternative Yield ETF,ETF,leveraged_index_inverse,"['etf_flag_Y', 'type_etf', 'inverse_context']",2025-11-05T09:39:35-06:00
+LCDL,GraniteShares 2x Long LCID Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+LLYX,Tidal Trust II Defiance Daily Target 2X Long LLY ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+LLYZ,Defiance Daily Target 2X Short LLY ETF,ETF,leveraged_single_stock_inverse,"['etf_flag_Y', 'type_etf', 'leverage_context', 'inverse_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+LMBO,Direxion Shares ETF Trust Direxion Daily Crypto Industry Bull 2X Shares,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'leverage_context']",2025-11-05T09:39:35-06:00
+LMNX,Defiance Daily Target 2x Long LMND ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+LMTL,Direxion Daily LMT Bull 2X ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+LMTS,Direxion Daily LMT Bear 1X ETF,ETF,leveraged_single_stock_inverse,"['etf_flag_Y', 'type_etf', 'leverage_context', 'inverse_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+LRCU,Tradr 2X Long LRCX Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+LSEQ,Harbor ETF Trust Harbor Long-Short Equity ETF,ETF,leveraged_index_inverse,"['etf_flag_Y', 'type_etf', 'inverse_context']",2025-11-05T09:39:35-06:00
+LTL,ProShares Ultra Communication Services,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'brand_proshares_ultra_implies_2x', 'implied_multiplier_2x']",2025-11-05T09:39:35-06:00
+LULG,Leverage Shares 2X Long LULU Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+LYFX,Investment Managers Series Trust II Tradr 2X Long LYFT Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+MAGX,Roundhill Daily 2X Long Magnificent Seven ETF,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'leverage_context']",2025-11-05T09:39:35-06:00
+MAXI,Simplify Bitcoin Strategy PLUS Income ETF,ETF,crypto_futures,"['etf_flag_Y', 'type_etf', 'futures_keyword']",2025-11-05T09:39:35-06:00
+MDBX,Tradr 2X Long MDB Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+METD,Direxion Daily META Bear 1X Shares,ETF,leveraged_single_stock_inverse,"['etf_flag_Y', 'type_etf', 'leverage_context', 'inverse_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+METU,Direxion Daily META Bull 2X Shares,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+MEXX,Direxion Daily MSCI Mexico Bull 3X Shares,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'leverage_context']",2025-11-05T09:39:35-06:00
+MIDU,Direxion Mid Cap Bull 3X Shares,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+MLPR,ETRACS Quarterly Pay 1.5X Leveraged Alerian MLP Index ETN,ETN,leveraged_index_long,"['etf_flag_Y', 'type_etn_by_name', 'leverage_context']",2025-11-05T09:39:35-06:00
+MNRS,Grayscale Funds Trust Grayscale Bitcoin Miners ETF,Trust,crypto_trust,"['etf_flag_Y', 'type_trust_with_commodity']",2025-11-05T09:39:35-06:00
+MPG,Leverage Shares 2X Long MP Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+MPL,Tidal Trust II Defiance Daily Target 2X Long MP ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+MQQQ,Tradr 2X Long Innovation 100 Monthly ETF,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'leverage_context']",2025-11-05T09:39:35-06:00
+MRAL,GraniteShares 2x Long MARA Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+MSDD,GraniteShares 2x Short MSTR Daily ETF,ETF,leveraged_single_stock_inverse,"['etf_flag_Y', 'type_etf', 'leverage_context', 'inverse_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+MSFD,Direxion Daily MSFT Bear 1X Shares,ETF,leveraged_single_stock_inverse,"['etf_flag_Y', 'type_etf', 'leverage_context', 'inverse_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+MSFL,GraniteShares 2x Long MSFT Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+MSFU,Direxion Daily MSFT Bull 2X Shares,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+MSFX,ETF Opportunities Trust T-Rex 2X Long Microsoft Daily Target ETF,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'leverage_context']",2025-11-05T09:39:35-06:00
+MSOO,Themes ETF Trust Leverage Shares 2x Capped Accelerated MSTR Monthly ETF,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'leverage_context']",2025-11-05T09:39:35-06:00
+MSTP,GraniteShares 2x Long MSTR Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+MSTU,ETF Opportunities Trust T-Rex 2X Long MSTR Daily Target ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+MSTX,Defiance Daily Target 2x Long MSTR ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+MSTZ,ETF Opportunities Trust T-Rex 2X Inverse MSTR Daily Target ETF,ETF,leveraged_index_inverse,"['etf_flag_Y', 'type_etf', 'leverage_context', 'inverse_context']",2025-11-05T09:39:35-06:00
+MTUL,ETRACS 2x Leveraged MSCI US Momentum Factor TR ETN,ETN,leveraged_index_long,"['etf_flag_Y', 'type_etn_by_name', 'leverage_context']",2025-11-05T09:39:35-06:00
+MUD,Direxion Daily MU Bear 1X Shares,ETF,leveraged_single_stock_inverse,"['etf_flag_Y', 'type_etf', 'leverage_context', 'inverse_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+MULL,GraniteShares 2x Long MU Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+MUU,Direxion Daily MU Bull 2X Shares,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+MVLL,GraniteShares 2x Long MRVL Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+MVO,MV Oil Trust Units of Beneficial Interests,Trust,commodity_physical_trust,['type_trust_with_commodity'],2025-11-05T09:39:35-06:00
+MVRL,ETRACS Monthly Pay 1.5X Leveraged Mortgage REIT ETN,ETN,leveraged_index_long,"['etf_flag_Y', 'type_etn_by_name', 'leverage_context']",2025-11-05T09:39:35-06:00
+MVV,ProShares Ultra MidCap400,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'brand_proshares_ultra_implies_2x', 'implied_multiplier_2x']",2025-11-05T09:39:35-06:00
+MYY,ProShares Short MidCap400,ETF,leveraged_index_inverse,"['etf_flag_Y', 'type_etf', 'inverse_context']",2025-11-05T09:39:35-06:00
+MZZ,ProShares UltraShort MidCap400,ETF,leveraged_index_inverse,"['etf_flag_Y', 'type_etf', 'brand_proshares_ultrashort_implies_minus2x', 'implied_multiplier_2x']",2025-11-05T09:39:35-06:00
+NAIL,Direxion Daily Homebuilders & Supplies Bull 3X Shares,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'leverage_context']",2025-11-05T09:39:35-06:00
+NBIG,Leverage Shares 2X Long NBIS Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+NBIL,GraniteShares 2x Long NBIS Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+NEBX,Tradr 2X Long NBIS Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+NETX,Investment Managers Series Trust II Tradr 2X Long NET Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+NFLU,ETF Opportunities Trust T-Rex 2X Long NFLX Daily Target ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+NFXL,Direxion Daily NFLX Bull 2X Shares,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+NFXS,Direxion Daily NFLX Bear 1X Shares,ETF,leveraged_single_stock_inverse,"['etf_flag_Y', 'type_etf', 'leverage_context', 'inverse_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+NOWL,GraniteShares 2x Long NOW Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+NRGD,"Bank Of Montreal MicroSectors  U.S. Big Oil -3  Inverse Leveraged ETNs due February 17, 2045",ETN,leveraged_index_inverse,"['etf_flag_Y', 'type_etn_by_name', 'inverse_context']",2025-11-05T09:39:35-06:00
+NRT,North European Oil Royality Trust Common Stock,Trust,commodity_physical_trust,['type_trust_with_commodity'],2025-11-05T09:39:35-06:00
+NUGT,Direxion Daily Gold Miners Index Bull 2XShares,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'leverage_context']",2025-11-05T09:39:35-06:00
+NVD,GraniteShares 2x Short NVDA Daily ETF,ETF,leveraged_single_stock_inverse,"['etf_flag_Y', 'type_etf', 'leverage_context', 'inverse_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+NVDB,ProShares Trust ProShares Ultra NVDA,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'brand_proshares_ultra_implies_2x', 'implied_multiplier_2x']",2025-11-05T09:39:35-06:00
+NVDD,Direxion Daily NVDA Bear 1X Shares,ETF,leveraged_single_stock_inverse,"['etf_flag_Y', 'type_etf', 'leverage_context', 'inverse_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+NVDG,Leverage Shares 2X Long NVDA Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+NVDL,GraniteShares 2x Long NVDA Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+NVDO,Themes ETF Trust Leverage Shares 2x Capped Accelerated NVDA Monthly ETF,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'leverage_context']",2025-11-05T09:39:35-06:00
+NVDQ,ETF Opportunities Trust T-Rex 2X Inverse NVIDIA Daily Target ETF,ETF,leveraged_index_inverse,"['etf_flag_Y', 'type_etf', 'leverage_context', 'inverse_context']",2025-11-05T09:39:35-06:00
+NVDS,Tradr 1.5X Short NVDA Daily ETF,ETF,leveraged_single_stock_inverse,"['etf_flag_Y', 'type_etf', 'leverage_context', 'inverse_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+NVDU,Direxion Daily NVDA Bull 2X Shares,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+NVDX,ETF Opportunities Trust T-Rex 2X Long NVIDIA Daily Target ETF,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'leverage_context']",2025-11-05T09:39:35-06:00
+NVOX,Tidal Trust II Defiance Daily Target 2X Long NVO ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+NVTX,Tradr 2X Long NVTS Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+NWMX,Investment Managers Series Trust II Tradr 2X Long NEM Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+OILD,MicroSectors Oil & Gas Exp. & Prod. -3x Inverse Leveraged ETN,ETN,leveraged_index_inverse,"['etf_flag_Y', 'type_etn_by_name', 'leverage_context', 'inverse_context']",2025-11-05T09:39:35-06:00
+OILT,Texas Capital Funds Trust Texas Capital Texas Oil Index ETF,Trust,commodity_physical_trust,"['etf_flag_Y', 'type_trust_with_commodity']",2025-11-05T09:39:35-06:00
+OILU,MicroSectors Oil & Gas Exp. & Prod. 3x Leveraged ETN,ETN,leveraged_index_long,"['etf_flag_Y', 'type_etn_by_name', 'leverage_context']",2025-11-05T09:39:35-06:00
+OKLL,Defiance Daily Target 2x Long OKLO ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+OKTX,Investment Managers Series Trust II Tradr 2X Long OKTA Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+OPEX,Investment Managers Series Trust II Tradr 2X Long OPEN Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+ORCX,Defiance Daily Target 2X Long ORCL ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+ORR,Militia Long/Short Equity ETF,ETF,leveraged_index_inverse,"['etf_flag_Y', 'type_etf', 'inverse_context']",2025-11-05T09:39:35-06:00
+OSCG,Leverage Shares 2X Long OSCR Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+OSCX,Defiance Daily Target 2x Long OSCR ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+OWNB,Bitwise Funds Trust Bitwise Bitcoin Standard Corporations ETF,Trust,crypto_trust,"['etf_flag_Y', 'type_trust_with_commodity']",2025-11-05T09:39:35-06:00
+PALD,Direxion Daily PANW Bear 1X Shares,ETF,leveraged_single_stock_inverse,"['etf_flag_Y', 'type_etf', 'leverage_context', 'inverse_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+PALL,abrdn Physical Palladium Shares ETF,ETF,commodity_physical_trust,"['etf_flag_Y', 'type_etf', 'physical_keyword']",2025-11-05T09:39:35-06:00
+PALU,Direxion Daily PANW Bull 2X Shares,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+PANG,Leverage Shares 2X Long PANW Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+PDDL,GraniteShares 2x Long PDD Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+PHYS,Sprott Physical Gold Trust ETV,Trust,commodity_physical_trust,"['etf_flag_Y', 'type_trust_with_commodity', 'physical_keyword']",2025-11-05T09:39:35-06:00
+PILL,Direxion Daily Pharmaceutical & Medical Bull 3X Shares,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'leverage_context']",2025-11-05T09:39:35-06:00
+PLOO,Themes ETF Trust Leverage Shares 2x Capped Accelerated PLTR Monthly ETF,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'leverage_context']",2025-11-05T09:39:35-06:00
+PLTA,ProShares Trust ProShares Ultra PLTR,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'brand_proshares_ultra_implies_2x', 'implied_multiplier_2x']",2025-11-05T09:39:35-06:00
+PLTD,Direxion Daily PLTR Bear 1X Shares,ETF,leveraged_single_stock_inverse,"['etf_flag_Y', 'type_etf', 'leverage_context', 'inverse_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+PLTG,Leverage Shares 2X Long PLTR Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+PLTU,Direxion Daily PLTR Bull 2X Shares,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+PLTZ,Defiance Daily Target 2x Short PLTR ETF,ETF,leveraged_single_stock_inverse,"['etf_flag_Y', 'type_etf', 'leverage_context', 'inverse_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+PONX,Investment Managers Series Trust II Tradr 2X Long PONY Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+PPLT,abrdn Physical Platinum Shares ETF,ETF,commodity_physical_trust,"['etf_flag_Y', 'type_etf', 'physical_keyword']",2025-11-05T09:39:35-06:00
+PSLV,Sprott Physical Silver Trust ETV,Trust,commodity_physical_trust,"['etf_flag_Y', 'type_trust_with_commodity', 'physical_keyword']",2025-11-05T09:39:35-06:00
+PSQ,ProShares Short QQQ,ETF,leveraged_single_stock_inverse,"['etf_flag_Y', 'type_etf', 'inverse_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+PST,ProShares UltraShort Lehman 7-10 Year Treasury,ETF,leveraged_index_inverse,"['etf_flag_Y', 'type_etf', 'brand_proshares_ultrashort_implies_minus2x', 'implied_multiplier_2x']",2025-11-05T09:39:35-06:00
+PTIR,GraniteShares 2x Long PLTR Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+PULT,Putnam ETF Trust Putnam ESG Ultra Short ETF,ETF,leveraged_single_stock_inverse,"['etf_flag_Y', 'type_etf', 'inverse_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+PXIU,ETF Opportunities Trust T-REX 2X Long UPXI Daily Target ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+PYPG,Leverage Shares 2X Long PYPL Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+QBER,Elevation Series Trust TrueShares Quarterly Bear Hedge ETF,ETF,leveraged_index_inverse,"['etf_flag_Y', 'type_etf', 'inverse_context']",2025-11-05T09:39:35-06:00
+QBF,Innovator ETFs Trust Innovator Uncapped Bitcoin 20 Floor ETF - Quarterly,Trust,crypto_trust,"['etf_flag_Y', 'type_trust_with_commodity']",2025-11-05T09:39:35-06:00
+QBTX,Tradr 2X Long QBTS Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+QBTZ,Defiance Daily Target 2x Short QBTS ETF,ETF,leveraged_single_stock_inverse,"['etf_flag_Y', 'type_etf', 'leverage_context', 'inverse_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+QCMD,Direxion Daily QCOM Bear 1X ETF,ETF,leveraged_single_stock_inverse,"['etf_flag_Y', 'type_etf', 'leverage_context', 'inverse_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+QCML,GraniteShares 2x Long QCOM Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+QCMU,Direxion Daily QCOM Bull 2X ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+QID,ProShares UltraShort QQQ,ETF,leveraged_index_inverse,"['etf_flag_Y', 'type_etf', 'brand_proshares_ultrashort_implies_minus2x', 'implied_multiplier_2x']",2025-11-05T09:39:35-06:00
+QLD,ProShares Ultra QQQ,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'brand_proshares_ultra_implies_2x', 'implied_multiplier_2x']",2025-11-05T09:39:35-06:00
+QPUX,Defiance 2X Daily Long Pure Quantum ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+QQDN,ProShares UltraShort QQQ Mega,ETF,leveraged_index_inverse,"['etf_flag_Y', 'type_etf', 'brand_proshares_ultrashort_implies_minus2x', 'implied_multiplier_2x']",2025-11-05T09:39:35-06:00
+QQQD,Direxion Daily Magnificent 7 Bear 1X Shares,ETF,leveraged_index_inverse,"['etf_flag_Y', 'type_etf', 'leverage_context', 'inverse_context']",2025-11-05T09:39:35-06:00
+QQQP,Tradr 2X Long Innovation 100 Quarterly ETF,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'leverage_context']",2025-11-05T09:39:35-06:00
+QQQU,Direxion Daily Magnificent 7 Bull 2X Shares,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'leverage_context']",2025-11-05T09:39:35-06:00
+QQUP,ProShares Ultra QQQ Mega,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'brand_proshares_ultra_implies_2x', 'implied_multiplier_2x']",2025-11-05T09:39:35-06:00
+QQXL,ProShares Ultra QQQ Top 30,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'brand_proshares_ultra_implies_2x', 'implied_multiplier_2x']",2025-11-05T09:39:35-06:00
+QSU,Tidal Trust II Defiance Daily Target 2X Long QS ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+QSX,Investment Managers Series Trust II Tradr 2X Long QS Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+QUBX,Tradr 2X Long QUBT Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+QULL,ETRACS 2x Leveraged MSCI US Quality Factor TR ETN,ETN,leveraged_index_long,"['etf_flag_Y', 'type_etn_by_name', 'leverage_context']",2025-11-05T09:39:35-06:00
+RBLU,ETF Opportunities Trust T-REX 2X Long RBLX Daily Target ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+RDTL,GraniteShares 2x Long RDDT Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+REK,ProShares Short Real Estate,ETF,leveraged_single_stock_inverse,"['etf_flag_Y', 'type_etf', 'inverse_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+REKT,Direxion Shares ETF Trust Direxion Daily Crypto Industry Bear 1X Shares,ETF,leveraged_index_inverse,"['etf_flag_Y', 'type_etf', 'leverage_context', 'inverse_context']",2025-11-05T09:39:35-06:00
+RETL,Direxion Daily Retail Bull 3X Shares ETF,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'leverage_context']",2025-11-05T09:39:35-06:00
+REW,ProShares UltraShort Technology,ETF,leveraged_index_inverse,"['etf_flag_Y', 'type_etf', 'brand_proshares_ultrashort_implies_minus2x', 'implied_multiplier_2x']",2025-11-05T09:39:35-06:00
+RGTU,Tradr 2X Long RGTI Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+RGTX,Defiance Daily Target 2X Long RGTI ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+RGTZ,Defiance Daily Target 2x Short RGTI ETF,ETF,leveraged_single_stock_inverse,"['etf_flag_Y', 'type_etf', 'leverage_context', 'inverse_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+RIOX,Tidal Trust II Defiance Daily Target 2X Long RIOT ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+RKLX,Defiance Daily Target 2X Long RKLB ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+ROBN,ETF Opportunities Trust T-Rex 2X Long HOOD Daily Target ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+ROM,ProShares Ultra Technology,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'brand_proshares_ultra_implies_2x', 'implied_multiplier_2x']",2025-11-05T09:39:35-06:00
+RSSX,Tidal Trust II Return Stacked U.S. Stocks & Gold/Bitcoin ETF,Trust,crypto_trust,"['etf_flag_Y', 'type_trust_with_commodity']",2025-11-05T09:39:35-06:00
+RTXG,Leverage Shares 2X Long RTX Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+RVNL,GraniteShares 2x Long RIVN Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+RWM,ProShares Short Russell2000,ETF,leveraged_index_inverse,"['etf_flag_Y', 'type_etf', 'inverse_context']",2025-11-05T09:39:35-06:00
+RXD,ProShares UltraShort Health Care,ETF,leveraged_index_inverse,"['etf_flag_Y', 'type_etf', 'brand_proshares_ultrashort_implies_minus2x', 'implied_multiplier_2x']",2025-11-05T09:39:35-06:00
+RXL,ProShares Ultra Health Care,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'brand_proshares_ultra_implies_2x', 'implied_multiplier_2x']",2025-11-05T09:39:35-06:00
+SAA,ProShares Ultra SmallCap600,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'brand_proshares_ultra_implies_2x', 'implied_multiplier_2x']",2025-11-05T09:39:35-06:00
+SARK,Tradr 1X Short Innovation Daily ETF,ETF,leveraged_index_inverse,"['etf_flag_Y', 'type_etf', 'inverse_context']",2025-11-05T09:39:35-06:00
+SBB,ProShares Short SmallCap600,ETF,leveraged_index_inverse,"['etf_flag_Y', 'type_etf', 'inverse_context']",2025-11-05T09:39:35-06:00
+SBIT,ProShares Trust ProShares UltraShort Bitcoin ETF,Trust,leveraged_index_inverse,"['etf_flag_Y', 'type_trust_with_commodity', 'brand_proshares_ultrashort_implies_minus2x', 'implied_multiplier_2x']",2025-11-05T09:39:35-06:00
+SBTU,ETF Opportunities Trust T-REX 2X Long SBET Daily Target ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+SCC,ProShares UltraShort Consumer Discretionary,ETF,leveraged_index_inverse,"['etf_flag_Y', 'type_etf', 'brand_proshares_ultrashort_implies_minus2x', 'implied_multiplier_2x']",2025-11-05T09:39:35-06:00
+SCDL,ETRACS 2x Leveraged US Dividend Factor TR ETN,ETN,leveraged_index_long,"['etf_flag_Y', 'type_etn_by_name', 'leverage_context']",2025-11-05T09:39:35-06:00
+SCLS,Stoneport Advisors Commodity Long Short ETF,ETF,leveraged_single_stock_inverse,"['etf_flag_Y', 'type_etf', 'inverse_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+SCO,ProShares UltraShort Bloomberg Crude Oil,ETF,leveraged_index_inverse,"['etf_flag_Y', 'type_etf', 'brand_proshares_ultrashort_implies_minus2x', 'implied_multiplier_2x']",2025-11-05T09:39:35-06:00
+SDD,ProShares UltraShort SmallCap600,ETF,leveraged_index_inverse,"['etf_flag_Y', 'type_etf', 'brand_proshares_ultrashort_implies_minus2x', 'implied_multiplier_2x']",2025-11-05T09:39:35-06:00
+SDOW,UltraPro Short Dow30,ETF,leveraged_index_inverse,"['etf_flag_Y', 'type_etf', 'brand_ultrapro_implies_3x', 'inverse_keyword_under_brand', 'implied_multiplier_3x']",2025-11-05T09:39:35-06:00
+SDP,ProShares UltraShort Utilities,ETF,leveraged_index_inverse,"['etf_flag_Y', 'type_etf', 'brand_proshares_ultrashort_implies_minus2x', 'implied_multiplier_2x']",2025-11-05T09:39:35-06:00
+SDS,ProShares UltraShort S&P500,ETF,leveraged_index_inverse,"['etf_flag_Y', 'type_etf', 'brand_proshares_ultrashort_implies_minus2x', 'implied_multiplier_2x']",2025-11-05T09:39:35-06:00
+SEF,ProShares Short Financials,ETF,leveraged_index_inverse,"['etf_flag_Y', 'type_etf', 'inverse_context']",2025-11-05T09:39:35-06:00
+SETH,ProShares Short Ether ETF,ETF,leveraged_single_stock_inverse,"['etf_flag_Y', 'type_etf', 'inverse_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+SGOL,abrdn Physical Gold Shares ETF,ETF,commodity_physical_trust,"['etf_flag_Y', 'type_etf', 'physical_keyword']",2025-11-05T09:39:35-06:00
+SH,ProShares Short S&P500,ETF,leveraged_single_stock_inverse,"['etf_flag_Y', 'type_etf', 'inverse_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+SHNY,"Bank Of Montreal MicroSectors Gold 3X Leveraged ETNs due January 29, 2043",ETN,leveraged_index_long,"['etf_flag_Y', 'type_etn_by_name', 'leverage_context']",2025-11-05T09:39:35-06:00
+SHPD,Direxion Daily SHOP Bear 1X ETF,ETF,leveraged_single_stock_inverse,"['etf_flag_Y', 'type_etf', 'leverage_context', 'inverse_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+SHPU,Direxion Daily SHOP Bull 2X ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+SHRT,Gotham Short Strategies ETF,ETF,leveraged_index_inverse,"['etf_flag_Y', 'type_etf', 'inverse_context']",2025-11-05T09:39:35-06:00
+SHYD,VanEck ETF Trust VanEck Short High Yield Muni ETF,ETF,leveraged_single_stock_inverse,"['etf_flag_Y', 'type_etf', 'inverse_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+SIJ,ProShares UltraShort Industrials,ETF,leveraged_index_inverse,"['etf_flag_Y', 'type_etf', 'brand_proshares_ultrashort_implies_minus2x', 'implied_multiplier_2x']",2025-11-05T09:39:35-06:00
+SILJ,Amplify ETF Trust Amplify Junior Silver Miners ETF,Trust,commodity_physical_trust,"['etf_flag_Y', 'type_trust_with_commodity']",2025-11-05T09:39:35-06:00
+SIVR,abrdn Physical Silver Shares ETF,ETF,commodity_physical_trust,"['etf_flag_Y', 'type_etf', 'physical_keyword']",2025-11-05T09:39:35-06:00
+SJB,ProShares Short High Yield,ETF,leveraged_single_stock_inverse,"['etf_flag_Y', 'type_etf', 'inverse_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+SKF,ProShares UltraShort Financials,ETF,leveraged_index_inverse,"['etf_flag_Y', 'type_etf', 'brand_proshares_ultrashort_implies_minus2x', 'implied_multiplier_2x']",2025-11-05T09:39:35-06:00
+SKRE,Tuttle Capital Daily 2X Inverse Regional Banks ETF,ETF,leveraged_index_inverse,"['etf_flag_Y', 'type_etf', 'leverage_context', 'inverse_context']",2025-11-05T09:39:35-06:00
+SKYU,ProShares Ultra Cloud Computing,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'brand_proshares_ultra_implies_2x', 'implied_multiplier_2x']",2025-11-05T09:39:35-06:00
+SLON,ProShares Trust ProShares Ultra Solana ETF,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'brand_proshares_ultra_implies_2x', 'implied_multiplier_2x']",2025-11-05T09:39:35-06:00
+SLTY,Tidal Trust II YieldMax Ultra Short Option Income Strategy ETF,ETF,leveraged_index_inverse,"['etf_flag_Y', 'type_etf', 'inverse_context']",2025-11-05T09:39:35-06:00
+SLV,iShares Silver Trust,Trust,commodity_physical_trust,"['etf_flag_Y', 'type_trust_with_commodity']",2025-11-05T09:39:35-06:00
+SLVR,Sprott Silver Miners & Physical Silver ETF,ETF,commodity_physical_trust,"['etf_flag_Y', 'type_etf', 'physical_keyword']",2025-11-05T09:39:35-06:00
+SMCL,GraniteShares 2x Long SMCI Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+SMCX,Defiance Daily Target 2X Long SMCI ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+SMCZ,Defiance Daily Target 2X Short SMCI ETF,ETF,leveraged_single_stock_inverse,"['etf_flag_Y', 'type_etf', 'leverage_context', 'inverse_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+SMDD,UltraPro Short MidCap400,ETF,leveraged_index_inverse,"['etf_flag_Y', 'type_etf', 'brand_ultrapro_implies_3x', 'inverse_keyword_under_brand', 'implied_multiplier_3x']",2025-11-05T09:39:35-06:00
+SMHB,ETRACS Monthly Pay 2x Leveraged Small Cap High Dividend ETN Series B,ETN,leveraged_index_long,"['type_etn_by_name', 'leverage_context']",2025-11-05T09:39:35-06:00
+SMN,ProShares UltraShort Materials,ETF,leveraged_index_inverse,"['etf_flag_Y', 'type_etf', 'brand_proshares_ultrashort_implies_minus2x', 'implied_multiplier_2x']",2025-11-05T09:39:35-06:00
+SMST,Defiance Daily Target 2x Short MSTR ETF,ETF,leveraged_single_stock_inverse,"['etf_flag_Y', 'type_etf', 'leverage_context', 'inverse_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+SMU,Tradr 2X Long SMR Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+SMUP,ETF Opportunities Trust T-REX 2X Long SMR Daily Target ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+SNOU,ETF Opp Tr T-REX 2X Long SNOW Daily Target ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+SOFX,Defiance Daily Target 2X Long SOFI ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+SOLT,2x Solana ETF,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'leverage_context']",2025-11-05T09:39:35-06:00
+SOUX,Defiance Daily Target 2X Long SOUN ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+SOXL,Direxion Daily Semiconductor Bull 3x Shares,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'leverage_context']",2025-11-05T09:39:35-06:00
+SOXS,Direxion Daily Semiconductor Bear 3x Shares,ETF,leveraged_index_inverse,"['etf_flag_Y', 'type_etf', 'leverage_context', 'inverse_context']",2025-11-05T09:39:35-06:00
+SPBC,Simplify US Equity PLUS Bitcoin Strategy ETF,ETF,crypto_futures,"['etf_flag_Y', 'type_etf', 'futures_keyword']",2025-11-05T09:39:35-06:00
+SPDN,Direxion Daily S&P 500 Bear 1X Shares,ETF,leveraged_index_inverse,"['etf_flag_Y', 'type_etf', 'leverage_context', 'inverse_context']",2025-11-05T09:39:35-06:00
+SPPP,Sprott Physical Platinum and Palladium Trust,Trust,commodity_physical_trust,"['etf_flag_Y', 'type_trust_with_commodity', 'physical_keyword']",2025-11-05T09:39:35-06:00
+SPUU,Direxion Daily S&P 500 Bull 2X Shares,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'leverage_context']",2025-11-05T09:39:35-06:00
+SPXL,Direxion Daily S&P 500 Bull 3X Shares,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'leverage_context']",2025-11-05T09:39:35-06:00
+SPXS,Direxion Daily S&P 500 Bear 3X,ETF,leveraged_index_inverse,"['etf_flag_Y', 'type_etf', 'leverage_context', 'inverse_context']",2025-11-05T09:39:35-06:00
+SPXU,ProShares UltraPro Short S&P500,ETF,leveraged_single_stock_inverse,"['etf_flag_Y', 'type_etf', 'brand_ultrapro_implies_3x', 'inverse_keyword_under_brand', 'implied_multiplier_3x']",2025-11-05T09:39:35-06:00
+SPYQ,Tradr 2X Long SPY Quarterly ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+SPYU,"Bank Of Montreal MAX S&P 500 4X Leveraged ETNs due October 30, 2043",ETN,leveraged_index_long,"['etf_flag_Y', 'type_etn_by_name', 'leverage_context']",2025-11-05T09:39:35-06:00
+SQQQ,ProShares UltraPro Short QQQ,ETF,leveraged_single_stock_inverse,"['etf_flag_Y', 'type_etf', 'brand_ultrapro_implies_3x', 'inverse_keyword_under_brand', 'implied_multiplier_3x']",2025-11-05T09:39:35-06:00
+SRPU,Investment Managers Series Trust II Tradr 2X Long SRPT Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+SRS,ProShares UltraShort Real Estate,ETF,leveraged_index_inverse,"['etf_flag_Y', 'type_etf', 'brand_proshares_ultrashort_implies_minus2x', 'implied_multiplier_2x']",2025-11-05T09:39:35-06:00
+SRTY,ProShares UltraPro Short Russell2000,ETF,leveraged_index_inverse,"['etf_flag_Y', 'type_etf', 'brand_ultrapro_implies_3x', 'inverse_keyword_under_brand', 'implied_multiplier_3x']",2025-11-05T09:39:35-06:00
+SSG,ProShares UltraShort Semiconductors,ETF,leveraged_index_inverse,"['etf_flag_Y', 'type_etf', 'brand_proshares_ultrashort_implies_minus2x', 'implied_multiplier_2x']",2025-11-05T09:39:35-06:00
+SSO,ProShares Ultra S&P500,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'brand_proshares_ultra_implies_2x', 'implied_multiplier_2x']",2025-11-05T09:39:35-06:00
+SVIX,VS TR -1x Short VIX Futures ETF,ETF,leveraged_single_stock_inverse,"['etf_flag_Y', 'type_etf', 'inverse_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+SVXY,ProShares Short VIX Short Term Futures ETF,ETF,commodity_futures,"['etf_flag_Y', 'type_etf', 'futures_keyword']",2025-11-05T09:39:35-06:00
+SZK,ProShares UltraShort Consumer Staples,ETF,leveraged_index_inverse,"['etf_flag_Y', 'type_etf', 'brand_proshares_ultrashort_implies_minus2x', 'implied_multiplier_2x']",2025-11-05T09:39:35-06:00
+TARK,Tradr 2X Long Innovation ETF,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'leverage_context']",2025-11-05T09:39:35-06:00
+TBF,ProShares Short 20+ Year Treasury,ETF,leveraged_index_inverse,"['etf_flag_Y', 'type_etf', 'inverse_context']",2025-11-05T09:39:35-06:00
+TBT,ProShares UltraShort Lehman 20  Year Treasury,ETF,leveraged_index_inverse,"['etf_flag_Y', 'type_etf', 'brand_proshares_ultrashort_implies_minus2x', 'implied_multiplier_2x']",2025-11-05T09:39:35-06:00
+TBX,ProShares Short 7 10 Year Treasury,ETF,leveraged_index_inverse,"['etf_flag_Y', 'type_etf', 'inverse_context']",2025-11-05T09:39:35-06:00
+TBXU,Direxion Shares ETF Trust Direxion Daily Biotech Top 5 Bull 2X ETF,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'leverage_context']",2025-11-05T09:39:35-06:00
+TECL,Direxion Technology Bull 3X Shares,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'leverage_context']",2025-11-05T09:39:35-06:00
+TECS,Direxion Technology Bear 3X Shares,ETF,leveraged_index_inverse,"['etf_flag_Y', 'type_etf', 'leverage_context', 'inverse_context']",2025-11-05T09:39:35-06:00
+TEMT,Tradr 2X Long TEM Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+TEXU,Direxion Shares ETF Trust Direxion Daily Energy Top 5 Bull 2X ETF,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'leverage_context']",2025-11-05T09:39:35-06:00
+TMF,Direxion Daily 20-Yr Treasury Bull 3x Shrs,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'leverage_context']",2025-11-05T09:39:35-06:00
+TMV,Direxion Daily 20-Year Treasury Bear 3X,ETF,leveraged_index_inverse,"['etf_flag_Y', 'type_etf', 'leverage_context', 'inverse_context']",2025-11-05T09:39:35-06:00
+TNA,Direxion Small Cap Bull 3X Shares,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+TOAK,Manager Directed Portfolios Twin Oak Short Horizon Absolute Return ETF,ETF,leveraged_index_inverse,"['etf_flag_Y', 'type_etf', 'inverse_context']",2025-11-05T09:39:35-06:00
+TPOR,Direxion Daily Transportation Bull 3X Shares,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'leverage_context']",2025-11-05T09:39:35-06:00
+TQQQ,ProShares UltraPro QQQ,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'brand_ultrapro_implies_3x', 'implied_multiplier_3x']",2025-11-05T09:39:35-06:00
+TSDD,GraniteShares 2x Short TSLA Daily ETF,ETF,leveraged_single_stock_inverse,"['etf_flag_Y', 'type_etf', 'leverage_context', 'inverse_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+TSLG,Leverage Shares 2X Long TSLA Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+TSLI,ProShares Trust ProShares Ultra TSLA,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'brand_proshares_ultra_implies_2x', 'implied_multiplier_2x']",2025-11-05T09:39:35-06:00
+TSLL,Direxion Daily TSLA Bull 2X Shares,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+TSLO,Themes ETF Trust Leverage Shares 2x Capped Accelerated TSLA Monthly ETF,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'leverage_context']",2025-11-05T09:39:35-06:00
+TSLQ,Tradr 2X Short TSLA Daily ETF,ETF,leveraged_single_stock_inverse,"['etf_flag_Y', 'type_etf', 'leverage_context', 'inverse_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+TSLR,GraniteShares 2x Long TSLA Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+TSLS,Direxion Daily TSLA Bear 1X Shares,ETF,leveraged_single_stock_inverse,"['etf_flag_Y', 'type_etf', 'leverage_context', 'inverse_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+TSLT,ETF Opportunities Trust T-REX 2X Long Tesla Daily Target ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+TSLZ,ETF Opportunities Trust T-Rex 2X Inverse Tesla Daily Target ETF,ETF,leveraged_index_inverse,"['etf_flag_Y', 'type_etf', 'leverage_context', 'inverse_context']",2025-11-05T09:39:35-06:00
+TSMG,Leverage Shares 2X Long TSM Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+TSMU,GraniteShares 2x Long TSM Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+TSMX,Direxion Daily TSM Bull 2X Shares,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+TSMZ,Direxion Daily TSM Bear 1X Shares,ETF,leveraged_single_stock_inverse,"['etf_flag_Y', 'type_etf', 'leverage_context', 'inverse_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+TSXD,Direxion Shares ETF Trust Direxion Daily Semiconductors Top 5 Bear 2X ETF,ETF,leveraged_index_inverse,"['etf_flag_Y', 'type_etf', 'leverage_context', 'inverse_context']",2025-11-05T09:39:35-06:00
+TSXU,Direxion Shares ETF Trust Direxion Daily Semiconductors Top 5 Bull 2X ETF,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'leverage_context']",2025-11-05T09:39:35-06:00
+TTDU,ETF Opportunities Trust T-REX 2X Long TTD Daily Target ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+TTT,ProShares UltraPro Short 20 Year Treasury,ETF,leveraged_index_inverse,"['etf_flag_Y', 'type_etf', 'brand_ultrapro_implies_3x', 'inverse_keyword_under_brand', 'implied_multiplier_3x']",2025-11-05T09:39:35-06:00
+TTXD,Direxion Shares ETF Trust Direxion Daily Technology Top 5 Bear 2X ETF,ETF,leveraged_index_inverse,"['etf_flag_Y', 'type_etf', 'leverage_context', 'inverse_context']",2025-11-05T09:39:35-06:00
+TTXU,Direxion Shares ETF Trust Direxion Daily Technology Top 5 Bull 2X ETF,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'leverage_context']",2025-11-05T09:39:35-06:00
+TWM,ProShares UltraShort Russell2000,ETF,leveraged_index_inverse,"['etf_flag_Y', 'type_etf', 'brand_proshares_ultrashort_implies_minus2x', 'implied_multiplier_2x']",2025-11-05T09:39:35-06:00
+TYD,Direxion Daily 10-Yr Treasury Bull 3x Shrs,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'leverage_context']",2025-11-05T09:39:35-06:00
+TYO,Direxion Daily 10-Yr Treasury Bear 3x Shrs,ETF,leveraged_index_inverse,"['etf_flag_Y', 'type_etf', 'leverage_context', 'inverse_context']",2025-11-05T09:39:35-06:00
+TZA,Direxion Small Cap Bear 3X Shares,ETF,leveraged_single_stock_inverse,"['etf_flag_Y', 'type_etf', 'leverage_context', 'inverse_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+UBOT,"Direxion Daily Robotics, Artificial Intelligence & Automation Index Bull 2X Shares",ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+UBR,ProShares Ultra MSCI Brazil Capped,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'brand_proshares_ultra_implies_2x', 'implied_multiplier_2x']",2025-11-05T09:39:35-06:00
+UBRL,GraniteShares 2x Long UBER Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+UBT,ProShares Ultra 20+ Year Treasury,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'brand_proshares_ultra_implies_2x', 'implied_multiplier_2x']",2025-11-05T09:39:35-06:00
+UCC,ProShares Ultra Consumer Discretionary,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'brand_proshares_ultra_implies_2x', 'implied_multiplier_2x']",2025-11-05T09:39:35-06:00
+UCO,ProShares Ultra Bloomberg Crude Oil,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'brand_proshares_ultra_implies_2x', 'implied_multiplier_2x']",2025-11-05T09:39:35-06:00
+UCYB,ProShares Ultra Nasdaq Cybersecurity,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'brand_proshares_ultra_implies_2x', 'implied_multiplier_2x']",2025-11-05T09:39:35-06:00
+UDOW,ProShares UltraPro Dow30,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'brand_ultrapro_implies_3x', 'implied_multiplier_3x']",2025-11-05T09:39:35-06:00
+UGE,ProShares Ultra Consumer Staples,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'brand_proshares_ultra_implies_2x', 'implied_multiplier_2x']",2025-11-05T09:39:35-06:00
+UGL,ProShares Ultra Gold,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'brand_proshares_ultra_implies_2x', 'implied_multiplier_2x']",2025-11-05T09:39:35-06:00
+UJB,ProShares Ultra High Yield ETF,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'brand_proshares_ultra_implies_2x', 'implied_multiplier_2x']",2025-11-05T09:39:35-06:00
+ULE,ProShares Ultra Euro,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'brand_proshares_ultra_implies_2x', 'implied_multiplier_2x']",2025-11-05T09:39:35-06:00
+UMDD,UltraPro MidCap400,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'brand_ultrapro_implies_3x', 'implied_multiplier_3x']",2025-11-05T09:39:35-06:00
+UNHG,Leverage Shares 2X Long UNH Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+UNX,Investment Managers Series Trust II Tradr 2X Long U Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+UPRO,ProShares UltraPro S&P 500,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'brand_ultrapro_implies_3x', 'implied_multiplier_3x']",2025-11-05T09:39:35-06:00
+UPSX,Tradr 2X Long UPST Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+UPV,ProShares Ultra FTSE Europe,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'brand_proshares_ultra_implies_2x', 'implied_multiplier_2x']",2025-11-05T09:39:35-06:00
+UPW,ProShares Ultra Utilities,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'brand_proshares_ultra_implies_2x', 'implied_multiplier_2x']",2025-11-05T09:39:35-06:00
+URAA,Direxion Shares ETF Trust Direxion Daily Uranium Industry Bull 2X Shares,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'leverage_context']",2025-11-05T09:39:35-06:00
+URE,ProShares Ultra Real Estate,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'brand_proshares_ultra_implies_2x', 'implied_multiplier_2x']",2025-11-05T09:39:35-06:00
+URSP,ProShares Trust ProShares Ultra S&P 500 Equal Weight,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'brand_proshares_ultra_implies_2x', 'implied_multiplier_2x']",2025-11-05T09:39:35-06:00
+URTY,ProShares UltraPro Russell2000,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'brand_ultrapro_implies_3x', 'implied_multiplier_3x']",2025-11-05T09:39:35-06:00
+USD,ProShares Ultra Semiconductors,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'brand_proshares_ultra_implies_2x', 'implied_multiplier_2x']",2025-11-05T09:39:35-06:00
+USG,USCF Gold Strategy Plus Income Fund,ETF,commodity_futures,"['etf_flag_Y', 'type_etf', 'futures_keyword']",2025-11-05T09:39:35-06:00
+USML,ETRACS 2x Leveraged MSCI US Minimum Volatility Factor TR ETN,ETN,leveraged_index_long,"['etf_flag_Y', 'type_etn_by_name', 'leverage_context']",2025-11-05T09:39:35-06:00
+USNG,Amplify ETF Trust Amplify Samsung U.S. Natural Gas Infrastructure ETF,Trust,commodity_physical_trust,"['etf_flag_Y', 'type_trust_with_commodity']",2025-11-05T09:39:35-06:00
+UST,ProShares Ultra 7-10 Year Treasury,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'brand_proshares_ultra_implies_2x', 'implied_multiplier_2x']",2025-11-05T09:39:35-06:00
+UTSL,Direxion Daily Utilities Bull 3X Shares,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'leverage_context']",2025-11-05T09:39:35-06:00
+UVIX,VS TR 2x Long VIX Futures ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+UVXY,ProShares Trust Ultra VIX Short Term Futures ETF,Trust,commodity_futures,"['etf_flag_Y', 'type_trust_with_commodity', 'futures_keyword']",2025-11-05T09:39:35-06:00
+UWM,ProShares Ultra Russell2000,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'brand_proshares_ultra_implies_2x', 'implied_multiplier_2x']",2025-11-05T09:39:35-06:00
+UXI,ProShares Ultra Industrials,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'brand_proshares_ultra_implies_2x', 'implied_multiplier_2x']",2025-11-05T09:39:35-06:00
+UXRP,ProShares Trust ProShares Ultra XRP ETF,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'brand_proshares_ultra_implies_2x', 'implied_multiplier_2x']",2025-11-05T09:39:35-06:00
+UYG,ProShares Ultra Financials,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'brand_proshares_ultra_implies_2x', 'implied_multiplier_2x']",2025-11-05T09:39:35-06:00
+UYM,ProShares Ultra Materials,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'brand_proshares_ultra_implies_2x', 'implied_multiplier_2x']",2025-11-05T09:39:35-06:00
+VIXM,ProShares Trust VIX Mid-Term Futures ETF,Trust,commodity_futures,"['etf_flag_Y', 'type_trust_with_commodity', 'futures_keyword']",2025-11-05T09:39:35-06:00
+VIXY,ProShares Trust VIX Short-Term Futures ETF,Trust,commodity_futures,"['etf_flag_Y', 'type_trust_with_commodity', 'futures_keyword']",2025-11-05T09:39:35-06:00
+VOYX,Tradr 2X Long VOYG Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+VRTL,GraniteShares 2x Long VRT Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+VSTL,Defiance Daily Target 2X Long VST ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+VXX,iPath Series B S&P 500 VIX Short-Term Futures ETN,ETN,commodity_futures,"['type_etn_by_name', 'futures_keyword']",2025-11-05T09:39:35-06:00
+VXZ,iPath Series B S&P 500 VIX Mid-Term Futures ETN,ETN,commodity_futures,"['type_etn_by_name', 'futures_keyword']",2025-11-05T09:39:35-06:00
+VYLD,"J P Morgan Chase & Co Inverse VIX  Short-Term Futures ETNs due March 22, 2045",ETN,commodity_futures,"['etf_flag_Y', 'type_etn_by_name', 'futures_keyword']",2025-11-05T09:39:35-06:00
+WANT,Direxion Daily Consumer Discretionary Bull 3X Shares,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'leverage_context']",2025-11-05T09:39:35-06:00
+WEBL,Direxion Daily Dow Jones Internet Bull 3X Shares,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'leverage_context']",2025-11-05T09:39:35-06:00
+WEBS,Direxion Daily Dow Jones Internet Bear 3X Shares,ETF,leveraged_index_inverse,"['etf_flag_Y', 'type_etf', 'leverage_context', 'inverse_context']",2025-11-05T09:39:35-06:00
+WHTX,Volatility Shares Trust 2x Wheat ETF,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'leverage_context']",2025-11-05T09:39:35-06:00
+WILD,Tidal Trust III VistaShares Animal Spirits Daily 2X Strategy ETF,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'leverage_context']",2025-11-05T09:39:35-06:00
+WNTR,Tidal Trust II YieldMax  MSTR Short Option Income Strategy ETF,ETF,leveraged_index_inverse,"['etf_flag_Y', 'type_etf', 'inverse_context']",2025-11-05T09:39:35-06:00
+WTID,Bank Of Montreal MicroSectors Energy 3X Inverse Leveraged ETNs,ETN,leveraged_index_inverse,"['etf_flag_Y', 'type_etn_by_name', 'leverage_context', 'inverse_context']",2025-11-05T09:39:35-06:00
+WTIU,Bank Of Montreal MicroSectors Energy 3X Leveraged ETNs,ETN,leveraged_index_long,"['etf_flag_Y', 'type_etn_by_name', 'leverage_context']",2025-11-05T09:39:35-06:00
+WULX,Investment Managers Series Trust II Tradr 2X Long WULF Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+WXET,Listed Funds Trust Teucrium 2x Daily Wheat ETF,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'leverage_context']",2025-11-05T09:39:35-06:00
+XOMX,Direxion Daily XOM Bull 2X Shares,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+XOMZ,Direxion Daily XOM Bear 1X Shares,ETF,leveraged_single_stock_inverse,"['etf_flag_Y', 'type_etf', 'leverage_context', 'inverse_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+XPM,Defiance Daily Target 2x Long PM ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+XPP,ProShares Ultra FTSE China 50,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'brand_proshares_ultra_implies_2x', 'implied_multiplier_2x']",2025-11-05T09:39:35-06:00
+XRPT,Volatility Shares Trust XRP 2X ETF,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'leverage_context']",2025-11-05T09:39:35-06:00
+XXRP,Listed Funds Trust Teucrium 2x Long Daily XRP ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+XYZG,Leverage Shares 2X Long XYZ Daily ETF,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+YANG,Direxion Daily FTSE China Bear 3x Shares,ETF,leveraged_single_stock_inverse,"['etf_flag_Y', 'type_etf', 'leverage_context', 'inverse_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+YBIT,Tidal Trust II YieldMax Bitcoin Option Income Strategy ETF,Trust,crypto_futures,"['etf_flag_Y', 'type_trust_with_commodity', 'futures_keyword']",2025-11-05T09:39:35-06:00
+YBTC,Roundhill ETF Trust Roundhill Bitcoin Covered Call Strategy ETF,Trust,crypto_futures,"['etf_flag_Y', 'type_trust_with_commodity', 'futures_keyword']",2025-11-05T09:39:35-06:00
+YCL,ProShares Ultra Yen,ETF,leveraged_index_long,"['etf_flag_Y', 'type_etf', 'brand_proshares_ultra_implies_2x', 'implied_multiplier_2x']",2025-11-05T09:39:35-06:00
+YCS,ProShares UltraShort Yen New,ETF,leveraged_index_inverse,"['etf_flag_Y', 'type_etf', 'brand_proshares_ultrashort_implies_minus2x', 'implied_multiplier_2x']",2025-11-05T09:39:35-06:00
+YETH,Roundhill ETF Trust Roundhill Ether Covered Call Strategy ETF,Trust,crypto_futures,"['etf_flag_Y', 'type_trust_with_commodity', 'futures_keyword']",2025-11-05T09:39:35-06:00
+YGLD,Simplify Exchange Traded Funds Simplify Gold Strategy PLUS Income ETF,ETF,commodity_futures,"['etf_flag_Y', 'type_etf', 'futures_keyword']",2025-11-05T09:39:35-06:00
+YINN,Direxion Daily FTSE China Bull 3x Shares,ETF,leveraged_single_stock_long,"['etf_flag_Y', 'type_etf', 'leverage_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+YQQQ,YieldMax Short N100 Option Income Strategy ETF,ETF,leveraged_index_inverse,"['etf_flag_Y', 'type_etf', 'inverse_context']",2025-11-05T09:39:35-06:00
+YXI,ProShares Short FTSE China 50,ETF,leveraged_single_stock_inverse,"['etf_flag_Y', 'type_etf', 'inverse_context', 'single_stock_detected']",2025-11-05T09:39:35-06:00
+ZSL,ProShares UltraShort Silver,ETF,leveraged_index_inverse,"['etf_flag_Y', 'type_etf', 'brand_proshares_ultrashort_implies_minus2x', 'implied_multiplier_2x']",2025-11-05T09:39:35-06:00
