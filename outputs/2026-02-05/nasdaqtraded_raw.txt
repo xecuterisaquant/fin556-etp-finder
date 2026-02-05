@@ -4982,6 +4982,7 @@ Y|HCAT|Health Catalyst, Inc - Common stock|Q|Q|N|100|N|N||HCAT|N
 Y|HCC|Warrior Met Coal, Inc. Common Stock|N| |N|100|N||HCC|HCC|N
 Y|HCHL|Happy City Holdings Limited - Class A Ordinary shares|Q|S|N|100|N|D||HCHL|N
 Y|HCI|HCI Group, Inc. Common Stock|N| |N|100|N||HCI|HCI|N
+Y|HCICU|Hennessy Capital Investment Corp. VIII - Units|Q|G|N|100|N|N||HCICU|N
 Y|HCKT|The Hackett Group, Inc. - Common Stock|Q|Q|N|100|N|N||HCKT|N
 Y|HCM|HUTCHMED (China) Limited - American Depositary Shares|Q|Q|N|100|N|N||HCM|N
 Y|HCMA|HCM III Acquisition Corp. - Class A Ordinary Share|Q|G|N|100|N|N||HCMA|N
@@ -11575,6 +11576,7 @@ Y|VSDA|VictoryShares Dividend Accelerator ETF|Q|G|Y|100|N|N||VSDA|N
 Y|VSDB|Vanguard Short Duration Bond ETF|Z| |Y|100|N||VSDB|VSDB|N
 Y|VSDM|Vanguard Short Duration Tax-Exempt Bond ETF|Z| |Y|100|N||VSDM|VSDM|N
 Y|VSEC|VSE Corporation - Common Stock|Q|Q|N|100|N|N||VSEC|N
+Y|VSECU|VSE Corporation - Tangible Equity Units|Q|Q|N|100|N|N||VSECU|N
 Y|VSEE|VSee Health, Inc. - Common Stock|Q|S|N|100|N|D||VSEE|N
 Y|VSEEW|VSee Health, Inc. - Warrant|Q|S|N|100|N|N||VSEEW|N
 Y|VSGX|Vanguard ESG International Stock ETF|Z| |Y|100|N||VSGX|VSGX|N
@@ -12277,4 +12279,4 @@ Y|ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Q|N|100|Y|N||ZXYZ.A|N
 Y|ZXZZT|NASDAQ TEST STOCK|Q|G|N|100|Y|N||ZXZZT|N
 Y|ZYBT|Zhengye Biotechnology Holding Limited - Ordinary Shares|Q|S|N|100|N|N||ZYBT|N
 Y|ZYME|Zymeworks Inc. - Common Stock|Q|Q|N|100|N|N||ZYME|N
-File Creation Time: 0205202610:02|||||
+File Creation Time: 0205202611:02|||||
