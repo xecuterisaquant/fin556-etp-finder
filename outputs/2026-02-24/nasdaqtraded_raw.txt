@@ -2560,6 +2560,7 @@ Y|CSX|CSX Corporation - Common Stock|Q|Q|N|100|N|N||CSX|N
 Y|CTA|Simplify Managed Futures Strategy ETF|P| |Y|100|N||CTA|CTA|N
 Y|CTA$A|EIDP, Inc. Preferred Stock $3.50 Series|N| |N|100|N||CTApA|CTA-A|N
 Y|CTA$B|EIDP, Inc. Preferred Stock $4.50 Series|N| |N|100|N||CTApB|CTA-B|N
+Y|CTAAU|ClearThink 1 Acquisition Corp. - Units|Q|G|N|100|N|N||CTAAU|N
 Y|CTAP|Simplify US Equity PLUS Managed Futures Strategy ETF|P| |Y|100|N||CTAP|CTAP|N
 Y|CTAS|Cintas Corporation - Common Stock|Q|Q|N|100|N|N||CTAS|N
 Y|CTBB|Qwest Corporation 6.5% Notes due 2056|N| |N|100|N||CTBB|CTBB|N
@@ -12342,4 +12343,4 @@ Y|ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Q|N|100|Y|N||ZXYZ.A|N
 Y|ZXZZT|NASDAQ TEST STOCK|Q|G|N|100|Y|N||ZXZZT|N
 Y|ZYBT|Zhengye Biotechnology Holding Limited - Ordinary Shares|Q|S|N|100|N|N||ZYBT|N
 Y|ZYME|Zymeworks Inc. - Common Stock|Q|Q|N|100|N|N||ZYME|N
-File Creation Time: 0224202610:02|||||
+File Creation Time: 0224202611:02|||||
